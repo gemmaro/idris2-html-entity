@@ -1,14 +1,13 @@
 package html-entity
-version = 0.1.0
+version = 0.1.1
 authors = "gemmaro"
-
--- maintainers =
--- license =
--- brief =
--- readme =
--- homepage =
--- sourceloc =
--- bugtracker =
+maintainers = "gemmaro"
+license = "MIT"
+brief = "HTML entity parser"
+readme = "https://gitlab.com/gemmaro/idris2-html-entity/-/blob/main/README.md"
+homepage = "https://gitlab.com/gemmaro/idris2-html-entity"
+sourceloc = "https://gitlab.com/gemmaro/idris2-html-entity"
+bugtracker = "https://gitlab.com/gemmaro/idris2-html-entity/-/issues"
 
 -- the Idris2 version required (e.g. langversion >= 0.5.1)
 -- langversion
