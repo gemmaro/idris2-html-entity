@@ -54,10 +54,6 @@ entity_Acy : Entry
 entity_Acy = MkEntry "&Acy;" "\1040" [1040] "Acy"
 
 export
-entity_Afr : Entry
-entity_Afr = MkEntry "&Afr;" "\NUL\NUL" [120068] "Afr"
-
-export
 entity_Agrave_withoutSemicolon : Entry
 entity_Agrave_withoutSemicolon = MkEntry "&Agrave" "\192" [192] "Agrave"
 
@@ -82,10 +78,6 @@ entity_Aogon : Entry
 entity_Aogon = MkEntry "&Aogon;" "\260" [260] "Aogon"
 
 export
-entity_Aopf : Entry
-entity_Aopf = MkEntry "&Aopf;" "\NUL\NUL" [120120] "Aopf"
-
-export
 entity_ApplyFunction : Entry
 entity_ApplyFunction = MkEntry "&ApplyFunction;" "\8289" [8289] "ApplyFunction"
 
@@ -96,10 +88,6 @@ entity_Aring_withoutSemicolon = MkEntry "&Aring" "\197" [197] "Aring"
 export
 entity_Aring : Entry
 entity_Aring = MkEntry "&Aring;" "\197" [197] "Aring"
-
-export
-entity_Ascr : Entry
-entity_Ascr = MkEntry "&Ascr;" "\NUL\NUL" [119964] "Ascr"
 
 export
 entity_Assign : Entry
@@ -148,14 +136,6 @@ entity_Bernoullis = MkEntry "&Bernoullis;" "\8492" [8492] "Bernoullis"
 export
 entity_Beta : Entry
 entity_Beta = MkEntry "&Beta;" "\914" [914] "Beta"
-
-export
-entity_Bfr : Entry
-entity_Bfr = MkEntry "&Bfr;" "\NUL\NUL" [120069] "Bfr"
-
-export
-entity_Bopf : Entry
-entity_Bopf = MkEntry "&Bopf;" "\NUL\NUL" [120121] "Bopf"
 
 export
 entity_Breve : Entry
@@ -302,10 +282,6 @@ entity_Cross : Entry
 entity_Cross = MkEntry "&Cross;" "\10799" [10799] "Cross"
 
 export
-entity_Cscr : Entry
-entity_Cscr = MkEntry "&Cscr;" "\NUL\NUL" [119966] "Cscr"
-
-export
 entity_Cup : Entry
 entity_Cup = MkEntry "&Cup;" "\8915" [8915] "Cup"
 
@@ -362,10 +338,6 @@ entity_Delta : Entry
 entity_Delta = MkEntry "&Delta;" "\916" [916] "Delta"
 
 export
-entity_Dfr : Entry
-entity_Dfr = MkEntry "&Dfr;" "\NUL\NUL" [120071] "Dfr"
-
-export
 entity_DiacriticalAcute : Entry
 entity_DiacriticalAcute = MkEntry "&DiacriticalAcute;" "\180" [180] "DiacriticalAcute"
 
@@ -392,10 +364,6 @@ entity_Diamond = MkEntry "&Diamond;" "\8900" [8900] "Diamond"
 export
 entity_DifferentialD : Entry
 entity_DifferentialD = MkEntry "&DifferentialD;" "\8518" [8518] "DifferentialD"
-
-export
-entity_Dopf : Entry
-entity_Dopf = MkEntry "&Dopf;" "\NUL\NUL" [120123] "Dopf"
 
 export
 entity_Dot : Entry
@@ -522,10 +490,6 @@ entity_Downarrow : Entry
 entity_Downarrow = MkEntry "&Downarrow;" "\8659" [8659] "Downarrow"
 
 export
-entity_Dscr : Entry
-entity_Dscr = MkEntry "&Dscr;" "\NUL\NUL" [119967] "Dscr"
-
-export
 entity_Dstrok : Entry
 entity_Dstrok = MkEntry "&Dstrok;" "\272" [272] "Dstrok"
 
@@ -570,10 +534,6 @@ entity_Edot : Entry
 entity_Edot = MkEntry "&Edot;" "\278" [278] "Edot"
 
 export
-entity_Efr : Entry
-entity_Efr = MkEntry "&Efr;" "\NUL\NUL" [120072] "Efr"
-
-export
 entity_Egrave_withoutSemicolon : Entry
 entity_Egrave_withoutSemicolon = MkEntry "&Egrave" "\200" [200] "Egrave"
 
@@ -600,10 +560,6 @@ entity_EmptyVerySmallSquare = MkEntry "&EmptyVerySmallSquare;" "\9643" [9643] "E
 export
 entity_Eogon : Entry
 entity_Eogon = MkEntry "&Eogon;" "\280" [280] "Eogon"
-
-export
-entity_Eopf : Entry
-entity_Eopf = MkEntry "&Eopf;" "\NUL\NUL" [120124] "Eopf"
 
 export
 entity_Epsilon : Entry
@@ -654,20 +610,12 @@ entity_Fcy : Entry
 entity_Fcy = MkEntry "&Fcy;" "\1060" [1060] "Fcy"
 
 export
-entity_Ffr : Entry
-entity_Ffr = MkEntry "&Ffr;" "\NUL\NUL" [120073] "Ffr"
-
-export
 entity_FilledSmallSquare : Entry
 entity_FilledSmallSquare = MkEntry "&FilledSmallSquare;" "\9724" [9724] "FilledSmallSquare"
 
 export
 entity_FilledVerySmallSquare : Entry
 entity_FilledVerySmallSquare = MkEntry "&FilledVerySmallSquare;" "\9642" [9642] "FilledVerySmallSquare"
-
-export
-entity_Fopf : Entry
-entity_Fopf = MkEntry "&Fopf;" "\NUL\NUL" [120125] "Fopf"
 
 export
 entity_ForAll : Entry
@@ -722,16 +670,8 @@ entity_Gdot : Entry
 entity_Gdot = MkEntry "&Gdot;" "\288" [288] "Gdot"
 
 export
-entity_Gfr : Entry
-entity_Gfr = MkEntry "&Gfr;" "\NUL\NUL" [120074] "Gfr"
-
-export
 entity_Gg : Entry
 entity_Gg = MkEntry "&Gg;" "\8921" [8921] "Gg"
-
-export
-entity_Gopf : Entry
-entity_Gopf = MkEntry "&Gopf;" "\NUL\NUL" [120126] "Gopf"
 
 export
 entity_GreaterEqual : Entry
@@ -760,10 +700,6 @@ entity_GreaterSlantEqual = MkEntry "&GreaterSlantEqual;" "\10878" [10878] "Great
 export
 entity_GreaterTilde : Entry
 entity_GreaterTilde = MkEntry "&GreaterTilde;" "\8819" [8819] "GreaterTilde"
-
-export
-entity_Gscr : Entry
-entity_Gscr = MkEntry "&Gscr;" "\NUL\NUL" [119970] "Gscr"
 
 export
 entity_Gt : Entry
@@ -906,10 +842,6 @@ entity_Iogon : Entry
 entity_Iogon = MkEntry "&Iogon;" "\302" [302] "Iogon"
 
 export
-entity_Iopf : Entry
-entity_Iopf = MkEntry "&Iopf;" "\NUL\NUL" [120128] "Iopf"
-
-export
 entity_Iota : Entry
 entity_Iota = MkEntry "&Iota;" "\921" [921] "Iota"
 
@@ -942,18 +874,6 @@ entity_Jcy : Entry
 entity_Jcy = MkEntry "&Jcy;" "\1049" [1049] "Jcy"
 
 export
-entity_Jfr : Entry
-entity_Jfr = MkEntry "&Jfr;" "\NUL\NUL" [120077] "Jfr"
-
-export
-entity_Jopf : Entry
-entity_Jopf = MkEntry "&Jopf;" "\NUL\NUL" [120129] "Jopf"
-
-export
-entity_Jscr : Entry
-entity_Jscr = MkEntry "&Jscr;" "\NUL\NUL" [119973] "Jscr"
-
-export
 entity_Jsercy : Entry
 entity_Jsercy = MkEntry "&Jsercy;" "\1032" [1032] "Jsercy"
 
@@ -980,18 +900,6 @@ entity_Kcedil = MkEntry "&Kcedil;" "\310" [310] "Kcedil"
 export
 entity_Kcy : Entry
 entity_Kcy = MkEntry "&Kcy;" "\1050" [1050] "Kcy"
-
-export
-entity_Kfr : Entry
-entity_Kfr = MkEntry "&Kfr;" "\NUL\NUL" [120078] "Kfr"
-
-export
-entity_Kopf : Entry
-entity_Kopf = MkEntry "&Kopf;" "\NUL\NUL" [120130] "Kopf"
-
-export
-entity_Kscr : Entry
-entity_Kscr = MkEntry "&Kscr;" "\NUL\NUL" [119974] "Kscr"
 
 export
 entity_LJcy : Entry
@@ -1166,10 +1074,6 @@ entity_LessTilde : Entry
 entity_LessTilde = MkEntry "&LessTilde;" "\8818" [8818] "LessTilde"
 
 export
-entity_Lfr : Entry
-entity_Lfr = MkEntry "&Lfr;" "\NUL\NUL" [120079] "Lfr"
-
-export
 entity_Ll : Entry
 entity_Ll = MkEntry "&Ll;" "\8920" [8920] "Ll"
 
@@ -1204,10 +1108,6 @@ entity_Longleftrightarrow = MkEntry "&Longleftrightarrow;" "\10234" [10234] "Lon
 export
 entity_Longrightarrow : Entry
 entity_Longrightarrow = MkEntry "&Longrightarrow;" "\10233" [10233] "Longrightarrow"
-
-export
-entity_Lopf : Entry
-entity_Lopf = MkEntry "&Lopf;" "\NUL\NUL" [120131] "Lopf"
 
 export
 entity_LowerLeftArrow : Entry
@@ -1250,16 +1150,8 @@ entity_Mellintrf : Entry
 entity_Mellintrf = MkEntry "&Mellintrf;" "\8499" [8499] "Mellintrf"
 
 export
-entity_Mfr : Entry
-entity_Mfr = MkEntry "&Mfr;" "\NUL\NUL" [120080] "Mfr"
-
-export
 entity_MinusPlus : Entry
 entity_MinusPlus = MkEntry "&MinusPlus;" "\8723" [8723] "MinusPlus"
-
-export
-entity_Mopf : Entry
-entity_Mopf = MkEntry "&Mopf;" "\NUL\NUL" [120132] "Mopf"
 
 export
 entity_Mscr : Entry
@@ -1316,10 +1208,6 @@ entity_NestedLessLess = MkEntry "&NestedLessLess;" "\8810" [8810] "NestedLessLes
 export
 entity_NewLine : Entry
 entity_NewLine = MkEntry "&NewLine;" "\n" [10] "NewLine"
-
-export
-entity_Nfr : Entry
-entity_Nfr = MkEntry "&Nfr;" "\NUL\NUL" [120081] "Nfr"
 
 export
 entity_NoBreak : Entry
@@ -1542,10 +1430,6 @@ entity_NotVerticalBar : Entry
 entity_NotVerticalBar = MkEntry "&NotVerticalBar;" "\8740" [8740] "NotVerticalBar"
 
 export
-entity_Nscr : Entry
-entity_Nscr = MkEntry "&Nscr;" "\NUL\NUL" [119977] "Nscr"
-
-export
 entity_Ntilde_withoutSemicolon : Entry
 entity_Ntilde_withoutSemicolon = MkEntry "&Ntilde" "\209" [209] "Ntilde"
 
@@ -1586,10 +1470,6 @@ entity_Odblac : Entry
 entity_Odblac = MkEntry "&Odblac;" "\336" [336] "Odblac"
 
 export
-entity_Ofr : Entry
-entity_Ofr = MkEntry "&Ofr;" "\NUL\NUL" [120082] "Ofr"
-
-export
 entity_Ograve_withoutSemicolon : Entry
 entity_Ograve_withoutSemicolon = MkEntry "&Ograve" "\210" [210] "Ograve"
 
@@ -1610,10 +1490,6 @@ entity_Omicron : Entry
 entity_Omicron = MkEntry "&Omicron;" "\927" [927] "Omicron"
 
 export
-entity_Oopf : Entry
-entity_Oopf = MkEntry "&Oopf;" "\NUL\NUL" [120134] "Oopf"
-
-export
 entity_OpenCurlyDoubleQuote : Entry
 entity_OpenCurlyDoubleQuote = MkEntry "&OpenCurlyDoubleQuote;" "\8220" [8220] "OpenCurlyDoubleQuote"
 
@@ -1624,10 +1500,6 @@ entity_OpenCurlyQuote = MkEntry "&OpenCurlyQuote;" "\8216" [8216] "OpenCurlyQuot
 export
 entity_Or : Entry
 entity_Or = MkEntry "&Or;" "\10836" [10836] "Or"
-
-export
-entity_Oscr : Entry
-entity_Oscr = MkEntry "&Oscr;" "\NUL\NUL" [119978] "Oscr"
 
 export
 entity_Oslash_withoutSemicolon : Entry
@@ -1680,10 +1552,6 @@ entity_PartialD = MkEntry "&PartialD;" "\8706" [8706] "PartialD"
 export
 entity_Pcy : Entry
 entity_Pcy = MkEntry "&Pcy;" "\1055" [1055] "Pcy"
-
-export
-entity_Pfr : Entry
-entity_Pfr = MkEntry "&Pfr;" "\NUL\NUL" [120083] "Pfr"
 
 export
 entity_Phi : Entry
@@ -1742,10 +1610,6 @@ entity_Proportional : Entry
 entity_Proportional = MkEntry "&Proportional;" "\8733" [8733] "Proportional"
 
 export
-entity_Pscr : Entry
-entity_Pscr = MkEntry "&Pscr;" "\NUL\NUL" [119979] "Pscr"
-
-export
 entity_Psi : Entry
 entity_Psi = MkEntry "&Psi;" "\936" [936] "Psi"
 
@@ -1758,16 +1622,8 @@ entity_QUOT : Entry
 entity_QUOT = MkEntry "&QUOT;" "\"" [34] "QUOT"
 
 export
-entity_Qfr : Entry
-entity_Qfr = MkEntry "&Qfr;" "\NUL\NUL" [120084] "Qfr"
-
-export
 entity_Qopf : Entry
 entity_Qopf = MkEntry "&Qopf;" "\8474" [8474] "Qopf"
-
-export
-entity_Qscr : Entry
-entity_Qscr = MkEntry "&Qscr;" "\NUL\NUL" [119980] "Qscr"
 
 export
 entity_RBarr : Entry
@@ -1986,10 +1842,6 @@ entity_Scy : Entry
 entity_Scy = MkEntry "&Scy;" "\1057" [1057] "Scy"
 
 export
-entity_Sfr : Entry
-entity_Sfr = MkEntry "&Sfr;" "\NUL\NUL" [120086] "Sfr"
-
-export
 entity_ShortDownArrow : Entry
 entity_ShortDownArrow = MkEntry "&ShortDownArrow;" "\8595" [8595] "ShortDownArrow"
 
@@ -2012,10 +1864,6 @@ entity_Sigma = MkEntry "&Sigma;" "\931" [931] "Sigma"
 export
 entity_SmallCircle : Entry
 entity_SmallCircle = MkEntry "&SmallCircle;" "\8728" [8728] "SmallCircle"
-
-export
-entity_Sopf : Entry
-entity_Sopf = MkEntry "&Sopf;" "\NUL\NUL" [120138] "Sopf"
 
 export
 entity_Sqrt : Entry
@@ -2048,10 +1896,6 @@ entity_SquareSupersetEqual = MkEntry "&SquareSupersetEqual;" "\8850" [8850] "Squ
 export
 entity_SquareUnion : Entry
 entity_SquareUnion = MkEntry "&SquareUnion;" "\8852" [8852] "SquareUnion"
-
-export
-entity_Sscr : Entry
-entity_Sscr = MkEntry "&Sscr;" "\NUL\NUL" [119982] "Sscr"
 
 export
 entity_Star : Entry
@@ -2150,10 +1994,6 @@ entity_Tcy : Entry
 entity_Tcy = MkEntry "&Tcy;" "\1058" [1058] "Tcy"
 
 export
-entity_Tfr : Entry
-entity_Tfr = MkEntry "&Tfr;" "\NUL\NUL" [120087] "Tfr"
-
-export
 entity_Therefore : Entry
 entity_Therefore = MkEntry "&Therefore;" "\8756" [8756] "Therefore"
 
@@ -2186,16 +2026,8 @@ entity_TildeTilde : Entry
 entity_TildeTilde = MkEntry "&TildeTilde;" "\8776" [8776] "TildeTilde"
 
 export
-entity_Topf : Entry
-entity_Topf = MkEntry "&Topf;" "\NUL\NUL" [120139] "Topf"
-
-export
 entity_TripleDot : Entry
 entity_TripleDot = MkEntry "&TripleDot;" "\8411" [8411] "TripleDot"
-
-export
-entity_Tscr : Entry
-entity_Tscr = MkEntry "&Tscr;" "\NUL\NUL" [119983] "Tscr"
 
 export
 entity_Tstrok : Entry
@@ -2242,10 +2074,6 @@ entity_Udblac : Entry
 entity_Udblac = MkEntry "&Udblac;" "\368" [368] "Udblac"
 
 export
-entity_Ufr : Entry
-entity_Ufr = MkEntry "&Ufr;" "\NUL\NUL" [120088] "Ufr"
-
-export
 entity_Ugrave_withoutSemicolon : Entry
 entity_Ugrave_withoutSemicolon = MkEntry "&Ugrave" "\217" [217] "Ugrave"
 
@@ -2284,10 +2112,6 @@ entity_UnionPlus = MkEntry "&UnionPlus;" "\8846" [8846] "UnionPlus"
 export
 entity_Uogon : Entry
 entity_Uogon = MkEntry "&Uogon;" "\370" [370] "Uogon"
-
-export
-entity_Uopf : Entry
-entity_Uopf = MkEntry "&Uopf;" "\NUL\NUL" [120140] "Uopf"
 
 export
 entity_UpArrow : Entry
@@ -2344,10 +2168,6 @@ entity_Upsilon = MkEntry "&Upsilon;" "\933" [933] "Upsilon"
 export
 entity_Uring : Entry
 entity_Uring = MkEntry "&Uring;" "\366" [366] "Uring"
-
-export
-entity_Uscr : Entry
-entity_Uscr = MkEntry "&Uscr;" "\NUL\NUL" [119984] "Uscr"
 
 export
 entity_Utilde : Entry
@@ -2414,18 +2234,6 @@ entity_VeryThinSpace : Entry
 entity_VeryThinSpace = MkEntry "&VeryThinSpace;" "\8202" [8202] "VeryThinSpace"
 
 export
-entity_Vfr : Entry
-entity_Vfr = MkEntry "&Vfr;" "\NUL\NUL" [120089] "Vfr"
-
-export
-entity_Vopf : Entry
-entity_Vopf = MkEntry "&Vopf;" "\NUL\NUL" [120141] "Vopf"
-
-export
-entity_Vscr : Entry
-entity_Vscr = MkEntry "&Vscr;" "\NUL\NUL" [119985] "Vscr"
-
-export
 entity_Vvdash : Entry
 entity_Vvdash = MkEntry "&Vvdash;" "\8874" [8874] "Vvdash"
 
@@ -2438,32 +2246,8 @@ entity_Wedge : Entry
 entity_Wedge = MkEntry "&Wedge;" "\8896" [8896] "Wedge"
 
 export
-entity_Wfr : Entry
-entity_Wfr = MkEntry "&Wfr;" "\NUL\NUL" [120090] "Wfr"
-
-export
-entity_Wopf : Entry
-entity_Wopf = MkEntry "&Wopf;" "\NUL\NUL" [120142] "Wopf"
-
-export
-entity_Wscr : Entry
-entity_Wscr = MkEntry "&Wscr;" "\NUL\NUL" [119986] "Wscr"
-
-export
-entity_Xfr : Entry
-entity_Xfr = MkEntry "&Xfr;" "\NUL\NUL" [120091] "Xfr"
-
-export
 entity_Xi : Entry
 entity_Xi = MkEntry "&Xi;" "\926" [926] "Xi"
-
-export
-entity_Xopf : Entry
-entity_Xopf = MkEntry "&Xopf;" "\NUL\NUL" [120143] "Xopf"
-
-export
-entity_Xscr : Entry
-entity_Xscr = MkEntry "&Xscr;" "\NUL\NUL" [119987] "Xscr"
 
 export
 entity_YAcy : Entry
@@ -2492,18 +2276,6 @@ entity_Ycirc = MkEntry "&Ycirc;" "\374" [374] "Ycirc"
 export
 entity_Ycy : Entry
 entity_Ycy = MkEntry "&Ycy;" "\1067" [1067] "Ycy"
-
-export
-entity_Yfr : Entry
-entity_Yfr = MkEntry "&Yfr;" "\NUL\NUL" [120092] "Yfr"
-
-export
-entity_Yopf : Entry
-entity_Yopf = MkEntry "&Yopf;" "\NUL\NUL" [120144] "Yopf"
-
-export
-entity_Yscr : Entry
-entity_Yscr = MkEntry "&Yscr;" "\NUL\NUL" [119988] "Yscr"
 
 export
 entity_Yuml : Entry
@@ -2544,10 +2316,6 @@ entity_Zfr = MkEntry "&Zfr;" "\8488" [8488] "Zfr"
 export
 entity_Zopf : Entry
 entity_Zopf = MkEntry "&Zopf;" "\8484" [8484] "Zopf"
-
-export
-entity_Zscr : Entry
-entity_Zscr = MkEntry "&Zscr;" "\NUL\NUL" [119989] "Zscr"
 
 export
 entity_aacute_withoutSemicolon : Entry
@@ -2604,10 +2372,6 @@ entity_aelig = MkEntry "&aelig;" "\230" [230] "aelig"
 export
 entity_af : Entry
 entity_af = MkEntry "&af;" "\8289" [8289] "af"
-
-export
-entity_afr : Entry
-entity_afr = MkEntry "&afr;" "\NUL\NUL" [120094] "afr"
 
 export
 entity_agrave_withoutSemicolon : Entry
@@ -2742,10 +2506,6 @@ entity_aogon : Entry
 entity_aogon = MkEntry "&aogon;" "\261" [261] "aogon"
 
 export
-entity_aopf : Entry
-entity_aopf = MkEntry "&aopf;" "\NUL\NUL" [120146] "aopf"
-
-export
 entity_ap : Entry
 entity_ap = MkEntry "&ap;" "\8776" [8776] "ap"
 
@@ -2784,10 +2544,6 @@ entity_aring_withoutSemicolon = MkEntry "&aring" "\229" [229] "aring"
 export
 entity_aring : Entry
 entity_aring = MkEntry "&aring;" "\229" [229] "aring"
-
-export
-entity_ascr : Entry
-entity_ascr = MkEntry "&ascr;" "\NUL\NUL" [119990] "ascr"
 
 export
 entity_ast : Entry
@@ -2914,10 +2670,6 @@ entity_between : Entry
 entity_between = MkEntry "&between;" "\8812" [8812] "between"
 
 export
-entity_bfr : Entry
-entity_bfr = MkEntry "&bfr;" "\NUL\NUL" [120095] "bfr"
-
-export
 entity_bigcap : Entry
 entity_bigcap = MkEntry "&bigcap;" "\8898" [8898] "bigcap"
 
@@ -3028,10 +2780,6 @@ entity_bnequiv = MkEntry "&bnequiv;" "\8801\8421" [8801, 8421] "bnequiv"
 export
 entity_bnot : Entry
 entity_bnot = MkEntry "&bnot;" "\8976" [8976] "bnot"
-
-export
-entity_bopf : Entry
-entity_bopf = MkEntry "&bopf;" "\NUL\NUL" [120147] "bopf"
 
 export
 entity_bot : Entry
@@ -3238,10 +2986,6 @@ entity_brvbar : Entry
 entity_brvbar = MkEntry "&brvbar;" "\166" [166] "brvbar"
 
 export
-entity_bscr : Entry
-entity_bscr = MkEntry "&bscr;" "\NUL\NUL" [119991] "bscr"
-
-export
 entity_bsemi : Entry
 entity_bsemi = MkEntry "&bsemi;" "\8271" [8271] "bsemi"
 
@@ -3386,10 +3130,6 @@ entity_centerdot : Entry
 entity_centerdot = MkEntry "&centerdot;" "\183" [183] "centerdot"
 
 export
-entity_cfr : Entry
-entity_cfr = MkEntry "&cfr;" "\NUL\NUL" [120096] "cfr"
-
-export
 entity_chcy : Entry
 entity_chcy = MkEntry "&chcy;" "\1095" [1095] "chcy"
 
@@ -3522,10 +3262,6 @@ entity_conint : Entry
 entity_conint = MkEntry "&conint;" "\8750" [8750] "conint"
 
 export
-entity_copf : Entry
-entity_copf = MkEntry "&copf;" "\NUL\NUL" [120148] "copf"
-
-export
 entity_coprod : Entry
 entity_coprod = MkEntry "&coprod;" "\8720" [8720] "coprod"
 
@@ -3548,10 +3284,6 @@ entity_crarr = MkEntry "&crarr;" "\8629" [8629] "crarr"
 export
 entity_cross : Entry
 entity_cross = MkEntry "&cross;" "\10007" [10007] "cross"
-
-export
-entity_cscr : Entry
-entity_cscr = MkEntry "&cscr;" "\NUL\NUL" [119992] "cscr"
 
 export
 entity_csub : Entry
@@ -3766,10 +3498,6 @@ entity_dfisht : Entry
 entity_dfisht = MkEntry "&dfisht;" "\10623" [10623] "dfisht"
 
 export
-entity_dfr : Entry
-entity_dfr = MkEntry "&dfr;" "\NUL\NUL" [120097] "dfr"
-
-export
 entity_dharl : Entry
 entity_dharl = MkEntry "&dharl;" "\8643" [8643] "dharl"
 
@@ -3842,10 +3570,6 @@ entity_dollar : Entry
 entity_dollar = MkEntry "&dollar;" "$" [36] "dollar"
 
 export
-entity_dopf : Entry
-entity_dopf = MkEntry "&dopf;" "\NUL\NUL" [120149] "dopf"
-
-export
 entity_dot : Entry
 entity_dot = MkEntry "&dot;" "\729" [729] "dot"
 
@@ -3900,10 +3624,6 @@ entity_drcorn = MkEntry "&drcorn;" "\8991" [8991] "drcorn"
 export
 entity_drcrop : Entry
 entity_drcrop = MkEntry "&drcrop;" "\8972" [8972] "drcrop"
-
-export
-entity_dscr : Entry
-entity_dscr = MkEntry "&dscr;" "\NUL\NUL" [119993] "dscr"
 
 export
 entity_dscy : Entry
@@ -4006,10 +3726,6 @@ entity_efDot : Entry
 entity_efDot = MkEntry "&efDot;" "\8786" [8786] "efDot"
 
 export
-entity_efr : Entry
-entity_efr = MkEntry "&efr;" "\NUL\NUL" [120098] "efr"
-
-export
 entity_eg : Entry
 entity_eg = MkEntry "&eg;" "\10906" [10906] "eg"
 
@@ -4088,10 +3804,6 @@ entity_ensp = MkEntry "&ensp;" "\8194" [8194] "ensp"
 export
 entity_eogon : Entry
 entity_eogon = MkEntry "&eogon;" "\281" [281] "eogon"
-
-export
-entity_eopf : Entry
-entity_eopf = MkEntry "&eopf;" "\NUL\NUL" [120150] "eopf"
 
 export
 entity_epar : Entry
@@ -4242,10 +3954,6 @@ entity_ffllig : Entry
 entity_ffllig = MkEntry "&ffllig;" "\64260" [64260] "ffllig"
 
 export
-entity_ffr : Entry
-entity_ffr = MkEntry "&ffr;" "\NUL\NUL" [120099] "ffr"
-
-export
 entity_filig : Entry
 entity_filig = MkEntry "&filig;" "\64257" [64257] "filig"
 
@@ -4268,10 +3976,6 @@ entity_fltns = MkEntry "&fltns;" "\9649" [9649] "fltns"
 export
 entity_fnof : Entry
 entity_fnof = MkEntry "&fnof;" "\402" [402] "fnof"
-
-export
-entity_fopf : Entry
-entity_fopf = MkEntry "&fopf;" "\NUL\NUL" [120151] "fopf"
 
 export
 entity_forall : Entry
@@ -4370,10 +4074,6 @@ entity_frown : Entry
 entity_frown = MkEntry "&frown;" "\8994" [8994] "frown"
 
 export
-entity_fscr : Entry
-entity_fscr = MkEntry "&fscr;" "\NUL\NUL" [119995] "fscr"
-
-export
 entity_gE : Entry
 entity_gE = MkEntry "&gE;" "\8807" [8807] "gE"
 
@@ -4462,10 +4162,6 @@ entity_gesles : Entry
 entity_gesles = MkEntry "&gesles;" "\10900" [10900] "gesles"
 
 export
-entity_gfr : Entry
-entity_gfr = MkEntry "&gfr;" "\NUL\NUL" [120100] "gfr"
-
-export
 entity_gg : Entry
 entity_gg = MkEntry "&gg;" "\8811" [8811] "gg"
 
@@ -4524,10 +4220,6 @@ entity_gneqq = MkEntry "&gneqq;" "\8809" [8809] "gneqq"
 export
 entity_gnsim : Entry
 entity_gnsim = MkEntry "&gnsim;" "\8935" [8935] "gnsim"
-
-export
-entity_gopf : Entry
-entity_gopf = MkEntry "&gopf;" "\NUL\NUL" [120152] "gopf"
 
 export
 entity_grave : Entry
@@ -4670,10 +4362,6 @@ entity_hercon : Entry
 entity_hercon = MkEntry "&hercon;" "\8889" [8889] "hercon"
 
 export
-entity_hfr : Entry
-entity_hfr = MkEntry "&hfr;" "\NUL\NUL" [120101] "hfr"
-
-export
 entity_hksearow : Entry
 entity_hksearow = MkEntry "&hksearow;" "\10533" [10533] "hksearow"
 
@@ -4698,16 +4386,8 @@ entity_hookrightarrow : Entry
 entity_hookrightarrow = MkEntry "&hookrightarrow;" "\8618" [8618] "hookrightarrow"
 
 export
-entity_hopf : Entry
-entity_hopf = MkEntry "&hopf;" "\NUL\NUL" [120153] "hopf"
-
-export
 entity_horbar : Entry
 entity_horbar = MkEntry "&horbar;" "\8213" [8213] "horbar"
-
-export
-entity_hscr : Entry
-entity_hscr = MkEntry "&hscr;" "\NUL\NUL" [119997] "hscr"
 
 export
 entity_hslash : Entry
@@ -4764,10 +4444,6 @@ entity_iexcl = MkEntry "&iexcl;" "\161" [161] "iexcl"
 export
 entity_iff : Entry
 entity_iff = MkEntry "&iff;" "\8660" [8660] "iff"
-
-export
-entity_ifr : Entry
-entity_ifr = MkEntry "&ifr;" "\NUL\NUL" [120102] "ifr"
 
 export
 entity_igrave_withoutSemicolon : Entry
@@ -4882,10 +4558,6 @@ entity_iogon : Entry
 entity_iogon = MkEntry "&iogon;" "\303" [303] "iogon"
 
 export
-entity_iopf : Entry
-entity_iopf = MkEntry "&iopf;" "\NUL\NUL" [120154] "iopf"
-
-export
 entity_iota : Entry
 entity_iota = MkEntry "&iota;" "\953" [953] "iota"
 
@@ -4900,10 +4572,6 @@ entity_iquest_withoutSemicolon = MkEntry "&iquest" "\191" [191] "iquest"
 export
 entity_iquest : Entry
 entity_iquest = MkEntry "&iquest;" "\191" [191] "iquest"
-
-export
-entity_iscr : Entry
-entity_iscr = MkEntry "&iscr;" "\NUL\NUL" [119998] "iscr"
 
 export
 entity_isin : Entry
@@ -4958,20 +4626,8 @@ entity_jcy : Entry
 entity_jcy = MkEntry "&jcy;" "\1081" [1081] "jcy"
 
 export
-entity_jfr : Entry
-entity_jfr = MkEntry "&jfr;" "\NUL\NUL" [120103] "jfr"
-
-export
 entity_jmath : Entry
 entity_jmath = MkEntry "&jmath;" "\567" [567] "jmath"
-
-export
-entity_jopf : Entry
-entity_jopf = MkEntry "&jopf;" "\NUL\NUL" [120155] "jopf"
-
-export
-entity_jscr : Entry
-entity_jscr = MkEntry "&jscr;" "\NUL\NUL" [119999] "jscr"
 
 export
 entity_jsercy : Entry
@@ -4998,10 +4654,6 @@ entity_kcy : Entry
 entity_kcy = MkEntry "&kcy;" "\1082" [1082] "kcy"
 
 export
-entity_kfr : Entry
-entity_kfr = MkEntry "&kfr;" "\NUL\NUL" [120104] "kfr"
-
-export
 entity_kgreen : Entry
 entity_kgreen = MkEntry "&kgreen;" "\312" [312] "kgreen"
 
@@ -5012,14 +4664,6 @@ entity_khcy = MkEntry "&khcy;" "\1093" [1093] "khcy"
 export
 entity_kjcy : Entry
 entity_kjcy = MkEntry "&kjcy;" "\1116" [1116] "kjcy"
-
-export
-entity_kopf : Entry
-entity_kopf = MkEntry "&kopf;" "\NUL\NUL" [120156] "kopf"
-
-export
-entity_kscr : Entry
-entity_kscr = MkEntry "&kscr;" "\NUL\NUL" [120000] "kscr"
 
 export
 entity_lAarr : Entry
@@ -5334,10 +4978,6 @@ entity_lfloor : Entry
 entity_lfloor = MkEntry "&lfloor;" "\8970" [8970] "lfloor"
 
 export
-entity_lfr : Entry
-entity_lfr = MkEntry "&lfr;" "\NUL\NUL" [120105] "lfr"
-
-export
 entity_lg : Entry
 entity_lg = MkEntry "&lg;" "\8822" [8822] "lg"
 
@@ -5466,10 +5106,6 @@ entity_lopar : Entry
 entity_lopar = MkEntry "&lopar;" "\10629" [10629] "lopar"
 
 export
-entity_lopf : Entry
-entity_lopf = MkEntry "&lopf;" "\NUL\NUL" [120157] "lopf"
-
-export
 entity_loplus : Entry
 entity_loplus = MkEntry "&loplus;" "\10797" [10797] "loplus"
 
@@ -5532,10 +5168,6 @@ entity_lrtri = MkEntry "&lrtri;" "\8895" [8895] "lrtri"
 export
 entity_lsaquo : Entry
 entity_lsaquo = MkEntry "&lsaquo;" "\8249" [8249] "lsaquo"
-
-export
-entity_lscr : Entry
-entity_lscr = MkEntry "&lscr;" "\NUL\NUL" [120001] "lscr"
 
 export
 entity_lsh : Entry
@@ -5702,10 +5334,6 @@ entity_measuredangle : Entry
 entity_measuredangle = MkEntry "&measuredangle;" "\8737" [8737] "measuredangle"
 
 export
-entity_mfr : Entry
-entity_mfr = MkEntry "&mfr;" "\NUL\NUL" [120106] "mfr"
-
-export
 entity_mho : Entry
 entity_mho = MkEntry "&mho;" "\8487" [8487] "mho"
 
@@ -5770,16 +5398,8 @@ entity_models : Entry
 entity_models = MkEntry "&models;" "\8871" [8871] "models"
 
 export
-entity_mopf : Entry
-entity_mopf = MkEntry "&mopf;" "\NUL\NUL" [120158] "mopf"
-
-export
 entity_mp : Entry
 entity_mp = MkEntry "&mp;" "\8723" [8723] "mp"
-
-export
-entity_mscr : Entry
-entity_mscr = MkEntry "&mscr;" "\NUL\NUL" [120002] "mscr"
 
 export
 entity_mstpos : Entry
@@ -5978,10 +5598,6 @@ entity_nexists : Entry
 entity_nexists = MkEntry "&nexists;" "\8708" [8708] "nexists"
 
 export
-entity_nfr : Entry
-entity_nfr = MkEntry "&nfr;" "\NUL\NUL" [120107] "nfr"
-
-export
 entity_ngE : Entry
 entity_ngE = MkEntry "&ngE;" "\8807\824" [8807, 824] "ngE"
 
@@ -6118,10 +5734,6 @@ entity_nmid : Entry
 entity_nmid = MkEntry "&nmid;" "\8740" [8740] "nmid"
 
 export
-entity_nopf : Entry
-entity_nopf = MkEntry "&nopf;" "\NUL\NUL" [120159] "nopf"
-
-export
 entity_not_withoutSemicolon : Entry
 entity_not_withoutSemicolon = MkEntry "&not" "\172" [172] "not"
 
@@ -6248,10 +5860,6 @@ entity_nsccue = MkEntry "&nsccue;" "\8929" [8929] "nsccue"
 export
 entity_nsce : Entry
 entity_nsce = MkEntry "&nsce;" "\10928\824" [10928, 824] "nsce"
-
-export
-entity_nscr : Entry
-entity_nscr = MkEntry "&nscr;" "\NUL\NUL" [120003] "nscr"
 
 export
 entity_nshortmid : Entry
@@ -6530,10 +6138,6 @@ entity_ofcir : Entry
 entity_ofcir = MkEntry "&ofcir;" "\10687" [10687] "ofcir"
 
 export
-entity_ofr : Entry
-entity_ofr = MkEntry "&ofr;" "\NUL\NUL" [120108] "ofr"
-
-export
 entity_ogon : Entry
 entity_ogon = MkEntry "&ogon;" "\731" [731] "ogon"
 
@@ -6600,10 +6204,6 @@ entity_omid = MkEntry "&omid;" "\10678" [10678] "omid"
 export
 entity_ominus : Entry
 entity_ominus = MkEntry "&ominus;" "\8854" [8854] "ominus"
-
-export
-entity_oopf : Entry
-entity_oopf = MkEntry "&oopf;" "\NUL\NUL" [120160] "oopf"
 
 export
 entity_opar : Entry
@@ -6766,10 +6366,6 @@ entity_pertenk : Entry
 entity_pertenk = MkEntry "&pertenk;" "\8241" [8241] "pertenk"
 
 export
-entity_pfr : Entry
-entity_pfr = MkEntry "&pfr;" "\NUL\NUL" [120109] "pfr"
-
-export
 entity_phi : Entry
 entity_phi = MkEntry "&phi;" "\966" [966] "phi"
 
@@ -6860,10 +6456,6 @@ entity_pm = MkEntry "&pm;" "\177" [177] "pm"
 export
 entity_pointint : Entry
 entity_pointint = MkEntry "&pointint;" "\10773" [10773] "pointint"
-
-export
-entity_popf : Entry
-entity_popf = MkEntry "&popf;" "\NUL\NUL" [120161] "popf"
 
 export
 entity_pound_withoutSemicolon : Entry
@@ -6978,10 +6570,6 @@ entity_prurel : Entry
 entity_prurel = MkEntry "&prurel;" "\8880" [8880] "prurel"
 
 export
-entity_pscr : Entry
-entity_pscr = MkEntry "&pscr;" "\NUL\NUL" [120005] "pscr"
-
-export
 entity_psi : Entry
 entity_psi = MkEntry "&psi;" "\968" [968] "psi"
 
@@ -6990,24 +6578,12 @@ entity_puncsp : Entry
 entity_puncsp = MkEntry "&puncsp;" "\8200" [8200] "puncsp"
 
 export
-entity_qfr : Entry
-entity_qfr = MkEntry "&qfr;" "\NUL\NUL" [120110] "qfr"
-
-export
 entity_qint : Entry
 entity_qint = MkEntry "&qint;" "\10764" [10764] "qint"
 
 export
-entity_qopf : Entry
-entity_qopf = MkEntry "&qopf;" "\NUL\NUL" [120162] "qopf"
-
-export
 entity_qprime : Entry
 entity_qprime = MkEntry "&qprime;" "\8279" [8279] "qprime"
-
-export
-entity_qscr : Entry
-entity_qscr = MkEntry "&qscr;" "\NUL\NUL" [120006] "qscr"
 
 export
 entity_quaternions : Entry
@@ -7258,10 +6834,6 @@ entity_rfloor : Entry
 entity_rfloor = MkEntry "&rfloor;" "\8971" [8971] "rfloor"
 
 export
-entity_rfr : Entry
-entity_rfr = MkEntry "&rfr;" "\NUL\NUL" [120111] "rfr"
-
-export
 entity_rhard : Entry
 entity_rhard = MkEntry "&rhard;" "\8641" [8641] "rhard"
 
@@ -7366,10 +6938,6 @@ entity_ropar : Entry
 entity_ropar = MkEntry "&ropar;" "\10630" [10630] "ropar"
 
 export
-entity_ropf : Entry
-entity_ropf = MkEntry "&ropf;" "\NUL\NUL" [120163] "ropf"
-
-export
 entity_roplus : Entry
 entity_roplus = MkEntry "&roplus;" "\10798" [10798] "roplus"
 
@@ -7396,10 +6964,6 @@ entity_rrarr = MkEntry "&rrarr;" "\8649" [8649] "rrarr"
 export
 entity_rsaquo : Entry
 entity_rsaquo = MkEntry "&rsaquo;" "\8250" [8250] "rsaquo"
-
-export
-entity_rscr : Entry
-entity_rscr = MkEntry "&rscr;" "\NUL\NUL" [120007] "rscr"
 
 export
 entity_rsh : Entry
@@ -7570,10 +7134,6 @@ entity_sext : Entry
 entity_sext = MkEntry "&sext;" "\10038" [10038] "sext"
 
 export
-entity_sfr : Entry
-entity_sfr = MkEntry "&sfr;" "\NUL\NUL" [120112] "sfr"
-
-export
 entity_sfrown : Entry
 entity_sfrown = MkEntry "&sfrown;" "\8994" [8994] "sfrown"
 
@@ -7714,10 +7274,6 @@ entity_solbar : Entry
 entity_solbar = MkEntry "&solbar;" "\9023" [9023] "solbar"
 
 export
-entity_sopf : Entry
-entity_sopf = MkEntry "&sopf;" "\NUL\NUL" [120164] "sopf"
-
-export
 entity_spades : Entry
 entity_spades = MkEntry "&spades;" "\9824" [9824] "spades"
 
@@ -7796,10 +7352,6 @@ entity_squf = MkEntry "&squf;" "\9642" [9642] "squf"
 export
 entity_srarr : Entry
 entity_srarr = MkEntry "&srarr;" "\8594" [8594] "srarr"
-
-export
-entity_sscr : Entry
-entity_sscr = MkEntry "&sscr;" "\NUL\NUL" [120008] "sscr"
 
 export
 entity_ssetmn : Entry
@@ -8114,10 +7666,6 @@ entity_telrec : Entry
 entity_telrec = MkEntry "&telrec;" "\8981" [8981] "telrec"
 
 export
-entity_tfr : Entry
-entity_tfr = MkEntry "&tfr;" "\NUL\NUL" [120113] "tfr"
-
-export
 entity_there4 : Entry
 entity_there4 = MkEntry "&there4;" "\8756" [8756] "there4"
 
@@ -8210,10 +7758,6 @@ entity_topcir : Entry
 entity_topcir = MkEntry "&topcir;" "\10993" [10993] "topcir"
 
 export
-entity_topf : Entry
-entity_topf = MkEntry "&topf;" "\NUL\NUL" [120165] "topf"
-
-export
 entity_topfork : Entry
 entity_topfork = MkEntry "&topfork;" "\10970" [10970] "topfork"
 
@@ -8284,10 +7828,6 @@ entity_tritime = MkEntry "&tritime;" "\10811" [10811] "tritime"
 export
 entity_trpezium : Entry
 entity_trpezium = MkEntry "&trpezium;" "\9186" [9186] "trpezium"
-
-export
-entity_tscr : Entry
-entity_tscr = MkEntry "&tscr;" "\NUL\NUL" [120009] "tscr"
 
 export
 entity_tscy : Entry
@@ -8370,10 +7910,6 @@ entity_ufisht : Entry
 entity_ufisht = MkEntry "&ufisht;" "\10622" [10622] "ufisht"
 
 export
-entity_ufr : Entry
-entity_ufr = MkEntry "&ufr;" "\NUL\NUL" [120114] "ufr"
-
-export
 entity_ugrave_withoutSemicolon : Entry
 entity_ugrave_withoutSemicolon = MkEntry "&ugrave" "\249" [249] "ugrave"
 
@@ -8424,10 +7960,6 @@ entity_uml = MkEntry "&uml;" "\168" [168] "uml"
 export
 entity_uogon : Entry
 entity_uogon = MkEntry "&uogon;" "\371" [371] "uogon"
-
-export
-entity_uopf : Entry
-entity_uopf = MkEntry "&uopf;" "\NUL\NUL" [120166] "uopf"
 
 export
 entity_uparrow : Entry
@@ -8484,10 +8016,6 @@ entity_uring = MkEntry "&uring;" "\367" [367] "uring"
 export
 entity_urtri : Entry
 entity_urtri = MkEntry "&urtri;" "\9721" [9721] "urtri"
-
-export
-entity_uscr : Entry
-entity_uscr = MkEntry "&uscr;" "\NUL\NUL" [120010] "uscr"
 
 export
 entity_utdot : Entry
@@ -8638,10 +8166,6 @@ entity_vert : Entry
 entity_vert = MkEntry "&vert;" "|" [124] "vert"
 
 export
-entity_vfr : Entry
-entity_vfr = MkEntry "&vfr;" "\NUL\NUL" [120115] "vfr"
-
-export
 entity_vltri : Entry
 entity_vltri = MkEntry "&vltri;" "\8882" [8882] "vltri"
 
@@ -8654,20 +8178,12 @@ entity_vnsup : Entry
 entity_vnsup = MkEntry "&vnsup;" "\8835\8402" [8835, 8402] "vnsup"
 
 export
-entity_vopf : Entry
-entity_vopf = MkEntry "&vopf;" "\NUL\NUL" [120167] "vopf"
-
-export
 entity_vprop : Entry
 entity_vprop = MkEntry "&vprop;" "\8733" [8733] "vprop"
 
 export
 entity_vrtri : Entry
 entity_vrtri = MkEntry "&vrtri;" "\8883" [8883] "vrtri"
-
-export
-entity_vscr : Entry
-entity_vscr = MkEntry "&vscr;" "\NUL\NUL" [120011] "vscr"
 
 export
 entity_vsubnE : Entry
@@ -8710,14 +8226,6 @@ entity_weierp : Entry
 entity_weierp = MkEntry "&weierp;" "\8472" [8472] "weierp"
 
 export
-entity_wfr : Entry
-entity_wfr = MkEntry "&wfr;" "\NUL\NUL" [120116] "wfr"
-
-export
-entity_wopf : Entry
-entity_wopf = MkEntry "&wopf;" "\NUL\NUL" [120168] "wopf"
-
-export
 entity_wp : Entry
 entity_wp = MkEntry "&wp;" "\8472" [8472] "wp"
 
@@ -8728,10 +8236,6 @@ entity_wr = MkEntry "&wr;" "\8768" [8768] "wr"
 export
 entity_wreath : Entry
 entity_wreath = MkEntry "&wreath;" "\8768" [8768] "wreath"
-
-export
-entity_wscr : Entry
-entity_wscr = MkEntry "&wscr;" "\NUL\NUL" [120012] "wscr"
 
 export
 entity_xcap : Entry
@@ -8748,10 +8252,6 @@ entity_xcup = MkEntry "&xcup;" "\8899" [8899] "xcup"
 export
 entity_xdtri : Entry
 entity_xdtri = MkEntry "&xdtri;" "\9661" [9661] "xdtri"
-
-export
-entity_xfr : Entry
-entity_xfr = MkEntry "&xfr;" "\NUL\NUL" [120117] "xfr"
 
 export
 entity_xhArr : Entry
@@ -8786,10 +8286,6 @@ entity_xodot : Entry
 entity_xodot = MkEntry "&xodot;" "\10752" [10752] "xodot"
 
 export
-entity_xopf : Entry
-entity_xopf = MkEntry "&xopf;" "\NUL\NUL" [120169] "xopf"
-
-export
 entity_xoplus : Entry
 entity_xoplus = MkEntry "&xoplus;" "\10753" [10753] "xoplus"
 
@@ -8804,10 +8300,6 @@ entity_xrArr = MkEntry "&xrArr;" "\10233" [10233] "xrArr"
 export
 entity_xrarr : Entry
 entity_xrarr = MkEntry "&xrarr;" "\10230" [10230] "xrarr"
-
-export
-entity_xscr : Entry
-entity_xscr = MkEntry "&xscr;" "\NUL\NUL" [120013] "xscr"
 
 export
 entity_xsqcup : Entry
@@ -8858,20 +8350,8 @@ entity_yen : Entry
 entity_yen = MkEntry "&yen;" "\165" [165] "yen"
 
 export
-entity_yfr : Entry
-entity_yfr = MkEntry "&yfr;" "\NUL\NUL" [120118] "yfr"
-
-export
 entity_yicy : Entry
 entity_yicy = MkEntry "&yicy;" "\1111" [1111] "yicy"
-
-export
-entity_yopf : Entry
-entity_yopf = MkEntry "&yopf;" "\NUL\NUL" [120170] "yopf"
-
-export
-entity_yscr : Entry
-entity_yscr = MkEntry "&yscr;" "\NUL\NUL" [120014] "yscr"
 
 export
 entity_yucy : Entry
@@ -8910,24 +8390,12 @@ entity_zeta : Entry
 entity_zeta = MkEntry "&zeta;" "\950" [950] "zeta"
 
 export
-entity_zfr : Entry
-entity_zfr = MkEntry "&zfr;" "\NUL\NUL" [120119] "zfr"
-
-export
 entity_zhcy : Entry
 entity_zhcy = MkEntry "&zhcy;" "\1078" [1078] "zhcy"
 
 export
 entity_zigrarr : Entry
 entity_zigrarr = MkEntry "&zigrarr;" "\8669" [8669] "zigrarr"
-
-export
-entity_zopf : Entry
-entity_zopf = MkEntry "&zopf;" "\NUL\NUL" [120171] "zopf"
-
-export
-entity_zscr : Entry
-entity_zscr = MkEntry "&zscr;" "\NUL\NUL" [120015] "zscr"
 
 export
 entity_zwj : Entry
@@ -8950,18 +8418,15 @@ entries =
   , entity_Acirc_withoutSemicolon
   , entity_Acirc
   , entity_Acy
-  , entity_Afr
   , entity_Agrave_withoutSemicolon
   , entity_Agrave
   , entity_Alpha
   , entity_Amacr
   , entity_And
   , entity_Aogon
-  , entity_Aopf
   , entity_ApplyFunction
   , entity_Aring_withoutSemicolon
   , entity_Aring
-  , entity_Ascr
   , entity_Assign
   , entity_Atilde_withoutSemicolon
   , entity_Atilde
@@ -8974,8 +8439,6 @@ entries =
   , entity_Because
   , entity_Bernoullis
   , entity_Beta
-  , entity_Bfr
-  , entity_Bopf
   , entity_Breve
   , entity_Bscr
   , entity_Bumpeq
@@ -9012,7 +8475,6 @@ entries =
   , entity_Coproduct
   , entity_CounterClockwiseContourIntegral
   , entity_Cross
-  , entity_Cscr
   , entity_Cup
   , entity_CupCap
   , entity_DD
@@ -9027,7 +8489,6 @@ entries =
   , entity_Dcy
   , entity_Del
   , entity_Delta
-  , entity_Dfr
   , entity_DiacriticalAcute
   , entity_DiacriticalDot
   , entity_DiacriticalDoubleAcute
@@ -9035,7 +8496,6 @@ entries =
   , entity_DiacriticalTilde
   , entity_Diamond
   , entity_DifferentialD
-  , entity_Dopf
   , entity_Dot
   , entity_DotDot
   , entity_DotEqual
@@ -9067,7 +8527,6 @@ entries =
   , entity_DownTee
   , entity_DownTeeArrow
   , entity_Downarrow
-  , entity_Dscr
   , entity_Dstrok
   , entity_ENG
   , entity_ETH_withoutSemicolon
@@ -9079,7 +8538,6 @@ entries =
   , entity_Ecirc
   , entity_Ecy
   , entity_Edot
-  , entity_Efr
   , entity_Egrave_withoutSemicolon
   , entity_Egrave
   , entity_Element
@@ -9087,7 +8545,6 @@ entries =
   , entity_EmptySmallSquare
   , entity_EmptyVerySmallSquare
   , entity_Eogon
-  , entity_Eopf
   , entity_Epsilon
   , entity_Equal
   , entity_EqualTilde
@@ -9100,10 +8557,8 @@ entries =
   , entity_Exists
   , entity_ExponentialE
   , entity_Fcy
-  , entity_Ffr
   , entity_FilledSmallSquare
   , entity_FilledVerySmallSquare
-  , entity_Fopf
   , entity_ForAll
   , entity_Fouriertrf
   , entity_Fscr
@@ -9117,9 +8572,7 @@ entries =
   , entity_Gcirc
   , entity_Gcy
   , entity_Gdot
-  , entity_Gfr
   , entity_Gg
-  , entity_Gopf
   , entity_GreaterEqual
   , entity_GreaterEqualLess
   , entity_GreaterFullEqual
@@ -9127,7 +8580,6 @@ entries =
   , entity_GreaterLess
   , entity_GreaterSlantEqual
   , entity_GreaterTilde
-  , entity_Gscr
   , entity_Gt
   , entity_HARDcy
   , entity_Hacek
@@ -9163,7 +8615,6 @@ entries =
   , entity_InvisibleComma
   , entity_InvisibleTimes
   , entity_Iogon
-  , entity_Iopf
   , entity_Iota
   , entity_Iscr
   , entity_Itilde
@@ -9172,9 +8623,6 @@ entries =
   , entity_Iuml
   , entity_Jcirc
   , entity_Jcy
-  , entity_Jfr
-  , entity_Jopf
-  , entity_Jscr
   , entity_Jsercy
   , entity_Jukcy
   , entity_KHcy
@@ -9182,9 +8630,6 @@ entries =
   , entity_Kappa
   , entity_Kcedil
   , entity_Kcy
-  , entity_Kfr
-  , entity_Kopf
-  , entity_Kscr
   , entity_LJcy
   , entity_LT_withoutSemicolon
   , entity_LT
@@ -9228,7 +8673,6 @@ entries =
   , entity_LessLess
   , entity_LessSlantEqual
   , entity_LessTilde
-  , entity_Lfr
   , entity_Ll
   , entity_Lleftarrow
   , entity_Lmidot
@@ -9238,7 +8682,6 @@ entries =
   , entity_Longleftarrow
   , entity_Longleftrightarrow
   , entity_Longrightarrow
-  , entity_Lopf
   , entity_LowerLeftArrow
   , entity_LowerRightArrow
   , entity_Lscr
@@ -9249,9 +8692,7 @@ entries =
   , entity_Mcy
   , entity_MediumSpace
   , entity_Mellintrf
-  , entity_Mfr
   , entity_MinusPlus
-  , entity_Mopf
   , entity_Mscr
   , entity_Mu
   , entity_NJcy
@@ -9266,7 +8707,6 @@ entries =
   , entity_NestedGreaterGreater
   , entity_NestedLessLess
   , entity_NewLine
-  , entity_Nfr
   , entity_NoBreak
   , entity_NonBreakingSpace
   , entity_Nopf
@@ -9322,7 +8762,6 @@ entries =
   , entity_NotTildeFullEqual
   , entity_NotTildeTilde
   , entity_NotVerticalBar
-  , entity_Nscr
   , entity_Ntilde_withoutSemicolon
   , entity_Ntilde
   , entity_Nu
@@ -9333,17 +8772,14 @@ entries =
   , entity_Ocirc
   , entity_Ocy
   , entity_Odblac
-  , entity_Ofr
   , entity_Ograve_withoutSemicolon
   , entity_Ograve
   , entity_Omacr
   , entity_Omega
   , entity_Omicron
-  , entity_Oopf
   , entity_OpenCurlyDoubleQuote
   , entity_OpenCurlyQuote
   , entity_Or
-  , entity_Oscr
   , entity_Oslash_withoutSemicolon
   , entity_Oslash
   , entity_Otilde_withoutSemicolon
@@ -9357,7 +8793,6 @@ entries =
   , entity_OverParenthesis
   , entity_PartialD
   , entity_Pcy
-  , entity_Pfr
   , entity_Phi
   , entity_Pi
   , entity_PlusMinus
@@ -9372,13 +8807,10 @@ entries =
   , entity_Product
   , entity_Proportion
   , entity_Proportional
-  , entity_Pscr
   , entity_Psi
   , entity_QUOT_withoutSemicolon
   , entity_QUOT
-  , entity_Qfr
   , entity_Qopf
-  , entity_Qscr
   , entity_RBarr
   , entity_REG_withoutSemicolon
   , entity_REG
@@ -9433,14 +8865,12 @@ entries =
   , entity_Scedil
   , entity_Scirc
   , entity_Scy
-  , entity_Sfr
   , entity_ShortDownArrow
   , entity_ShortLeftArrow
   , entity_ShortRightArrow
   , entity_ShortUpArrow
   , entity_Sigma
   , entity_SmallCircle
-  , entity_Sopf
   , entity_Sqrt
   , entity_Square
   , entity_SquareIntersection
@@ -9449,7 +8879,6 @@ entries =
   , entity_SquareSuperset
   , entity_SquareSupersetEqual
   , entity_SquareUnion
-  , entity_Sscr
   , entity_Star
   , entity_Sub
   , entity_Subset
@@ -9474,7 +8903,6 @@ entries =
   , entity_Tcaron
   , entity_Tcedil
   , entity_Tcy
-  , entity_Tfr
   , entity_Therefore
   , entity_Theta
   , entity_ThickSpace
@@ -9483,9 +8911,7 @@ entries =
   , entity_TildeEqual
   , entity_TildeFullEqual
   , entity_TildeTilde
-  , entity_Topf
   , entity_TripleDot
-  , entity_Tscr
   , entity_Tstrok
   , entity_Uacute_withoutSemicolon
   , entity_Uacute
@@ -9497,7 +8923,6 @@ entries =
   , entity_Ucirc
   , entity_Ucy
   , entity_Udblac
-  , entity_Ufr
   , entity_Ugrave_withoutSemicolon
   , entity_Ugrave
   , entity_Umacr
@@ -9508,7 +8933,6 @@ entries =
   , entity_Union
   , entity_UnionPlus
   , entity_Uogon
-  , entity_Uopf
   , entity_UpArrow
   , entity_UpArrowBar
   , entity_UpArrowDownArrow
@@ -9523,7 +8947,6 @@ entries =
   , entity_Upsi
   , entity_Upsilon
   , entity_Uring
-  , entity_Uscr
   , entity_Utilde
   , entity_Uuml_withoutSemicolon
   , entity_Uuml
@@ -9540,19 +8963,10 @@ entries =
   , entity_VerticalSeparator
   , entity_VerticalTilde
   , entity_VeryThinSpace
-  , entity_Vfr
-  , entity_Vopf
-  , entity_Vscr
   , entity_Vvdash
   , entity_Wcirc
   , entity_Wedge
-  , entity_Wfr
-  , entity_Wopf
-  , entity_Wscr
-  , entity_Xfr
   , entity_Xi
-  , entity_Xopf
-  , entity_Xscr
   , entity_YAcy
   , entity_YIcy
   , entity_YUcy
@@ -9560,9 +8974,6 @@ entries =
   , entity_Yacute
   , entity_Ycirc
   , entity_Ycy
-  , entity_Yfr
-  , entity_Yopf
-  , entity_Yscr
   , entity_Yuml
   , entity_ZHcy
   , entity_Zacute
@@ -9573,7 +8984,6 @@ entries =
   , entity_Zeta
   , entity_Zfr
   , entity_Zopf
-  , entity_Zscr
   , entity_aacute_withoutSemicolon
   , entity_aacute
   , entity_abreve
@@ -9588,7 +8998,6 @@ entries =
   , entity_aelig_withoutSemicolon
   , entity_aelig
   , entity_af
-  , entity_afr
   , entity_agrave_withoutSemicolon
   , entity_agrave
   , entity_alefsym
@@ -9622,7 +9031,6 @@ entries =
   , entity_angst
   , entity_angzarr
   , entity_aogon
-  , entity_aopf
   , entity_ap
   , entity_apE
   , entity_apacir
@@ -9633,7 +9041,6 @@ entries =
   , entity_approxeq
   , entity_aring_withoutSemicolon
   , entity_aring
-  , entity_ascr
   , entity_ast
   , entity_asymp
   , entity_asympeq
@@ -9665,7 +9072,6 @@ entries =
   , entity_beta
   , entity_beth
   , entity_between
-  , entity_bfr
   , entity_bigcap
   , entity_bigcirc
   , entity_bigcup
@@ -9694,7 +9100,6 @@ entries =
   , entity_bne
   , entity_bnequiv
   , entity_bnot
-  , entity_bopf
   , entity_bot
   , entity_bottom
   , entity_bowtie
@@ -9746,7 +9151,6 @@ entries =
   , entity_breve
   , entity_brvbar_withoutSemicolon
   , entity_brvbar
-  , entity_bscr
   , entity_bsemi
   , entity_bsim
   , entity_bsime
@@ -9783,7 +9187,6 @@ entries =
   , entity_cent_withoutSemicolon
   , entity_cent
   , entity_centerdot
-  , entity_cfr
   , entity_chcy
   , entity_check
   , entity_checkmark
@@ -9817,14 +9220,12 @@ entries =
   , entity_cong
   , entity_congdot
   , entity_conint
-  , entity_copf
   , entity_coprod
   , entity_copy_withoutSemicolon
   , entity_copy
   , entity_copysr
   , entity_crarr
   , entity_cross
-  , entity_cscr
   , entity_csub
   , entity_csube
   , entity_csup
@@ -9878,7 +9279,6 @@ entries =
   , entity_delta
   , entity_demptyv
   , entity_dfisht
-  , entity_dfr
   , entity_dharl
   , entity_dharr
   , entity_diam
@@ -9897,7 +9297,6 @@ entries =
   , entity_dlcorn
   , entity_dlcrop
   , entity_dollar
-  , entity_dopf
   , entity_dot
   , entity_doteq
   , entity_doteqdot
@@ -9912,7 +9311,6 @@ entries =
   , entity_drbkarow
   , entity_drcorn
   , entity_drcrop
-  , entity_dscr
   , entity_dscy
   , entity_dsol
   , entity_dstrok
@@ -9938,7 +9336,6 @@ entries =
   , entity_edot
   , entity_ee
   , entity_efDot
-  , entity_efr
   , entity_eg
   , entity_egrave_withoutSemicolon
   , entity_egrave
@@ -9959,7 +9356,6 @@ entries =
   , entity_eng
   , entity_ensp
   , entity_eogon
-  , entity_eopf
   , entity_epar
   , entity_eparsl
   , entity_eplus
@@ -9997,14 +9393,12 @@ entries =
   , entity_ffilig
   , entity_fflig
   , entity_ffllig
-  , entity_ffr
   , entity_filig
   , entity_fjlig
   , entity_flat
   , entity_fllig
   , entity_fltns
   , entity_fnof
-  , entity_fopf
   , entity_forall
   , entity_fork
   , entity_forkv
@@ -10029,7 +9423,6 @@ entries =
   , entity_frac78
   , entity_frasl
   , entity_frown
-  , entity_fscr
   , entity_gE
   , entity_gEl
   , entity_gacute
@@ -10052,7 +9445,6 @@ entries =
   , entity_gesdotol
   , entity_gesl
   , entity_gesles
-  , entity_gfr
   , entity_gg
   , entity_ggg
   , entity_gimel
@@ -10068,7 +9460,6 @@ entries =
   , entity_gneq
   , entity_gneqq
   , entity_gnsim
-  , entity_gopf
   , entity_grave
   , entity_gscr
   , entity_gsim
@@ -10104,16 +9495,13 @@ entries =
   , entity_heartsuit
   , entity_hellip
   , entity_hercon
-  , entity_hfr
   , entity_hksearow
   , entity_hkswarow
   , entity_hoarr
   , entity_homtht
   , entity_hookleftarrow
   , entity_hookrightarrow
-  , entity_hopf
   , entity_horbar
-  , entity_hscr
   , entity_hslash
   , entity_hstrok
   , entity_hybull
@@ -10128,7 +9516,6 @@ entries =
   , entity_iexcl_withoutSemicolon
   , entity_iexcl
   , entity_iff
-  , entity_ifr
   , entity_igrave_withoutSemicolon
   , entity_igrave
   , entity_ii
@@ -10157,12 +9544,10 @@ entries =
   , entity_intprod
   , entity_iocy
   , entity_iogon
-  , entity_iopf
   , entity_iota
   , entity_iprod
   , entity_iquest_withoutSemicolon
   , entity_iquest
-  , entity_iscr
   , entity_isin
   , entity_isinE
   , entity_isindot
@@ -10176,22 +9561,16 @@ entries =
   , entity_iuml
   , entity_jcirc
   , entity_jcy
-  , entity_jfr
   , entity_jmath
-  , entity_jopf
-  , entity_jscr
   , entity_jsercy
   , entity_jukcy
   , entity_kappa
   , entity_kappav
   , entity_kcedil
   , entity_kcy
-  , entity_kfr
   , entity_kgreen
   , entity_khcy
   , entity_kjcy
-  , entity_kopf
-  , entity_kscr
   , entity_lAarr
   , entity_lArr
   , entity_lAtail
@@ -10270,7 +9649,6 @@ entries =
   , entity_lesssim
   , entity_lfisht
   , entity_lfloor
-  , entity_lfr
   , entity_lg
   , entity_lgE
   , entity_lhard
@@ -10303,7 +9681,6 @@ entries =
   , entity_looparrowleft
   , entity_looparrowright
   , entity_lopar
-  , entity_lopf
   , entity_loplus
   , entity_lotimes
   , entity_lowast
@@ -10320,7 +9697,6 @@ entries =
   , entity_lrm
   , entity_lrtri
   , entity_lsaquo
-  , entity_lscr
   , entity_lsh
   , entity_lsim
   , entity_lsime
@@ -10362,7 +9738,6 @@ entries =
   , entity_mcy
   , entity_mdash
   , entity_measuredangle
-  , entity_mfr
   , entity_mho
   , entity_micro_withoutSemicolon
   , entity_micro
@@ -10379,9 +9754,7 @@ entries =
   , entity_mldr
   , entity_mnplus
   , entity_models
-  , entity_mopf
   , entity_mp
-  , entity_mscr
   , entity_mstpos
   , entity_mu
   , entity_multimap
@@ -10431,7 +9804,6 @@ entries =
   , entity_nesim
   , entity_nexist
   , entity_nexists
-  , entity_nfr
   , entity_ngE
   , entity_nge
   , entity_ngeq
@@ -10466,7 +9838,6 @@ entries =
   , entity_nltri
   , entity_nltrie
   , entity_nmid
-  , entity_nopf
   , entity_not_withoutSemicolon
   , entity_not
   , entity_notin
@@ -10499,7 +9870,6 @@ entries =
   , entity_nsc
   , entity_nsccue
   , entity_nsce
-  , entity_nscr
   , entity_nshortmid
   , entity_nshortparallel
   , entity_nsim
@@ -10569,7 +9939,6 @@ entries =
   , entity_odsold
   , entity_oelig
   , entity_ofcir
-  , entity_ofr
   , entity_ogon
   , entity_ograve_withoutSemicolon
   , entity_ograve
@@ -10587,7 +9956,6 @@ entries =
   , entity_omicron
   , entity_omid
   , entity_ominus
-  , entity_oopf
   , entity_opar
   , entity_operp
   , entity_oplus
@@ -10628,7 +9996,6 @@ entries =
   , entity_permil
   , entity_perp
   , entity_pertenk
-  , entity_pfr
   , entity_phi
   , entity_phiv
   , entity_phmmat
@@ -10652,7 +10019,6 @@ entries =
   , entity_plustwo
   , entity_pm
   , entity_pointint
-  , entity_popf
   , entity_pound_withoutSemicolon
   , entity_pound
   , entity_pr
@@ -10681,14 +10047,10 @@ entries =
   , entity_propto
   , entity_prsim
   , entity_prurel
-  , entity_pscr
   , entity_psi
   , entity_puncsp
-  , entity_qfr
   , entity_qint
-  , entity_qopf
   , entity_qprime
-  , entity_qscr
   , entity_quaternions
   , entity_quatint
   , entity_quest
@@ -10751,7 +10113,6 @@ entries =
   , entity_reg
   , entity_rfisht
   , entity_rfloor
-  , entity_rfr
   , entity_rhard
   , entity_rharu
   , entity_rharul
@@ -10778,7 +10139,6 @@ entries =
   , entity_roarr
   , entity_robrk
   , entity_ropar
-  , entity_ropf
   , entity_roplus
   , entity_rotimes
   , entity_rpar
@@ -10786,7 +10146,6 @@ entries =
   , entity_rppolint
   , entity_rrarr
   , entity_rsaquo
-  , entity_rscr
   , entity_rsh
   , entity_rsqb
   , entity_rsquo
@@ -10829,7 +10188,6 @@ entries =
   , entity_setminus
   , entity_setmn
   , entity_sext
-  , entity_sfr
   , entity_sfrown
   , entity_sharp
   , entity_shchcy
@@ -10865,7 +10223,6 @@ entries =
   , entity_sol
   , entity_solb
   , entity_solbar
-  , entity_sopf
   , entity_spades
   , entity_spadesuit
   , entity_spar
@@ -10886,7 +10243,6 @@ entries =
   , entity_squarf
   , entity_squf
   , entity_srarr
-  , entity_sscr
   , entity_ssetmn
   , entity_ssmile
   , entity_sstarf
@@ -10965,7 +10321,6 @@ entries =
   , entity_tcy
   , entity_tdot
   , entity_telrec
-  , entity_tfr
   , entity_there4
   , entity_therefore
   , entity_theta
@@ -10989,7 +10344,6 @@ entries =
   , entity_top
   , entity_topbot
   , entity_topcir
-  , entity_topf
   , entity_topfork
   , entity_tosa
   , entity_tprime
@@ -11008,7 +10362,6 @@ entries =
   , entity_trisb
   , entity_tritime
   , entity_trpezium
-  , entity_tscr
   , entity_tscy
   , entity_tshcy
   , entity_tstrok
@@ -11029,7 +10382,6 @@ entries =
   , entity_udblac
   , entity_udhar
   , entity_ufisht
-  , entity_ufr
   , entity_ugrave_withoutSemicolon
   , entity_ugrave
   , entity_uharl
@@ -11043,7 +10395,6 @@ entries =
   , entity_uml_withoutSemicolon
   , entity_uml
   , entity_uogon
-  , entity_uopf
   , entity_uparrow
   , entity_updownarrow
   , entity_upharpoonleft
@@ -11058,7 +10409,6 @@ entries =
   , entity_urcrop
   , entity_uring
   , entity_urtri
-  , entity_uscr
   , entity_utdot
   , entity_utilde
   , entity_utri
@@ -11096,14 +10446,11 @@ entries =
   , entity_vellip
   , entity_verbar
   , entity_vert
-  , entity_vfr
   , entity_vltri
   , entity_vnsub
   , entity_vnsup
-  , entity_vopf
   , entity_vprop
   , entity_vrtri
-  , entity_vscr
   , entity_vsubnE
   , entity_vsubne
   , entity_vsupnE
@@ -11114,17 +10461,13 @@ entries =
   , entity_wedge
   , entity_wedgeq
   , entity_weierp
-  , entity_wfr
-  , entity_wopf
   , entity_wp
   , entity_wr
   , entity_wreath
-  , entity_wscr
   , entity_xcap
   , entity_xcirc
   , entity_xcup
   , entity_xdtri
-  , entity_xfr
   , entity_xhArr
   , entity_xharr
   , entity_xi
@@ -11133,12 +10476,10 @@ entries =
   , entity_xmap
   , entity_xnis
   , entity_xodot
-  , entity_xopf
   , entity_xoplus
   , entity_xotime
   , entity_xrArr
   , entity_xrarr
-  , entity_xscr
   , entity_xsqcup
   , entity_xuplus
   , entity_xutri
@@ -11151,10 +10492,7 @@ entries =
   , entity_ycy
   , entity_yen_withoutSemicolon
   , entity_yen
-  , entity_yfr
   , entity_yicy
-  , entity_yopf
-  , entity_yscr
   , entity_yucy
   , entity_yuml_withoutSemicolon
   , entity_yuml
@@ -11164,11 +10502,2774 @@ entries =
   , entity_zdot
   , entity_zeetrf
   , entity_zeta
-  , entity_zfr
   , entity_zhcy
   , entity_zigrarr
-  , entity_zopf
-  , entity_zscr
   , entity_zwj
   , entity_zwnj
   ]
+
+export
+decodeEntity : String -> Maybe String
+decodeEntity "&zwnj;" = Just "\8204"
+decodeEntity "&zwj;" = Just "\8205"
+decodeEntity "&zigrarr;" = Just "\8669"
+decodeEntity "&zhcy;" = Just "\1078"
+decodeEntity "&zeta;" = Just "\950"
+decodeEntity "&zeetrf;" = Just "\8488"
+decodeEntity "&zdot;" = Just "\380"
+decodeEntity "&zcy;" = Just "\1079"
+decodeEntity "&zcaron;" = Just "\382"
+decodeEntity "&zacute;" = Just "\378"
+decodeEntity "&yuml;" = Just "\255"
+decodeEntity "&yucy;" = Just "\1102"
+decodeEntity "&yicy;" = Just "\1111"
+decodeEntity "&yen;" = Just "\165"
+decodeEntity "&ycy;" = Just "\1099"
+decodeEntity "&ycirc;" = Just "\375"
+decodeEntity "&yacy;" = Just "\1103"
+decodeEntity "&yacute;" = Just "\253"
+decodeEntity "&xwedge;" = Just "\8896"
+decodeEntity "&xvee;" = Just "\8897"
+decodeEntity "&xutri;" = Just "\9651"
+decodeEntity "&xuplus;" = Just "\10756"
+decodeEntity "&xsqcup;" = Just "\10758"
+decodeEntity "&xrarr;" = Just "\10230"
+decodeEntity "&xrArr;" = Just "\10233"
+decodeEntity "&xotime;" = Just "\10754"
+decodeEntity "&xoplus;" = Just "\10753"
+decodeEntity "&xodot;" = Just "\10752"
+decodeEntity "&xnis;" = Just "\8955"
+decodeEntity "&xmap;" = Just "\10236"
+decodeEntity "&xlarr;" = Just "\10229"
+decodeEntity "&xlArr;" = Just "\10232"
+decodeEntity "&xi;" = Just "\958"
+decodeEntity "&xharr;" = Just "\10231"
+decodeEntity "&xhArr;" = Just "\10234"
+decodeEntity "&xdtri;" = Just "\9661"
+decodeEntity "&xcup;" = Just "\8899"
+decodeEntity "&xcirc;" = Just "\9711"
+decodeEntity "&xcap;" = Just "\8898"
+decodeEntity "&wreath;" = Just "\8768"
+decodeEntity "&wp;" = Just "\8472"
+decodeEntity "&wedgeq;" = Just "\8793"
+decodeEntity "&wedge;" = Just "\8743"
+decodeEntity "&wedbar;" = Just "\10847"
+decodeEntity "&wcirc;" = Just "\373"
+decodeEntity "&vzigzag;" = Just "\10650"
+decodeEntity "&vsupne;" = Just "\8843\65024"
+decodeEntity "&vsupnE;" = Just "\10956\65024"
+decodeEntity "&vsubne;" = Just "\8842\65024"
+decodeEntity "&vsubnE;" = Just "\10955\65024"
+decodeEntity "&vrtri;" = Just "\8883"
+decodeEntity "&vprop;" = Just "\8733"
+decodeEntity "&vnsup;" = Just "\8835\8402"
+decodeEntity "&vnsub;" = Just "\8834\8402"
+decodeEntity "&vltri;" = Just "\8882"
+decodeEntity "&vert;" = Just "|"
+decodeEntity "&vellip;" = Just "\8942"
+decodeEntity "&veeeq;" = Just "\8794"
+decodeEntity "&veebar;" = Just "\8891"
+decodeEntity "&vee;" = Just "\8744"
+decodeEntity "&vdash;" = Just "\8866"
+decodeEntity "&vcy;" = Just "\1074"
+decodeEntity "&vartheta;" = Just "\977"
+decodeEntity "&varsigma;" = Just "\962"
+decodeEntity "&varrho;" = Just "\1009"
+decodeEntity "&varr;" = Just "\8597"
+decodeEntity "&varpi;" = Just "\982"
+decodeEntity "&varphi;" = Just "\981"
+decodeEntity "&varnothing;" = Just "\8709"
+decodeEntity "&varkappa;" = Just "\1008"
+decodeEntity "&varepsilon;" = Just "\1013"
+decodeEntity "&vangrt;" = Just "\10652"
+decodeEntity "&vDash;" = Just "\8872"
+decodeEntity "&vBarv;" = Just "\10985"
+decodeEntity "&vBar;" = Just "\10984"
+decodeEntity "&vArr;" = Just "\8661"
+decodeEntity "&uwangle;" = Just "\10663"
+decodeEntity "&uuml;" = Just "\252"
+decodeEntity "&uuarr;" = Just "\8648"
+decodeEntity "&utrif;" = Just "\9652"
+decodeEntity "&utri;" = Just "\9653"
+decodeEntity "&utilde;" = Just "\361"
+decodeEntity "&utdot;" = Just "\8944"
+decodeEntity "&urtri;" = Just "\9721"
+decodeEntity "&uring;" = Just "\367"
+decodeEntity "&urcrop;" = Just "\8974"
+decodeEntity "&urcorner;" = Just "\8989"
+decodeEntity "&upsilon;" = Just "\965"
+decodeEntity "&upsih;" = Just "\978"
+decodeEntity "&uplus;" = Just "\8846"
+decodeEntity "&upharpoonright;" = Just "\8638"
+decodeEntity "&upharpoonleft;" = Just "\8639"
+decodeEntity "&uparrow;" = Just "\8593"
+decodeEntity "&uogon;" = Just "\371"
+decodeEntity "&uml;" = Just "\168"
+decodeEntity "&umacr;" = Just "\363"
+decodeEntity "&ultri;" = Just "\9720"
+decodeEntity "&ulcrop;" = Just "\8975"
+decodeEntity "&ulcorner;" = Just "\8988"
+decodeEntity "&uhblk;" = Just "\9600"
+decodeEntity "&ugrave;" = Just "\249"
+decodeEntity "&ufisht;" = Just "\10622"
+decodeEntity "&udhar;" = Just "\10606"
+decodeEntity "&udblac;" = Just "\369"
+decodeEntity "&udarr;" = Just "\8645"
+decodeEntity "&ucy;" = Just "\1091"
+decodeEntity "&ucirc;" = Just "\251"
+decodeEntity "&ubreve;" = Just "\365"
+decodeEntity "&ubrcy;" = Just "\1118"
+decodeEntity "&uacute;" = Just "\250"
+decodeEntity "&uHar;" = Just "\10595"
+decodeEntity "&uArr;" = Just "\8657"
+decodeEntity "&twoheadrightarrow;" = Just "\8608"
+decodeEntity "&twoheadleftarrow;" = Just "\8606"
+decodeEntity "&twixt;" = Just "\8812"
+decodeEntity "&tstrok;" = Just "\359"
+decodeEntity "&tshcy;" = Just "\1115"
+decodeEntity "&tscy;" = Just "\1094"
+decodeEntity "&trpezium;" = Just "\9186"
+decodeEntity "&tritime;" = Just "\10811"
+decodeEntity "&trisb;" = Just "\10701"
+decodeEntity "&triplus;" = Just "\10809"
+decodeEntity "&triminus;" = Just "\10810"
+decodeEntity "&trie;" = Just "\8796"
+decodeEntity "&tridot;" = Just "\9708"
+decodeEntity "&trianglerighteq;" = Just "\8885"
+decodeEntity "&triangleright;" = Just "\9657"
+decodeEntity "&trianglelefteq;" = Just "\8884"
+decodeEntity "&triangleleft;" = Just "\9667"
+decodeEntity "&triangledown;" = Just "\9663"
+decodeEntity "&trade;" = Just "\8482"
+decodeEntity "&tprime;" = Just "\8244"
+decodeEntity "&tosa;" = Just "\10537"
+decodeEntity "&topfork;" = Just "\10970"
+decodeEntity "&topcir;" = Just "\10993"
+decodeEntity "&topbot;" = Just "\9014"
+decodeEntity "&top;" = Just "\8868"
+decodeEntity "&toea;" = Just "\10536"
+decodeEntity "&tint;" = Just "\8749"
+decodeEntity "&timesd;" = Just "\10800"
+decodeEntity "&timesbar;" = Just "\10801"
+decodeEntity "&timesb;" = Just "\8864"
+decodeEntity "&times;" = Just "\215"
+decodeEntity "&tilde;" = Just "\732"
+decodeEntity "&thorn;" = Just "\254"
+decodeEntity "&thksim;" = Just "\8764"
+decodeEntity "&thkap;" = Just "\8776"
+decodeEntity "&thinsp;" = Just "\8201"
+decodeEntity "&theta;" = Just "\952"
+decodeEntity "&therefore;" = Just "\8756"
+decodeEntity "&telrec;" = Just "\8981"
+decodeEntity "&tdot;" = Just "\8411"
+decodeEntity "&tcy;" = Just "\1090"
+decodeEntity "&tcedil;" = Just "\355"
+decodeEntity "&tcaron;" = Just "\357"
+decodeEntity "&tbrk;" = Just "\9140"
+decodeEntity "&tau;" = Just "\964"
+decodeEntity "&target;" = Just "\8982"
+decodeEntity "&szlig;" = Just "\223"
+decodeEntity "&swnwar;" = Just "\10538"
+decodeEntity "&swarrow;" = Just "\8601"
+decodeEntity "&swarhk;" = Just "\10534"
+decodeEntity "&swArr;" = Just "\8665"
+decodeEntity "&supsup;" = Just "\10966"
+decodeEntity "&supsub;" = Just "\10964"
+decodeEntity "&supsim;" = Just "\10952"
+decodeEntity "&supsetneqq;" = Just "\10956"
+decodeEntity "&supsetneq;" = Just "\8843"
+decodeEntity "&supseteqq;" = Just "\10950"
+decodeEntity "&supseteq;" = Just "\8839"
+decodeEntity "&supset;" = Just "\8835"
+decodeEntity "&supplus;" = Just "\10944"
+decodeEntity "&supmult;" = Just "\10946"
+decodeEntity "&suplarr;" = Just "\10619"
+decodeEntity "&suphsub;" = Just "\10967"
+decodeEntity "&suphsol;" = Just "\10185"
+decodeEntity "&supedot;" = Just "\10948"
+decodeEntity "&supdsub;" = Just "\10968"
+decodeEntity "&supdot;" = Just "\10942"
+decodeEntity "&sup3;" = Just "\179"
+decodeEntity "&sup2;" = Just "\178"
+decodeEntity "&sup1;" = Just "\185"
+decodeEntity "&sung;" = Just "\9834"
+decodeEntity "&sum;" = Just "\8721"
+decodeEntity "&succsim;" = Just "\8831"
+decodeEntity "&succnsim;" = Just "\8937"
+decodeEntity "&succneqq;" = Just "\10934"
+decodeEntity "&succnapprox;" = Just "\10938"
+decodeEntity "&succeq;" = Just "\10928"
+decodeEntity "&succcurlyeq;" = Just "\8829"
+decodeEntity "&succapprox;" = Just "\10936"
+decodeEntity "&succ;" = Just "\8827"
+decodeEntity "&subsup;" = Just "\10963"
+decodeEntity "&subsub;" = Just "\10965"
+decodeEntity "&subsim;" = Just "\10951"
+decodeEntity "&subsetneqq;" = Just "\10955"
+decodeEntity "&subsetneq;" = Just "\8842"
+decodeEntity "&subseteqq;" = Just "\10949"
+decodeEntity "&subseteq;" = Just "\8838"
+decodeEntity "&subset;" = Just "\8834"
+decodeEntity "&subrarr;" = Just "\10617"
+decodeEntity "&subplus;" = Just "\10943"
+decodeEntity "&submult;" = Just "\10945"
+decodeEntity "&subedot;" = Just "\10947"
+decodeEntity "&subdot;" = Just "\10941"
+decodeEntity "&strns;" = Just "\175"
+decodeEntity "&starf;" = Just "\9733"
+decodeEntity "&star;" = Just "\9734"
+decodeEntity "&sstarf;" = Just "\8902"
+decodeEntity "&ssmile;" = Just "\8995"
+decodeEntity "&ssetmn;" = Just "\8726"
+decodeEntity "&srarr;" = Just "\8594"
+decodeEntity "&squf;" = Just "\9642"
+decodeEntity "&square;" = Just "\9633"
+decodeEntity "&sqsupseteq;" = Just "\8850"
+decodeEntity "&sqsupset;" = Just "\8848"
+decodeEntity "&sqsubseteq;" = Just "\8849"
+decodeEntity "&sqsubset;" = Just "\8847"
+decodeEntity "&sqcups;" = Just "\8852\65024"
+decodeEntity "&sqcup;" = Just "\8852"
+decodeEntity "&sqcaps;" = Just "\8851\65024"
+decodeEntity "&sqcap;" = Just "\8851"
+decodeEntity "&spar;" = Just "\8741"
+decodeEntity "&spadesuit;" = Just "\9824"
+decodeEntity "&solbar;" = Just "\9023"
+decodeEntity "&solb;" = Just "\10692"
+decodeEntity "&sol;" = Just "/"
+decodeEntity "&softcy;" = Just "\1100"
+decodeEntity "&smtes;" = Just "\10924\65024"
+decodeEntity "&smte;" = Just "\10924"
+decodeEntity "&smt;" = Just "\10922"
+decodeEntity "&smid;" = Just "\8739"
+decodeEntity "&smeparsl;" = Just "\10724"
+decodeEntity "&smashp;" = Just "\10803"
+decodeEntity "&slarr;" = Just "\8592"
+decodeEntity "&simrarr;" = Just "\10610"
+decodeEntity "&simplus;" = Just "\10788"
+decodeEntity "&simne;" = Just "\8774"
+decodeEntity "&simlE;" = Just "\10911"
+decodeEntity "&siml;" = Just "\10909"
+decodeEntity "&simgE;" = Just "\10912"
+decodeEntity "&simg;" = Just "\10910"
+decodeEntity "&simeq;" = Just "\8771"
+decodeEntity "&simdot;" = Just "\10858"
+decodeEntity "&sigma;" = Just "\963"
+decodeEntity "&shy;" = Just "\173"
+decodeEntity "&shcy;" = Just "\1096"
+decodeEntity "&shchcy;" = Just "\1097"
+decodeEntity "&sharp;" = Just "\9839"
+decodeEntity "&sfrown;" = Just "\8994"
+decodeEntity "&sext;" = Just "\10038"
+decodeEntity "&semi;" = Just ";"
+decodeEntity "&sect;" = Just "\167"
+decodeEntity "&searrow;" = Just "\8600"
+decodeEntity "&searhk;" = Just "\10533"
+decodeEntity "&seArr;" = Just "\8664"
+decodeEntity "&sdote;" = Just "\10854"
+decodeEntity "&sdotb;" = Just "\8865"
+decodeEntity "&sdot;" = Just "\8901"
+decodeEntity "&scy;" = Just "\1089"
+decodeEntity "&scpolint;" = Just "\10771"
+decodeEntity "&scirc;" = Just "\349"
+decodeEntity "&scedil;" = Just "\351"
+decodeEntity "&scaron;" = Just "\353"
+decodeEntity "&scE;" = Just "\10932"
+decodeEntity "&sbquo;" = Just "\8218"
+decodeEntity "&sacute;" = Just "\347"
+decodeEntity "&rx;" = Just "\8478"
+decodeEntity "&ruluhar;" = Just "\10600"
+decodeEntity "&rtriltri;" = Just "\10702"
+decodeEntity "&rtrif;" = Just "\9656"
+decodeEntity "&rtimes;" = Just "\8906"
+decodeEntity "&rthree;" = Just "\8908"
+decodeEntity "&rsquor;" = Just "\8217"
+decodeEntity "&rsqb;" = Just "]"
+decodeEntity "&rsh;" = Just "\8625"
+decodeEntity "&rsaquo;" = Just "\8250"
+decodeEntity "&rrarr;" = Just "\8649"
+decodeEntity "&rppolint;" = Just "\10770"
+decodeEntity "&rpargt;" = Just "\10644"
+decodeEntity "&rpar;" = Just ")"
+decodeEntity "&rotimes;" = Just "\10805"
+decodeEntity "&roplus;" = Just "\10798"
+decodeEntity "&ropar;" = Just "\10630"
+decodeEntity "&robrk;" = Just "\10215"
+decodeEntity "&roarr;" = Just "\8702"
+decodeEntity "&roang;" = Just "\10221"
+decodeEntity "&rnmid;" = Just "\10990"
+decodeEntity "&rmoustache;" = Just "\9137"
+decodeEntity "&rlm;" = Just "\8207"
+decodeEntity "&rlhar;" = Just "\8652"
+decodeEntity "&rlarr;" = Just "\8644"
+decodeEntity "&risingdotseq;" = Just "\8787"
+decodeEntity "&ring;" = Just "\730"
+decodeEntity "&rightsquigarrow;" = Just "\8605"
+decodeEntity "&rightharpoonup;" = Just "\8640"
+decodeEntity "&rightharpoondown;" = Just "\8641"
+decodeEntity "&rightarrowtail;" = Just "\8611"
+decodeEntity "&rho;" = Just "\961"
+decodeEntity "&rharul;" = Just "\10604"
+decodeEntity "&rfloor;" = Just "\8971"
+decodeEntity "&rfisht;" = Just "\10621"
+decodeEntity "&reg;" = Just "\174"
+decodeEntity "&rect;" = Just "\9645"
+decodeEntity "&reals;" = Just "\8477"
+decodeEntity "&realpart;" = Just "\8476"
+decodeEntity "&realine;" = Just "\8475"
+decodeEntity "&rdsh;" = Just "\8627"
+decodeEntity "&rdquor;" = Just "\8221"
+decodeEntity "&rdldhar;" = Just "\10601"
+decodeEntity "&rdca;" = Just "\10551"
+decodeEntity "&rcy;" = Just "\1088"
+decodeEntity "&rcub;" = Just "}"
+decodeEntity "&rceil;" = Just "\8969"
+decodeEntity "&rcedil;" = Just "\343"
+decodeEntity "&rcaron;" = Just "\345"
+decodeEntity "&rbrkslu;" = Just "\10640"
+decodeEntity "&rbrksld;" = Just "\10638"
+decodeEntity "&rbrke;" = Just "\10636"
+decodeEntity "&rbbrk;" = Just "\10099"
+decodeEntity "&rbarr;" = Just "\10509"
+decodeEntity "&rationals;" = Just "\8474"
+decodeEntity "&ratio;" = Just "\8758"
+decodeEntity "&ratail;" = Just "\10522"
+decodeEntity "&rarrsim;" = Just "\10612"
+decodeEntity "&rarrpl;" = Just "\10565"
+decodeEntity "&rarrlp;" = Just "\8620"
+decodeEntity "&rarrhk;" = Just "\8618"
+decodeEntity "&rarrfs;" = Just "\10526"
+decodeEntity "&rarrc;" = Just "\10547"
+decodeEntity "&rarrbfs;" = Just "\10528"
+decodeEntity "&rarrb;" = Just "\8677"
+decodeEntity "&rarrap;" = Just "\10613"
+decodeEntity "&raquo;" = Just "\187"
+decodeEntity "&rangle;" = Just "\10217"
+decodeEntity "&range;" = Just "\10661"
+decodeEntity "&rangd;" = Just "\10642"
+decodeEntity "&raemptyv;" = Just "\10675"
+decodeEntity "&radic;" = Just "\8730"
+decodeEntity "&racute;" = Just "\341"
+decodeEntity "&race;" = Just "\8765\817"
+decodeEntity "&rHar;" = Just "\10596"
+decodeEntity "&rBarr;" = Just "\10511"
+decodeEntity "&rAtail;" = Just "\10524"
+decodeEntity "&rArr;" = Just "\8658"
+decodeEntity "&rAarr;" = Just "\8667"
+decodeEntity "&quot;" = Just "\""
+decodeEntity "&questeq;" = Just "\8799"
+decodeEntity "&quest;" = Just "?"
+decodeEntity "&quatint;" = Just "\10774"
+decodeEntity "&quaternions;" = Just "\8461"
+decodeEntity "&qprime;" = Just "\8279"
+decodeEntity "&qint;" = Just "\10764"
+decodeEntity "&puncsp;" = Just "\8200"
+decodeEntity "&psi;" = Just "\968"
+decodeEntity "&prurel;" = Just "\8880"
+decodeEntity "&prsim;" = Just "\8830"
+decodeEntity "&profsurf;" = Just "\8979"
+decodeEntity "&profline;" = Just "\8978"
+decodeEntity "&profalar;" = Just "\9006"
+decodeEntity "&prod;" = Just "\8719"
+decodeEntity "&prnsim;" = Just "\8936"
+decodeEntity "&prnap;" = Just "\10937"
+decodeEntity "&prnE;" = Just "\10933"
+decodeEntity "&primes;" = Just "\8473"
+decodeEntity "&prime;" = Just "\8242"
+decodeEntity "&preceq;" = Just "\10927"
+decodeEntity "&preccurlyeq;" = Just "\8828"
+decodeEntity "&precapprox;" = Just "\10935"
+decodeEntity "&prec;" = Just "\8826"
+decodeEntity "&prE;" = Just "\10931"
+decodeEntity "&pound;" = Just "\163"
+decodeEntity "&pointint;" = Just "\10773"
+decodeEntity "&pm;" = Just "\177"
+decodeEntity "&plustwo;" = Just "\10791"
+decodeEntity "&plussim;" = Just "\10790"
+decodeEntity "&pluse;" = Just "\10866"
+decodeEntity "&plusdu;" = Just "\10789"
+decodeEntity "&plusdo;" = Just "\8724"
+decodeEntity "&pluscir;" = Just "\10786"
+decodeEntity "&plusb;" = Just "\8862"
+decodeEntity "&plusacir;" = Just "\10787"
+decodeEntity "&plus;" = Just "+"
+decodeEntity "&plankv;" = Just "\8463"
+decodeEntity "&planckh;" = Just "\8462"
+decodeEntity "&pitchfork;" = Just "\8916"
+decodeEntity "&pi;" = Just "\960"
+decodeEntity "&phone;" = Just "\9742"
+decodeEntity "&phmmat;" = Just "\8499"
+decodeEntity "&phi;" = Just "\966"
+decodeEntity "&pertenk;" = Just "\8241"
+decodeEntity "&perp;" = Just "\8869"
+decodeEntity "&permil;" = Just "\8240"
+decodeEntity "&period;" = Just "."
+decodeEntity "&percnt;" = Just "%"
+decodeEntity "&pcy;" = Just "\1087"
+decodeEntity "&part;" = Just "\8706"
+decodeEntity "&parsl;" = Just "\11005"
+decodeEntity "&parsim;" = Just "\10995"
+decodeEntity "&para;" = Just "\182"
+decodeEntity "&ovbar;" = Just "\9021"
+decodeEntity "&ouml;" = Just "\246"
+decodeEntity "&otimesas;" = Just "\10806"
+decodeEntity "&otimes;" = Just "\8855"
+decodeEntity "&otilde;" = Just "\245"
+decodeEntity "&osol;" = Just "\8856"
+decodeEntity "&oslash;" = Just "\248"
+decodeEntity "&oscr;" = Just "\8500"
+decodeEntity "&orv;" = Just "\10843"
+decodeEntity "&orslope;" = Just "\10839"
+decodeEntity "&oror;" = Just "\10838"
+decodeEntity "&origof;" = Just "\8886"
+decodeEntity "&ordm;" = Just "\186"
+decodeEntity "&ordf;" = Just "\170"
+decodeEntity "&ord;" = Just "\10845"
+decodeEntity "&orarr;" = Just "\8635"
+decodeEntity "&oplus;" = Just "\8853"
+decodeEntity "&operp;" = Just "\10681"
+decodeEntity "&opar;" = Just "\10679"
+decodeEntity "&ominus;" = Just "\8854"
+decodeEntity "&omid;" = Just "\10678"
+decodeEntity "&omicron;" = Just "\959"
+decodeEntity "&omega;" = Just "\969"
+decodeEntity "&omacr;" = Just "\333"
+decodeEntity "&olt;" = Just "\10688"
+decodeEntity "&oline;" = Just "\8254"
+decodeEntity "&olcross;" = Just "\10683"
+decodeEntity "&olcir;" = Just "\10686"
+decodeEntity "&olarr;" = Just "\8634"
+decodeEntity "&oint;" = Just "\8750"
+decodeEntity "&ohm;" = Just "\937"
+decodeEntity "&ohbar;" = Just "\10677"
+decodeEntity "&ogt;" = Just "\10689"
+decodeEntity "&ograve;" = Just "\242"
+decodeEntity "&ogon;" = Just "\731"
+decodeEntity "&ofcir;" = Just "\10687"
+decodeEntity "&oelig;" = Just "\339"
+decodeEntity "&odsold;" = Just "\10684"
+decodeEntity "&odot;" = Just "\8857"
+decodeEntity "&odiv;" = Just "\10808"
+decodeEntity "&odblac;" = Just "\337"
+decodeEntity "&odash;" = Just "\8861"
+decodeEntity "&ocy;" = Just "\1086"
+decodeEntity "&ocirc;" = Just "\244"
+decodeEntity "&ocir;" = Just "\8858"
+decodeEntity "&oast;" = Just "\8859"
+decodeEntity "&oacute;" = Just "\243"
+decodeEntity "&oS;" = Just "\9416"
+decodeEntity "&nwnear;" = Just "\10535"
+decodeEntity "&nwarrow;" = Just "\8598"
+decodeEntity "&nwarhk;" = Just "\10531"
+decodeEntity "&nwArr;" = Just "\8662"
+decodeEntity "&nvsim;" = Just "\8764\8402"
+decodeEntity "&nvrtrie;" = Just "\8885\8402"
+decodeEntity "&nvrArr;" = Just "\10499"
+decodeEntity "&nvltrie;" = Just "\8884\8402"
+decodeEntity "&nvlt;" = Just "<\8402"
+decodeEntity "&nvle;" = Just "\8804\8402"
+decodeEntity "&nvlArr;" = Just "\10498"
+decodeEntity "&nvinfin;" = Just "\10718"
+decodeEntity "&nvgt;" = Just ">\8402"
+decodeEntity "&nvge;" = Just "\8805\8402"
+decodeEntity "&nvdash;" = Just "\8876"
+decodeEntity "&nvap;" = Just "\8781\8402"
+decodeEntity "&nvHarr;" = Just "\10500"
+decodeEntity "&nvDash;" = Just "\8877"
+decodeEntity "&numsp;" = Just "\8199"
+decodeEntity "&numero;" = Just "\8470"
+decodeEntity "&num;" = Just "#"
+decodeEntity "&nu;" = Just "\957"
+decodeEntity "&ntrianglerighteq;" = Just "\8941"
+decodeEntity "&ntriangleright;" = Just "\8939"
+decodeEntity "&ntrianglelefteq;" = Just "\8940"
+decodeEntity "&ntriangleleft;" = Just "\8938"
+decodeEntity "&ntlg;" = Just "\8824"
+decodeEntity "&ntilde;" = Just "\241"
+decodeEntity "&ntgl;" = Just "\8825"
+decodeEntity "&nsupseteqq;" = Just "\10950\824"
+decodeEntity "&nsupseteq;" = Just "\8841"
+decodeEntity "&nsup;" = Just "\8837"
+decodeEntity "&nsucceq;" = Just "\10928\824"
+decodeEntity "&nsucc;" = Just "\8833"
+decodeEntity "&nsubseteqq;" = Just "\10949\824"
+decodeEntity "&nsubseteq;" = Just "\8840"
+decodeEntity "&nsub;" = Just "\8836"
+decodeEntity "&nsqsupe;" = Just "\8931"
+decodeEntity "&nsqsube;" = Just "\8930"
+decodeEntity "&nspar;" = Just "\8742"
+decodeEntity "&nsmid;" = Just "\8740"
+decodeEntity "&nsimeq;" = Just "\8772"
+decodeEntity "&nsim;" = Just "\8769"
+decodeEntity "&nsccue;" = Just "\8929"
+decodeEntity "&nrightarrow;" = Just "\8603"
+decodeEntity "&nrarrw;" = Just "\8605\824"
+decodeEntity "&nrarrc;" = Just "\10547\824"
+decodeEntity "&nrArr;" = Just "\8655"
+decodeEntity "&npreceq;" = Just "\10927\824"
+decodeEntity "&nprec;" = Just "\8832"
+decodeEntity "&nprcue;" = Just "\8928"
+decodeEntity "&npolint;" = Just "\10772"
+decodeEntity "&npart;" = Just "\8706\824"
+decodeEntity "&nparsl;" = Just "\11005\8421"
+decodeEntity "&notnivc;" = Just "\8957"
+decodeEntity "&notnivb;" = Just "\8958"
+decodeEntity "&notniva;" = Just "\8716"
+decodeEntity "&notinvc;" = Just "\8950"
+decodeEntity "&notinvb;" = Just "\8951"
+decodeEntity "&notinva;" = Just "\8713"
+decodeEntity "&notindot;" = Just "\8949\824"
+decodeEntity "&notinE;" = Just "\8953\824"
+decodeEntity "&not;" = Just "\172"
+decodeEntity "&nlt;" = Just "\8814"
+decodeEntity "&nlsim;" = Just "\8820"
+decodeEntity "&nles;" = Just "\10877\824"
+decodeEntity "&nleqq;" = Just "\8806\824"
+decodeEntity "&nleq;" = Just "\8816"
+decodeEntity "&nleftrightarrow;" = Just "\8622"
+decodeEntity "&nleftarrow;" = Just "\8602"
+decodeEntity "&nldr;" = Just "\8229"
+decodeEntity "&nlArr;" = Just "\8653"
+decodeEntity "&njcy;" = Just "\1114"
+decodeEntity "&niv;" = Just "\8715"
+decodeEntity "&nisd;" = Just "\8954"
+decodeEntity "&nis;" = Just "\8956"
+decodeEntity "&nhpar;" = Just "\10994"
+decodeEntity "&nhArr;" = Just "\8654"
+decodeEntity "&ngtr;" = Just "\8815"
+decodeEntity "&ngsim;" = Just "\8821"
+decodeEntity "&nges;" = Just "\10878\824"
+decodeEntity "&ngeqq;" = Just "\8807\824"
+decodeEntity "&ngeq;" = Just "\8817"
+decodeEntity "&nexists;" = Just "\8708"
+decodeEntity "&nesim;" = Just "\8770\824"
+decodeEntity "&nequiv;" = Just "\8802"
+decodeEntity "&nedot;" = Just "\8784\824"
+decodeEntity "&nearrow;" = Just "\8599"
+decodeEntity "&nearhk;" = Just "\10532"
+decodeEntity "&neArr;" = Just "\8663"
+decodeEntity "&ne;" = Just "\8800"
+decodeEntity "&ndash;" = Just "\8211"
+decodeEntity "&ncy;" = Just "\1085"
+decodeEntity "&ncup;" = Just "\10818"
+decodeEntity "&ncongdot;" = Just "\10861\824"
+decodeEntity "&ncong;" = Just "\8775"
+decodeEntity "&ncedil;" = Just "\326"
+decodeEntity "&ncaron;" = Just "\328"
+decodeEntity "&ncap;" = Just "\10819"
+decodeEntity "&nbumpe;" = Just "\8783\824"
+decodeEntity "&nbump;" = Just "\8782\824"
+decodeEntity "&nbsp;" = Just "\160"
+decodeEntity "&naturals;" = Just "\8469"
+decodeEntity "&natural;" = Just "\9838"
+decodeEntity "&napprox;" = Just "\8777"
+decodeEntity "&napos;" = Just "\329"
+decodeEntity "&napid;" = Just "\8779\824"
+decodeEntity "&napE;" = Just "\10864\824"
+decodeEntity "&nang;" = Just "\8736\8402"
+decodeEntity "&nacute;" = Just "\324"
+decodeEntity "&nabla;" = Just "\8711"
+decodeEntity "&nVdash;" = Just "\8878"
+decodeEntity "&nVDash;" = Just "\8879"
+decodeEntity "&nLtv;" = Just "\8810\824"
+decodeEntity "&nLt;" = Just "\8810\8402"
+decodeEntity "&nLl;" = Just "\8920\824"
+decodeEntity "&nGtv;" = Just "\8811\824"
+decodeEntity "&nGt;" = Just "\8811\8402"
+decodeEntity "&nGg;" = Just "\8921\824"
+decodeEntity "&mumap;" = Just "\8888"
+decodeEntity "&mu;" = Just "\956"
+decodeEntity "&mstpos;" = Just "\8766"
+decodeEntity "&mp;" = Just "\8723"
+decodeEntity "&models;" = Just "\8871"
+decodeEntity "&mldr;" = Just "\8230"
+decodeEntity "&mlcp;" = Just "\10971"
+decodeEntity "&minusdu;" = Just "\10794"
+decodeEntity "&minusd;" = Just "\8760"
+decodeEntity "&minusb;" = Just "\8863"
+decodeEntity "&minus;" = Just "\8722"
+decodeEntity "&middot;" = Just "\183"
+decodeEntity "&midcir;" = Just "\10992"
+decodeEntity "&midast;" = Just "*"
+decodeEntity "&micro;" = Just "\181"
+decodeEntity "&mho;" = Just "\8487"
+decodeEntity "&measuredangle;" = Just "\8737"
+decodeEntity "&mdash;" = Just "\8212"
+decodeEntity "&mcy;" = Just "\1084"
+decodeEntity "&mcomma;" = Just "\10793"
+decodeEntity "&marker;" = Just "\9646"
+decodeEntity "&mapstoup;" = Just "\8613"
+decodeEntity "&mapstoleft;" = Just "\8612"
+decodeEntity "&mapstodown;" = Just "\8615"
+decodeEntity "&mapsto;" = Just "\8614"
+decodeEntity "&maltese;" = Just "\10016"
+decodeEntity "&male;" = Just "\9794"
+decodeEntity "&mDDot;" = Just "\8762"
+decodeEntity "&lvnE;" = Just "\8808\65024"
+decodeEntity "&luruhar;" = Just "\10598"
+decodeEntity "&lurdshar;" = Just "\10570"
+decodeEntity "&ltrif;" = Just "\9666"
+decodeEntity "&ltrPar;" = Just "\10646"
+decodeEntity "&ltquest;" = Just "\10875"
+decodeEntity "&ltlarr;" = Just "\10614"
+decodeEntity "&ltimes;" = Just "\8905"
+decodeEntity "&lthree;" = Just "\8907"
+decodeEntity "&ltdot;" = Just "\8918"
+decodeEntity "&ltcir;" = Just "\10873"
+decodeEntity "&ltcc;" = Just "\10918"
+decodeEntity "&lt;" = Just "<"
+decodeEntity "&lstrok;" = Just "\322"
+decodeEntity "&lsquo;" = Just "\8216"
+decodeEntity "&lsqb;" = Just "["
+decodeEntity "&lsimg;" = Just "\10895"
+decodeEntity "&lsime;" = Just "\10893"
+decodeEntity "&lsim;" = Just "\8818"
+decodeEntity "&lsh;" = Just "\8624"
+decodeEntity "&lsaquo;" = Just "\8249"
+decodeEntity "&lrtri;" = Just "\8895"
+decodeEntity "&lrm;" = Just "\8206"
+decodeEntity "&lrhard;" = Just "\10605"
+decodeEntity "&lrhar;" = Just "\8651"
+decodeEntity "&lrcorner;" = Just "\8991"
+decodeEntity "&lrarr;" = Just "\8646"
+decodeEntity "&lparlt;" = Just "\10643"
+decodeEntity "&lpar;" = Just "("
+decodeEntity "&lozf;" = Just "\10731"
+decodeEntity "&lozenge;" = Just "\9674"
+decodeEntity "&lowbar;" = Just "_"
+decodeEntity "&lowast;" = Just "\8727"
+decodeEntity "&lotimes;" = Just "\10804"
+decodeEntity "&loplus;" = Just "\10797"
+decodeEntity "&lopar;" = Just "\10629"
+decodeEntity "&looparrowleft;" = Just "\8619"
+decodeEntity "&lobrk;" = Just "\10214"
+decodeEntity "&loarr;" = Just "\8701"
+decodeEntity "&loang;" = Just "\10220"
+decodeEntity "&lnsim;" = Just "\8934"
+decodeEntity "&lneqq;" = Just "\8808"
+decodeEntity "&lneq;" = Just "\10887"
+decodeEntity "&lnapprox;" = Just "\10889"
+decodeEntity "&lmoustache;" = Just "\9136"
+decodeEntity "&lmidot;" = Just "\320"
+decodeEntity "&lltri;" = Just "\9722"
+decodeEntity "&llhard;" = Just "\10603"
+decodeEntity "&llcorner;" = Just "\8990"
+decodeEntity "&llarr;" = Just "\8647"
+decodeEntity "&ll;" = Just "\8810"
+decodeEntity "&ljcy;" = Just "\1113"
+decodeEntity "&lhblk;" = Just "\9604"
+decodeEntity "&lharul;" = Just "\10602"
+decodeEntity "&lharu;" = Just "\8636"
+decodeEntity "&lhard;" = Just "\8637"
+decodeEntity "&lgE;" = Just "\10897"
+decodeEntity "&lg;" = Just "\8822"
+decodeEntity "&lfloor;" = Just "\8970"
+decodeEntity "&lfisht;" = Just "\10620"
+decodeEntity "&lesseqqgtr;" = Just "\10891"
+decodeEntity "&lesseqgtr;" = Just "\8922"
+decodeEntity "&lessapprox;" = Just "\10885"
+decodeEntity "&lesges;" = Just "\10899"
+decodeEntity "&lesg;" = Just "\8922\65024"
+decodeEntity "&lesdotor;" = Just "\10883"
+decodeEntity "&lesdoto;" = Just "\10881"
+decodeEntity "&lesdot;" = Just "\10879"
+decodeEntity "&lescc;" = Just "\10920"
+decodeEntity "&les;" = Just "\10877"
+decodeEntity "&leqq;" = Just "\8806"
+decodeEntity "&leq;" = Just "\8804"
+decodeEntity "&leftrightsquigarrow;" = Just "\8621"
+decodeEntity "&leftrightarrow;" = Just "\8596"
+decodeEntity "&leftarrowtail;" = Just "\8610"
+decodeEntity "&ldsh;" = Just "\8626"
+decodeEntity "&ldrushar;" = Just "\10571"
+decodeEntity "&ldrdhar;" = Just "\10599"
+decodeEntity "&ldquor;" = Just "\8222"
+decodeEntity "&ldquo;" = Just "\8220"
+decodeEntity "&ldca;" = Just "\10550"
+decodeEntity "&lcy;" = Just "\1083"
+decodeEntity "&lcub;" = Just "{"
+decodeEntity "&lceil;" = Just "\8968"
+decodeEntity "&lcedil;" = Just "\316"
+decodeEntity "&lcaron;" = Just "\318"
+decodeEntity "&lbrkslu;" = Just "\10637"
+decodeEntity "&lbrksld;" = Just "\10639"
+decodeEntity "&lbrke;" = Just "\10635"
+decodeEntity "&lbbrk;" = Just "\10098"
+decodeEntity "&lbarr;" = Just "\10508"
+decodeEntity "&lates;" = Just "\10925\65024"
+decodeEntity "&late;" = Just "\10925"
+decodeEntity "&latail;" = Just "\10521"
+decodeEntity "&lat;" = Just "\10923"
+decodeEntity "&larrsim;" = Just "\10611"
+decodeEntity "&larrpl;" = Just "\10553"
+decodeEntity "&larrhk;" = Just "\8617"
+decodeEntity "&larrfs;" = Just "\10525"
+decodeEntity "&larrbfs;" = Just "\10527"
+decodeEntity "&larrb;" = Just "\8676"
+decodeEntity "&laquo;" = Just "\171"
+decodeEntity "&langle;" = Just "\10216"
+decodeEntity "&langd;" = Just "\10641"
+decodeEntity "&lambda;" = Just "\955"
+decodeEntity "&lagran;" = Just "\8466"
+decodeEntity "&laemptyv;" = Just "\10676"
+decodeEntity "&lacute;" = Just "\314"
+decodeEntity "&lHar;" = Just "\10594"
+decodeEntity "&lBarr;" = Just "\10510"
+decodeEntity "&lAtail;" = Just "\10523"
+decodeEntity "&lArr;" = Just "\8656"
+decodeEntity "&lAarr;" = Just "\8666"
+decodeEntity "&kjcy;" = Just "\1116"
+decodeEntity "&khcy;" = Just "\1093"
+decodeEntity "&kgreen;" = Just "\312"
+decodeEntity "&kcy;" = Just "\1082"
+decodeEntity "&kcedil;" = Just "\311"
+decodeEntity "&kappa;" = Just "\954"
+decodeEntity "&jukcy;" = Just "\1108"
+decodeEntity "&jsercy;" = Just "\1112"
+decodeEntity "&jmath;" = Just "\567"
+decodeEntity "&jcy;" = Just "\1081"
+decodeEntity "&jcirc;" = Just "\309"
+decodeEntity "&iuml;" = Just "\239"
+decodeEntity "&iukcy;" = Just "\1110"
+decodeEntity "&itilde;" = Just "\297"
+decodeEntity "&it;" = Just "\8290"
+decodeEntity "&isinv;" = Just "\8712"
+decodeEntity "&isinsv;" = Just "\8947"
+decodeEntity "&isins;" = Just "\8948"
+decodeEntity "&isindot;" = Just "\8949"
+decodeEntity "&isinE;" = Just "\8953"
+decodeEntity "&iquest;" = Just "\191"
+decodeEntity "&iprod;" = Just "\10812"
+decodeEntity "&iota;" = Just "\953"
+decodeEntity "&iogon;" = Just "\303"
+decodeEntity "&iocy;" = Just "\1105"
+decodeEntity "&intlarhk;" = Just "\10775"
+decodeEntity "&intercal;" = Just "\8890"
+decodeEntity "&integers;" = Just "\8484"
+decodeEntity "&int;" = Just "\8747"
+decodeEntity "&inodot;" = Just "\305"
+decodeEntity "&infintie;" = Just "\10717"
+decodeEntity "&infin;" = Just "\8734"
+decodeEntity "&incare;" = Just "\8453"
+decodeEntity "&imped;" = Just "\437"
+decodeEntity "&imof;" = Just "\8887"
+decodeEntity "&imagpart;" = Just "\8465"
+decodeEntity "&imagline;" = Just "\8464"
+decodeEntity "&imacr;" = Just "\299"
+decodeEntity "&ijlig;" = Just "\307"
+decodeEntity "&iiota;" = Just "\8489"
+decodeEntity "&iinfin;" = Just "\10716"
+decodeEntity "&ii;" = Just "\8520"
+decodeEntity "&igrave;" = Just "\236"
+decodeEntity "&iff;" = Just "\8660"
+decodeEntity "&iexcl;" = Just "\161"
+decodeEntity "&iecy;" = Just "\1077"
+decodeEntity "&icy;" = Just "\1080"
+decodeEntity "&icirc;" = Just "\238"
+decodeEntity "&ic;" = Just "\8291"
+decodeEntity "&iacute;" = Just "\237"
+decodeEntity "&hyphen;" = Just "\8208"
+decodeEntity "&hybull;" = Just "\8259"
+decodeEntity "&hstrok;" = Just "\295"
+decodeEntity "&horbar;" = Just "\8213"
+decodeEntity "&homtht;" = Just "\8763"
+decodeEntity "&hoarr;" = Just "\8703"
+decodeEntity "&hercon;" = Just "\8889"
+decodeEntity "&heartsuit;" = Just "\9829"
+decodeEntity "&hcirc;" = Just "\293"
+decodeEntity "&harrcir;" = Just "\10568"
+decodeEntity "&hardcy;" = Just "\1098"
+decodeEntity "&hamilt;" = Just "\8459"
+decodeEntity "&half;" = Just "\189"
+decodeEntity "&hairsp;" = Just "\8202"
+decodeEntity "&gvnE;" = Just "\8809\65024"
+decodeEntity "&gtrsim;" = Just "\8819"
+decodeEntity "&gtrless;" = Just "\8823"
+decodeEntity "&gtreqqless;" = Just "\10892"
+decodeEntity "&gtreqless;" = Just "\8923"
+decodeEntity "&gtrdot;" = Just "\8919"
+decodeEntity "&gtrarr;" = Just "\10616"
+decodeEntity "&gtrapprox;" = Just "\10886"
+decodeEntity "&gtquest;" = Just "\10876"
+decodeEntity "&gtlPar;" = Just "\10645"
+decodeEntity "&gtcir;" = Just "\10874"
+decodeEntity "&gtcc;" = Just "\10919"
+decodeEntity "&gt;" = Just ">"
+decodeEntity "&gsiml;" = Just "\10896"
+decodeEntity "&gsime;" = Just "\10894"
+decodeEntity "&gscr;" = Just "\8458"
+decodeEntity "&grave;" = Just "`"
+decodeEntity "&gnsim;" = Just "\8935"
+decodeEntity "&gneqq;" = Just "\8809"
+decodeEntity "&gneq;" = Just "\10888"
+decodeEntity "&gnapprox;" = Just "\10890"
+decodeEntity "&glj;" = Just "\10916"
+decodeEntity "&gla;" = Just "\10917"
+decodeEntity "&glE;" = Just "\10898"
+decodeEntity "&gjcy;" = Just "\1107"
+decodeEntity "&gimel;" = Just "\8503"
+decodeEntity "&ggg;" = Just "\8921"
+decodeEntity "&gg;" = Just "\8811"
+decodeEntity "&gesles;" = Just "\10900"
+decodeEntity "&gesl;" = Just "\8923\65024"
+decodeEntity "&gesdotol;" = Just "\10884"
+decodeEntity "&gesdoto;" = Just "\10882"
+decodeEntity "&gesdot;" = Just "\10880"
+decodeEntity "&gescc;" = Just "\10921"
+decodeEntity "&ges;" = Just "\10878"
+decodeEntity "&geqq;" = Just "\8807"
+decodeEntity "&geq;" = Just "\8805"
+decodeEntity "&gdot;" = Just "\289"
+decodeEntity "&gcy;" = Just "\1075"
+decodeEntity "&gcirc;" = Just "\285"
+decodeEntity "&gbreve;" = Just "\287"
+decodeEntity "&gammad;" = Just "\989"
+decodeEntity "&gamma;" = Just "\947"
+decodeEntity "&gacute;" = Just "\501"
+decodeEntity "&frasl;" = Just "\8260"
+decodeEntity "&frac78;" = Just "\8542"
+decodeEntity "&frac58;" = Just "\8541"
+decodeEntity "&frac56;" = Just "\8538"
+decodeEntity "&frac45;" = Just "\8536"
+decodeEntity "&frac38;" = Just "\8540"
+decodeEntity "&frac35;" = Just "\8535"
+decodeEntity "&frac34;" = Just "\190"
+decodeEntity "&frac25;" = Just "\8534"
+decodeEntity "&frac23;" = Just "\8532"
+decodeEntity "&frac18;" = Just "\8539"
+decodeEntity "&frac16;" = Just "\8537"
+decodeEntity "&frac15;" = Just "\8533"
+decodeEntity "&frac14;" = Just "\188"
+decodeEntity "&frac13;" = Just "\8531"
+decodeEntity "&fpartint;" = Just "\10765"
+decodeEntity "&forkv;" = Just "\10969"
+decodeEntity "&forall;" = Just "\8704"
+decodeEntity "&fnof;" = Just "\402"
+decodeEntity "&fltns;" = Just "\9649"
+decodeEntity "&fllig;" = Just "\64258"
+decodeEntity "&flat;" = Just "\9837"
+decodeEntity "&fjlig;" = Just "fj"
+decodeEntity "&filig;" = Just "\64257"
+decodeEntity "&ffllig;" = Just "\64260"
+decodeEntity "&fflig;" = Just "\64256"
+decodeEntity "&ffilig;" = Just "\64259"
+decodeEntity "&female;" = Just "\9792"
+decodeEntity "&fcy;" = Just "\1092"
+decodeEntity "&fallingdotseq;" = Just "\8786"
+decodeEntity "&exponentiale;" = Just "\8519"
+decodeEntity "&expectation;" = Just "\8496"
+decodeEntity "&exist;" = Just "\8707"
+decodeEntity "&excl;" = Just "!"
+decodeEntity "&euro;" = Just "\8364"
+decodeEntity "&euml;" = Just "\235"
+decodeEntity "&eth;" = Just "\240"
+decodeEntity "&eta;" = Just "\951"
+decodeEntity "&esim;" = Just "\8770"
+decodeEntity "&esdot;" = Just "\8784"
+decodeEntity "&escr;" = Just "\8495"
+decodeEntity "&erarr;" = Just "\10609"
+decodeEntity "&eqvparsl;" = Just "\10725"
+decodeEntity "&equivDD;" = Just "\10872"
+decodeEntity "&equiv;" = Just "\8801"
+decodeEntity "&equals;" = Just "="
+decodeEntity "&eqslantless;" = Just "\10901"
+decodeEntity "&eqslantgtr;" = Just "\10902"
+decodeEntity "&eqcolon;" = Just "\8789"
+decodeEntity "&eqcirc;" = Just "\8790"
+decodeEntity "&epsilon;" = Just "\949"
+decodeEntity "&eplus;" = Just "\10865"
+decodeEntity "&eparsl;" = Just "\10723"
+decodeEntity "&epar;" = Just "\8917"
+decodeEntity "&eogon;" = Just "\281"
+decodeEntity "&ensp;" = Just "\8194"
+decodeEntity "&eng;" = Just "\331"
+decodeEntity "&emsp;" = Just "\8195"
+decodeEntity "&emsp14;" = Just "\8197"
+decodeEntity "&emsp13;" = Just "\8196"
+decodeEntity "&emacr;" = Just "\275"
+decodeEntity "&elsdot;" = Just "\10903"
+decodeEntity "&ell;" = Just "\8467"
+decodeEntity "&elinters;" = Just "\9191"
+decodeEntity "&el;" = Just "\10905"
+decodeEntity "&egsdot;" = Just "\10904"
+decodeEntity "&egrave;" = Just "\232"
+decodeEntity "&eg;" = Just "\10906"
+decodeEntity "&edot;" = Just "\279"
+decodeEntity "&ecy;" = Just "\1101"
+decodeEntity "&ecirc;" = Just "\234"
+decodeEntity "&ecaron;" = Just "\283"
+decodeEntity "&easter;" = Just "\10862"
+decodeEntity "&eacute;" = Just "\233"
+decodeEntity "&eDot;" = Just "\8785"
+decodeEntity "&eDDot;" = Just "\10871"
+decodeEntity "&dzigrarr;" = Just "\10239"
+decodeEntity "&dzcy;" = Just "\1119"
+decodeEntity "&dwangle;" = Just "\10662"
+decodeEntity "&duhar;" = Just "\10607"
+decodeEntity "&duarr;" = Just "\8693"
+decodeEntity "&dtrif;" = Just "\9662"
+decodeEntity "&dtdot;" = Just "\8945"
+decodeEntity "&dstrok;" = Just "\273"
+decodeEntity "&dsol;" = Just "\10742"
+decodeEntity "&dscy;" = Just "\1109"
+decodeEntity "&drcrop;" = Just "\8972"
+decodeEntity "&drbkarow;" = Just "\10512"
+decodeEntity "&downharpoonright;" = Just "\8642"
+decodeEntity "&downharpoonleft;" = Just "\8643"
+decodeEntity "&downdownarrows;" = Just "\8650"
+decodeEntity "&downarrow;" = Just "\8595"
+decodeEntity "&doublebarwedge;" = Just "\8966"
+decodeEntity "&dot;" = Just "\729"
+decodeEntity "&dollar;" = Just "$"
+decodeEntity "&dlcrop;" = Just "\8973"
+decodeEntity "&djcy;" = Just "\1106"
+decodeEntity "&divonx;" = Just "\8903"
+decodeEntity "&divide;" = Just "\247"
+decodeEntity "&disin;" = Just "\8946"
+decodeEntity "&diams;" = Just "\9830"
+decodeEntity "&diamond;" = Just "\8900"
+decodeEntity "&dfisht;" = Just "\10623"
+decodeEntity "&demptyv;" = Just "\10673"
+decodeEntity "&delta;" = Just "\948"
+decodeEntity "&deg;" = Just "\176"
+decodeEntity "&ddagger;" = Just "\8225"
+decodeEntity "&dd;" = Just "\8518"
+decodeEntity "&dcy;" = Just "\1076"
+decodeEntity "&dcaron;" = Just "\271"
+decodeEntity "&dblac;" = Just "\733"
+decodeEntity "&dashv;" = Just "\8867"
+decodeEntity "&daleth;" = Just "\8504"
+decodeEntity "&dagger;" = Just "\8224"
+decodeEntity "&dHar;" = Just "\10597"
+decodeEntity "&dArr;" = Just "\8659"
+decodeEntity "&cylcty;" = Just "\9005"
+decodeEntity "&cwint;" = Just "\8753"
+decodeEntity "&cwconint;" = Just "\8754"
+decodeEntity "&cuwed;" = Just "\8911"
+decodeEntity "&cuvee;" = Just "\8910"
+decodeEntity "&curvearrowright;" = Just "\8631"
+decodeEntity "&curvearrowleft;" = Just "\8630"
+decodeEntity "&curren;" = Just "\164"
+decodeEntity "&curlyeqsucc;" = Just "\8927"
+decodeEntity "&curlyeqprec;" = Just "\8926"
+decodeEntity "&curarrm;" = Just "\10556"
+decodeEntity "&cups;" = Just "\8746\65024"
+decodeEntity "&cupor;" = Just "\10821"
+decodeEntity "&cupdot;" = Just "\8845"
+decodeEntity "&cupcup;" = Just "\10826"
+decodeEntity "&cupcap;" = Just "\10822"
+decodeEntity "&cupbrcap;" = Just "\10824"
+decodeEntity "&cup;" = Just "\8746"
+decodeEntity "&cularrp;" = Just "\10557"
+decodeEntity "&cudarrr;" = Just "\10549"
+decodeEntity "&cudarrl;" = Just "\10552"
+decodeEntity "&ctdot;" = Just "\8943"
+decodeEntity "&csupe;" = Just "\10962"
+decodeEntity "&csup;" = Just "\10960"
+decodeEntity "&csube;" = Just "\10961"
+decodeEntity "&csub;" = Just "\10959"
+decodeEntity "&cross;" = Just "\10007"
+decodeEntity "&crarr;" = Just "\8629"
+decodeEntity "&copysr;" = Just "\8471"
+decodeEntity "&copy;" = Just "\169"
+decodeEntity "&coprod;" = Just "\8720"
+decodeEntity "&congdot;" = Just "\10861"
+decodeEntity "&cong;" = Just "\8773"
+decodeEntity "&complexes;" = Just "\8450"
+decodeEntity "&complement;" = Just "\8705"
+decodeEntity "&compfn;" = Just "\8728"
+decodeEntity "&commat;" = Just "@"
+decodeEntity "&comma;" = Just ","
+decodeEntity "&coloneq;" = Just "\8788"
+decodeEntity "&colon;" = Just ":"
+decodeEntity "&clubsuit;" = Just "\9827"
+decodeEntity "&cirscir;" = Just "\10690"
+decodeEntity "&cirmid;" = Just "\10991"
+decodeEntity "&cirfnint;" = Just "\10768"
+decodeEntity "&cire;" = Just "\8791"
+decodeEntity "&circ;" = Just "\710"
+decodeEntity "&cirE;" = Just "\10691"
+decodeEntity "&cir;" = Just "\9675"
+decodeEntity "&chi;" = Just "\967"
+decodeEntity "&checkmark;" = Just "\10003"
+decodeEntity "&chcy;" = Just "\1095"
+decodeEntity "&cent;" = Just "\162"
+decodeEntity "&cemptyv;" = Just "\10674"
+decodeEntity "&cedil;" = Just "\184"
+decodeEntity "&cdot;" = Just "\267"
+decodeEntity "&ccupssm;" = Just "\10832"
+decodeEntity "&ccups;" = Just "\10828"
+decodeEntity "&ccirc;" = Just "\265"
+decodeEntity "&ccedil;" = Just "\231"
+decodeEntity "&ccaron;" = Just "\269"
+decodeEntity "&ccaps;" = Just "\10829"
+decodeEntity "&caron;" = Just "\711"
+decodeEntity "&caret;" = Just "\8257"
+decodeEntity "&caps;" = Just "\8745\65024"
+decodeEntity "&capdot;" = Just "\10816"
+decodeEntity "&capcup;" = Just "\10823"
+decodeEntity "&capcap;" = Just "\10827"
+decodeEntity "&capbrcup;" = Just "\10825"
+decodeEntity "&capand;" = Just "\10820"
+decodeEntity "&cap;" = Just "\8745"
+decodeEntity "&cacute;" = Just "\263"
+decodeEntity "&bumpeq;" = Just "\8783"
+decodeEntity "&bumpE;" = Just "\10926"
+decodeEntity "&bump;" = Just "\8782"
+decodeEntity "&bullet;" = Just "\8226"
+decodeEntity "&bsolhsub;" = Just "\10184"
+decodeEntity "&bsolb;" = Just "\10693"
+decodeEntity "&bsol;" = Just "\\"
+decodeEntity "&bsime;" = Just "\8909"
+decodeEntity "&bsim;" = Just "\8765"
+decodeEntity "&bsemi;" = Just "\8271"
+decodeEntity "&brvbar;" = Just "\166"
+decodeEntity "&breve;" = Just "\728"
+decodeEntity "&bprime;" = Just "\8245"
+decodeEntity "&boxvr;" = Just "\9500"
+decodeEntity "&boxvl;" = Just "\9508"
+decodeEntity "&boxvh;" = Just "\9532"
+decodeEntity "&boxvR;" = Just "\9566"
+decodeEntity "&boxvL;" = Just "\9569"
+decodeEntity "&boxvH;" = Just "\9578"
+decodeEntity "&boxv;" = Just "\9474"
+decodeEntity "&boxur;" = Just "\9492"
+decodeEntity "&boxul;" = Just "\9496"
+decodeEntity "&boxuR;" = Just "\9560"
+decodeEntity "&boxuL;" = Just "\9563"
+decodeEntity "&boxhu;" = Just "\9524"
+decodeEntity "&boxhd;" = Just "\9516"
+decodeEntity "&boxhU;" = Just "\9576"
+decodeEntity "&boxhD;" = Just "\9573"
+decodeEntity "&boxh;" = Just "\9472"
+decodeEntity "&boxdr;" = Just "\9484"
+decodeEntity "&boxdl;" = Just "\9488"
+decodeEntity "&boxdR;" = Just "\9554"
+decodeEntity "&boxdL;" = Just "\9557"
+decodeEntity "&boxbox;" = Just "\10697"
+decodeEntity "&boxVr;" = Just "\9567"
+decodeEntity "&boxVl;" = Just "\9570"
+decodeEntity "&boxVh;" = Just "\9579"
+decodeEntity "&boxVR;" = Just "\9568"
+decodeEntity "&boxVL;" = Just "\9571"
+decodeEntity "&boxVH;" = Just "\9580"
+decodeEntity "&boxV;" = Just "\9553"
+decodeEntity "&boxUr;" = Just "\9561"
+decodeEntity "&boxUl;" = Just "\9564"
+decodeEntity "&boxUR;" = Just "\9562"
+decodeEntity "&boxUL;" = Just "\9565"
+decodeEntity "&boxHu;" = Just "\9575"
+decodeEntity "&boxHd;" = Just "\9572"
+decodeEntity "&boxHU;" = Just "\9577"
+decodeEntity "&boxHD;" = Just "\9574"
+decodeEntity "&boxH;" = Just "\9552"
+decodeEntity "&boxDr;" = Just "\9555"
+decodeEntity "&boxDl;" = Just "\9558"
+decodeEntity "&boxDR;" = Just "\9556"
+decodeEntity "&boxDL;" = Just "\9559"
+decodeEntity "&bowtie;" = Just "\8904"
+decodeEntity "&bnot;" = Just "\8976"
+decodeEntity "&bnequiv;" = Just "\8801\8421"
+decodeEntity "&bne;" = Just "=\8421"
+decodeEntity "&block;" = Just "\9608"
+decodeEntity "&blk34;" = Just "\9619"
+decodeEntity "&blk14;" = Just "\9617"
+decodeEntity "&blk12;" = Just "\9618"
+decodeEntity "&blank;" = Just "\9251"
+decodeEntity "&beth;" = Just "\8502"
+decodeEntity "&beta;" = Just "\946"
+decodeEntity "&bernou;" = Just "\8492"
+decodeEntity "&bepsi;" = Just "\1014"
+decodeEntity "&bemptyv;" = Just "\10672"
+decodeEntity "&because;" = Just "\8757"
+decodeEntity "&bcy;" = Just "\1073"
+decodeEntity "&bcong;" = Just "\8780"
+decodeEntity "&bbrktbrk;" = Just "\9142"
+decodeEntity "&bbrk;" = Just "\9141"
+decodeEntity "&barwedge;" = Just "\8965"
+decodeEntity "&barvee;" = Just "\8893"
+decodeEntity "&bNot;" = Just "\10989"
+decodeEntity "&awint;" = Just "\10769"
+decodeEntity "&awconint;" = Just "\8755"
+decodeEntity "&auml;" = Just "\228"
+decodeEntity "&atilde;" = Just "\227"
+decodeEntity "&asympeq;" = Just "\8781"
+decodeEntity "&aring;" = Just "\229"
+decodeEntity "&approxeq;" = Just "\8778"
+decodeEntity "&apos;" = Just "'"
+decodeEntity "&apid;" = Just "\8779"
+decodeEntity "&apacir;" = Just "\10863"
+decodeEntity "&apE;" = Just "\10864"
+decodeEntity "&aogon;" = Just "\261"
+decodeEntity "&angzarr;" = Just "\9084"
+decodeEntity "&angst;" = Just "\197"
+decodeEntity "&angsph;" = Just "\8738"
+decodeEntity "&angrtvbd;" = Just "\10653"
+decodeEntity "&angrtvb;" = Just "\8894"
+decodeEntity "&angrt;" = Just "\8735"
+decodeEntity "&angmsdah;" = Just "\10671"
+decodeEntity "&angmsdag;" = Just "\10670"
+decodeEntity "&angmsdaf;" = Just "\10669"
+decodeEntity "&angmsdae;" = Just "\10668"
+decodeEntity "&angmsdad;" = Just "\10667"
+decodeEntity "&angmsdac;" = Just "\10666"
+decodeEntity "&angmsdab;" = Just "\10665"
+decodeEntity "&angmsdaa;" = Just "\10664"
+decodeEntity "&angle;" = Just "\8736"
+decodeEntity "&ange;" = Just "\10660"
+decodeEntity "&andv;" = Just "\10842"
+decodeEntity "&andslope;" = Just "\10840"
+decodeEntity "&andd;" = Just "\10844"
+decodeEntity "&andand;" = Just "\10837"
+decodeEntity "&amp;" = Just "&"
+decodeEntity "&amalg;" = Just "\10815"
+decodeEntity "&amacr;" = Just "\257"
+decodeEntity "&alpha;" = Just "\945"
+decodeEntity "&aleph;" = Just "\8501"
+decodeEntity "&agrave;" = Just "\224"
+decodeEntity "&af;" = Just "\8289"
+decodeEntity "&aelig;" = Just "\230"
+decodeEntity "&acy;" = Just "\1072"
+decodeEntity "&acute;" = Just "\180"
+decodeEntity "&acirc;" = Just "\226"
+decodeEntity "&acd;" = Just "\8767"
+decodeEntity "&acE;" = Just "\8766\819"
+decodeEntity "&abreve;" = Just "\259"
+decodeEntity "&aacute;" = Just "\225"
+decodeEntity "&Zeta;" = Just "\918"
+decodeEntity "&ZeroWidthSpace;" = Just "\8203"
+decodeEntity "&Zdot;" = Just "\379"
+decodeEntity "&Zcy;" = Just "\1047"
+decodeEntity "&Zcaron;" = Just "\381"
+decodeEntity "&Zacute;" = Just "\377"
+decodeEntity "&ZHcy;" = Just "\1046"
+decodeEntity "&Yuml;" = Just "\376"
+decodeEntity "&Ycy;" = Just "\1067"
+decodeEntity "&Ycirc;" = Just "\374"
+decodeEntity "&Yacute;" = Just "\221"
+decodeEntity "&YUcy;" = Just "\1070"
+decodeEntity "&YIcy;" = Just "\1031"
+decodeEntity "&YAcy;" = Just "\1071"
+decodeEntity "&Xi;" = Just "\926"
+decodeEntity "&Wcirc;" = Just "\372"
+decodeEntity "&Vvdash;" = Just "\8874"
+decodeEntity "&VerticalSeparator;" = Just "\10072"
+decodeEntity "&Vert;" = Just "\8214"
+decodeEntity "&Vdashl;" = Just "\10982"
+decodeEntity "&Vdash;" = Just "\8873"
+decodeEntity "&Vcy;" = Just "\1042"
+decodeEntity "&Vbar;" = Just "\10987"
+decodeEntity "&VDash;" = Just "\8875"
+decodeEntity "&Uuml;" = Just "\220"
+decodeEntity "&Utilde;" = Just "\360"
+decodeEntity "&Uring;" = Just "\366"
+decodeEntity "&Upsilon;" = Just "\933"
+decodeEntity "&UpArrowBar;" = Just "\10514"
+decodeEntity "&Uogon;" = Just "\370"
+decodeEntity "&UnderParenthesis;" = Just "\9181"
+decodeEntity "&UnderBrace;" = Just "\9183"
+decodeEntity "&Umacr;" = Just "\362"
+decodeEntity "&Ugrave;" = Just "\217"
+decodeEntity "&Udblac;" = Just "\368"
+decodeEntity "&Ucy;" = Just "\1059"
+decodeEntity "&Ucirc;" = Just "\219"
+decodeEntity "&Ubreve;" = Just "\364"
+decodeEntity "&Ubrcy;" = Just "\1038"
+decodeEntity "&Uarrocir;" = Just "\10569"
+decodeEntity "&Uarr;" = Just "\8607"
+decodeEntity "&Uacute;" = Just "\218"
+decodeEntity "&Tstrok;" = Just "\358"
+decodeEntity "&ThickSpace;" = Just "\8287\8202"
+decodeEntity "&Theta;" = Just "\920"
+decodeEntity "&Tcy;" = Just "\1058"
+decodeEntity "&Tcedil;" = Just "\354"
+decodeEntity "&Tcaron;" = Just "\356"
+decodeEntity "&Tau;" = Just "\932"
+decodeEntity "&Tab;" = Just "\t"
+decodeEntity "&TScy;" = Just "\1062"
+decodeEntity "&TSHcy;" = Just "\1035"
+decodeEntity "&THORN;" = Just "\222"
+decodeEntity "&Supset;" = Just "\8913"
+decodeEntity "&Subset;" = Just "\8912"
+decodeEntity "&Sigma;" = Just "\931"
+decodeEntity "&Scy;" = Just "\1057"
+decodeEntity "&Scirc;" = Just "\348"
+decodeEntity "&Scedil;" = Just "\350"
+decodeEntity "&Scaron;" = Just "\352"
+decodeEntity "&Sc;" = Just "\10940"
+decodeEntity "&Sacute;" = Just "\346"
+decodeEntity "&SOFTcy;" = Just "\1068"
+decodeEntity "&SHcy;" = Just "\1064"
+decodeEntity "&SHCHcy;" = Just "\1065"
+decodeEntity "&RuleDelayed;" = Just "\10740"
+decodeEntity "&RoundImplies;" = Just "\10608"
+decodeEntity "&RightVectorBar;" = Just "\10579"
+decodeEntity "&RightUpVectorBar;" = Just "\10580"
+decodeEntity "&RightUpTeeVector;" = Just "\10588"
+decodeEntity "&RightUpDownVector;" = Just "\10575"
+decodeEntity "&RightTriangleBar;" = Just "\10704"
+decodeEntity "&RightTeeVector;" = Just "\10587"
+decodeEntity "&RightDownVectorBar;" = Just "\10581"
+decodeEntity "&RightDownTeeVector;" = Just "\10589"
+decodeEntity "&Rho;" = Just "\929"
+decodeEntity "&Rcy;" = Just "\1056"
+decodeEntity "&Rcedil;" = Just "\342"
+decodeEntity "&Rcaron;" = Just "\344"
+decodeEntity "&Rarrtl;" = Just "\10518"
+decodeEntity "&Rang;" = Just "\10219"
+decodeEntity "&Racute;" = Just "\340"
+decodeEntity "&Psi;" = Just "\936"
+decodeEntity "&Proportion;" = Just "\8759"
+decodeEntity "&Prime;" = Just "\8243"
+decodeEntity "&Pr;" = Just "\10939"
+decodeEntity "&Poincareplane;" = Just "\8460"
+decodeEntity "&Pi;" = Just "\928"
+decodeEntity "&Phi;" = Just "\934"
+decodeEntity "&Pcy;" = Just "\1055"
+decodeEntity "&OverParenthesis;" = Just "\9180"
+decodeEntity "&OverBrace;" = Just "\9182"
+decodeEntity "&Ouml;" = Just "\214"
+decodeEntity "&Otimes;" = Just "\10807"
+decodeEntity "&Otilde;" = Just "\213"
+decodeEntity "&Oslash;" = Just "\216"
+decodeEntity "&Or;" = Just "\10836"
+decodeEntity "&Omicron;" = Just "\927"
+decodeEntity "&Omacr;" = Just "\332"
+decodeEntity "&Ograve;" = Just "\210"
+decodeEntity "&Odblac;" = Just "\336"
+decodeEntity "&Ocy;" = Just "\1054"
+decodeEntity "&Ocirc;" = Just "\212"
+decodeEntity "&Oacute;" = Just "\211"
+decodeEntity "&OElig;" = Just "\338"
+decodeEntity "&Nu;" = Just "\925"
+decodeEntity "&Ntilde;" = Just "\209"
+decodeEntity "&NotSucceedsTilde;" = Just "\8831\824"
+decodeEntity "&NotSquareSuperset;" = Just "\8848\824"
+decodeEntity "&NotSquareSubset;" = Just "\8847\824"
+decodeEntity "&NotRightTriangleBar;" = Just "\10704\824"
+decodeEntity "&NotNestedLessLess;" = Just "\10913\824"
+decodeEntity "&NotNestedGreaterGreater;" = Just "\10914\824"
+decodeEntity "&NotLeftTriangleBar;" = Just "\10703\824"
+decodeEntity "&NotCupCap;" = Just "\8813"
+decodeEntity "&Not;" = Just "\10988"
+decodeEntity "&NoBreak;" = Just "\8288"
+decodeEntity "&NewLine;" = Just "\n"
+decodeEntity "&Ncy;" = Just "\1053"
+decodeEntity "&Ncedil;" = Just "\325"
+decodeEntity "&Ncaron;" = Just "\327"
+decodeEntity "&Nacute;" = Just "\323"
+decodeEntity "&NJcy;" = Just "\1034"
+decodeEntity "&Mu;" = Just "\924"
+decodeEntity "&MediumSpace;" = Just "\8287"
+decodeEntity "&Mcy;" = Just "\1052"
+decodeEntity "&Map;" = Just "\10501"
+decodeEntity "&Lstrok;" = Just "\321"
+decodeEntity "&Lmidot;" = Just "\319"
+decodeEntity "&Ll;" = Just "\8920"
+decodeEntity "&LessLess;" = Just "\10913"
+decodeEntity "&LeftVectorBar;" = Just "\10578"
+decodeEntity "&LeftUpVectorBar;" = Just "\10584"
+decodeEntity "&LeftUpTeeVector;" = Just "\10592"
+decodeEntity "&LeftUpDownVector;" = Just "\10577"
+decodeEntity "&LeftTriangleBar;" = Just "\10703"
+decodeEntity "&LeftTeeVector;" = Just "\10586"
+decodeEntity "&LeftRightVector;" = Just "\10574"
+decodeEntity "&LeftDownVectorBar;" = Just "\10585"
+decodeEntity "&LeftDownTeeVector;" = Just "\10593"
+decodeEntity "&Lcy;" = Just "\1051"
+decodeEntity "&Lcedil;" = Just "\315"
+decodeEntity "&Lcaron;" = Just "\317"
+decodeEntity "&Lang;" = Just "\10218"
+decodeEntity "&Lambda;" = Just "\923"
+decodeEntity "&Lacute;" = Just "\313"
+decodeEntity "&LJcy;" = Just "\1033"
+decodeEntity "&Kcy;" = Just "\1050"
+decodeEntity "&Kcedil;" = Just "\310"
+decodeEntity "&Kappa;" = Just "\922"
+decodeEntity "&KJcy;" = Just "\1036"
+decodeEntity "&KHcy;" = Just "\1061"
+decodeEntity "&Jukcy;" = Just "\1028"
+decodeEntity "&Jsercy;" = Just "\1032"
+decodeEntity "&Jcy;" = Just "\1049"
+decodeEntity "&Jcirc;" = Just "\308"
+decodeEntity "&Iuml;" = Just "\207"
+decodeEntity "&Iukcy;" = Just "\1030"
+decodeEntity "&Itilde;" = Just "\296"
+decodeEntity "&Iota;" = Just "\921"
+decodeEntity "&Iogon;" = Just "\302"
+decodeEntity "&Int;" = Just "\8748"
+decodeEntity "&Imacr;" = Just "\298"
+decodeEntity "&Igrave;" = Just "\204"
+decodeEntity "&Idot;" = Just "\304"
+decodeEntity "&Icy;" = Just "\1048"
+decodeEntity "&Icirc;" = Just "\206"
+decodeEntity "&Iacute;" = Just "\205"
+decodeEntity "&IOcy;" = Just "\1025"
+decodeEntity "&IJlig;" = Just "\306"
+decodeEntity "&IEcy;" = Just "\1045"
+decodeEntity "&Hstrok;" = Just "\294"
+decodeEntity "&Hcirc;" = Just "\292"
+decodeEntity "&Hat;" = Just "^"
+decodeEntity "&HARDcy;" = Just "\1066"
+decodeEntity "&GreaterGreater;" = Just "\10914"
+decodeEntity "&Gdot;" = Just "\288"
+decodeEntity "&Gcy;" = Just "\1043"
+decodeEntity "&Gcirc;" = Just "\284"
+decodeEntity "&Gcedil;" = Just "\290"
+decodeEntity "&Gbreve;" = Just "\286"
+decodeEntity "&Gammad;" = Just "\988"
+decodeEntity "&Gamma;" = Just "\915"
+decodeEntity "&GJcy;" = Just "\1027"
+decodeEntity "&Fscr;" = Just "\8497"
+decodeEntity "&FilledSmallSquare;" = Just "\9724"
+decodeEntity "&Fcy;" = Just "\1060"
+decodeEntity "&Euml;" = Just "\203"
+decodeEntity "&Eta;" = Just "\919"
+decodeEntity "&Esim;" = Just "\10867"
+decodeEntity "&Equal;" = Just "\10869"
+decodeEntity "&Epsilon;" = Just "\917"
+decodeEntity "&Eogon;" = Just "\280"
+decodeEntity "&EmptyVerySmallSquare;" = Just "\9643"
+decodeEntity "&EmptySmallSquare;" = Just "\9723"
+decodeEntity "&Emacr;" = Just "\274"
+decodeEntity "&Egrave;" = Just "\200"
+decodeEntity "&Edot;" = Just "\278"
+decodeEntity "&Ecy;" = Just "\1069"
+decodeEntity "&Ecirc;" = Just "\202"
+decodeEntity "&Ecaron;" = Just "\282"
+decodeEntity "&Eacute;" = Just "\201"
+decodeEntity "&ETH;" = Just "\208"
+decodeEntity "&ENG;" = Just "\330"
+decodeEntity "&Dstrok;" = Just "\272"
+decodeEntity "&DownRightVectorBar;" = Just "\10583"
+decodeEntity "&DownRightTeeVector;" = Just "\10591"
+decodeEntity "&DownLeftVectorBar;" = Just "\10582"
+decodeEntity "&DownLeftTeeVector;" = Just "\10590"
+decodeEntity "&DownLeftRightVector;" = Just "\10576"
+decodeEntity "&DownBreve;" = Just "\785"
+decodeEntity "&DownArrowBar;" = Just "\10515"
+decodeEntity "&DoubleLeftTee;" = Just "\10980"
+decodeEntity "&DoubleContourIntegral;" = Just "\8751"
+decodeEntity "&DotDot;" = Just "\8412"
+decodeEntity "&Delta;" = Just "\916"
+decodeEntity "&Dcy;" = Just "\1044"
+decodeEntity "&Dcaron;" = Just "\270"
+decodeEntity "&Darr;" = Just "\8609"
+decodeEntity "&DZcy;" = Just "\1039"
+decodeEntity "&DScy;" = Just "\1029"
+decodeEntity "&DJcy;" = Just "\1026"
+decodeEntity "&DDotrahd;" = Just "\10513"
+decodeEntity "&DD;" = Just "\8517"
+decodeEntity "&Cup;" = Just "\8915"
+decodeEntity "&Cross;" = Just "\10799"
+decodeEntity "&Colone;" = Just "\10868"
+decodeEntity "&Chi;" = Just "\935"
+decodeEntity "&Cfr;" = Just "\8493"
+decodeEntity "&Cdot;" = Just "\266"
+decodeEntity "&Cconint;" = Just "\8752"
+decodeEntity "&Ccirc;" = Just "\264"
+decodeEntity "&Ccedil;" = Just "\199"
+decodeEntity "&Ccaron;" = Just "\268"
+decodeEntity "&Cap;" = Just "\8914"
+decodeEntity "&Cacute;" = Just "\262"
+decodeEntity "&CHcy;" = Just "\1063"
+decodeEntity "&Beta;" = Just "\914"
+decodeEntity "&Bcy;" = Just "\1041"
+decodeEntity "&Barv;" = Just "\10983"
+decodeEntity "&Auml;" = Just "\196"
+decodeEntity "&Atilde;" = Just "\195"
+decodeEntity "&Aogon;" = Just "\260"
+decodeEntity "&And;" = Just "\10835"
+decodeEntity "&Amacr;" = Just "\256"
+decodeEntity "&Alpha;" = Just "\913"
+decodeEntity "&Agrave;" = Just "\192"
+decodeEntity "&Acy;" = Just "\1040"
+decodeEntity "&Acirc;" = Just "\194"
+decodeEntity "&Abreve;" = Just "\258"
+decodeEntity "&Aacute;" = Just "\193"
+decodeEntity "&AElig;" = Just "\198"
+
+decodeEntity _ = Nothing
+
+export    
+encodeEntity : String -> Maybe String
+encodeEntity "\8204" = Just "&zwnj;"
+encodeEntity "\8205" = Just "&zwj;"
+encodeEntity "\8669" = Just "&zigrarr;"
+encodeEntity "\1078" = Just "&zhcy;"
+encodeEntity "\950" = Just "&zeta;"
+encodeEntity "\8488" = Just "&zeetrf;"
+encodeEntity "\380" = Just "&zdot;"
+encodeEntity "\1079" = Just "&zcy;"
+encodeEntity "\382" = Just "&zcaron;"
+encodeEntity "\378" = Just "&zacute;"
+encodeEntity "\255" = Just "&yuml;"
+encodeEntity "\1102" = Just "&yucy;"
+encodeEntity "\1111" = Just "&yicy;"
+encodeEntity "\165" = Just "&yen;"
+encodeEntity "\1099" = Just "&ycy;"
+encodeEntity "\375" = Just "&ycirc;"
+encodeEntity "\1103" = Just "&yacy;"
+encodeEntity "\253" = Just "&yacute;"
+encodeEntity "\8896" = Just "&xwedge;"
+encodeEntity "\8897" = Just "&xvee;"
+encodeEntity "\9651" = Just "&xutri;"
+encodeEntity "\10756" = Just "&xuplus;"
+encodeEntity "\10758" = Just "&xsqcup;"
+encodeEntity "\10230" = Just "&xrarr;"
+encodeEntity "\10233" = Just "&xrArr;"
+encodeEntity "\10754" = Just "&xotime;"
+encodeEntity "\10753" = Just "&xoplus;"
+encodeEntity "\10752" = Just "&xodot;"
+encodeEntity "\8955" = Just "&xnis;"
+encodeEntity "\10236" = Just "&xmap;"
+encodeEntity "\10229" = Just "&xlarr;"
+encodeEntity "\10232" = Just "&xlArr;"
+encodeEntity "\958" = Just "&xi;"
+encodeEntity "\10231" = Just "&xharr;"
+encodeEntity "\10234" = Just "&xhArr;"
+encodeEntity "\9661" = Just "&xdtri;"
+encodeEntity "\8899" = Just "&xcup;"
+encodeEntity "\9711" = Just "&xcirc;"
+encodeEntity "\8898" = Just "&xcap;"
+encodeEntity "\8768" = Just "&wreath;"
+encodeEntity "\8472" = Just "&wp;"
+encodeEntity "\8793" = Just "&wedgeq;"
+encodeEntity "\8743" = Just "&wedge;"
+encodeEntity "\10847" = Just "&wedbar;"
+encodeEntity "\373" = Just "&wcirc;"
+encodeEntity "\10650" = Just "&vzigzag;"
+encodeEntity "\8843\65024" = Just "&vsupne;"
+encodeEntity "\10956\65024" = Just "&vsupnE;"
+encodeEntity "\8842\65024" = Just "&vsubne;"
+encodeEntity "\10955\65024" = Just "&vsubnE;"
+encodeEntity "\8883" = Just "&vrtri;"
+encodeEntity "\8733" = Just "&vprop;"
+encodeEntity "\8835\8402" = Just "&vnsup;"
+encodeEntity "\8834\8402" = Just "&vnsub;"
+encodeEntity "\8882" = Just "&vltri;"
+encodeEntity "|" = Just "&vert;"
+encodeEntity "\8942" = Just "&vellip;"
+encodeEntity "\8794" = Just "&veeeq;"
+encodeEntity "\8891" = Just "&veebar;"
+encodeEntity "\8744" = Just "&vee;"
+encodeEntity "\8866" = Just "&vdash;"
+encodeEntity "\1074" = Just "&vcy;"
+encodeEntity "\977" = Just "&vartheta;"
+encodeEntity "\962" = Just "&varsigma;"
+encodeEntity "\1009" = Just "&varrho;"
+encodeEntity "\8597" = Just "&varr;"
+encodeEntity "\982" = Just "&varpi;"
+encodeEntity "\981" = Just "&varphi;"
+encodeEntity "\8709" = Just "&varnothing;"
+encodeEntity "\1008" = Just "&varkappa;"
+encodeEntity "\1013" = Just "&varepsilon;"
+encodeEntity "\10652" = Just "&vangrt;"
+encodeEntity "\8872" = Just "&vDash;"
+encodeEntity "\10985" = Just "&vBarv;"
+encodeEntity "\10984" = Just "&vBar;"
+encodeEntity "\8661" = Just "&vArr;"
+encodeEntity "\10663" = Just "&uwangle;"
+encodeEntity "\252" = Just "&uuml;"
+encodeEntity "\8648" = Just "&uuarr;"
+encodeEntity "\9652" = Just "&utrif;"
+encodeEntity "\9653" = Just "&utri;"
+encodeEntity "\361" = Just "&utilde;"
+encodeEntity "\8944" = Just "&utdot;"
+encodeEntity "\9721" = Just "&urtri;"
+encodeEntity "\367" = Just "&uring;"
+encodeEntity "\8974" = Just "&urcrop;"
+encodeEntity "\8989" = Just "&urcorner;"
+encodeEntity "\965" = Just "&upsilon;"
+encodeEntity "\978" = Just "&upsih;"
+encodeEntity "\8846" = Just "&uplus;"
+encodeEntity "\8638" = Just "&upharpoonright;"
+encodeEntity "\8639" = Just "&upharpoonleft;"
+encodeEntity "\8593" = Just "&uparrow;"
+encodeEntity "\371" = Just "&uogon;"
+encodeEntity "\168" = Just "&uml;"
+encodeEntity "\363" = Just "&umacr;"
+encodeEntity "\9720" = Just "&ultri;"
+encodeEntity "\8975" = Just "&ulcrop;"
+encodeEntity "\8988" = Just "&ulcorner;"
+encodeEntity "\9600" = Just "&uhblk;"
+encodeEntity "\249" = Just "&ugrave;"
+encodeEntity "\10622" = Just "&ufisht;"
+encodeEntity "\10606" = Just "&udhar;"
+encodeEntity "\369" = Just "&udblac;"
+encodeEntity "\8645" = Just "&udarr;"
+encodeEntity "\1091" = Just "&ucy;"
+encodeEntity "\251" = Just "&ucirc;"
+encodeEntity "\365" = Just "&ubreve;"
+encodeEntity "\1118" = Just "&ubrcy;"
+encodeEntity "\250" = Just "&uacute;"
+encodeEntity "\10595" = Just "&uHar;"
+encodeEntity "\8657" = Just "&uArr;"
+encodeEntity "\8608" = Just "&twoheadrightarrow;"
+encodeEntity "\8606" = Just "&twoheadleftarrow;"
+encodeEntity "\8812" = Just "&twixt;"
+encodeEntity "\359" = Just "&tstrok;"
+encodeEntity "\1115" = Just "&tshcy;"
+encodeEntity "\1094" = Just "&tscy;"
+encodeEntity "\9186" = Just "&trpezium;"
+encodeEntity "\10811" = Just "&tritime;"
+encodeEntity "\10701" = Just "&trisb;"
+encodeEntity "\10809" = Just "&triplus;"
+encodeEntity "\10810" = Just "&triminus;"
+encodeEntity "\8796" = Just "&trie;"
+encodeEntity "\9708" = Just "&tridot;"
+encodeEntity "\8885" = Just "&trianglerighteq;"
+encodeEntity "\9657" = Just "&triangleright;"
+encodeEntity "\8884" = Just "&trianglelefteq;"
+encodeEntity "\9667" = Just "&triangleleft;"
+encodeEntity "\9663" = Just "&triangledown;"
+encodeEntity "\8482" = Just "&trade;"
+encodeEntity "\8244" = Just "&tprime;"
+encodeEntity "\10537" = Just "&tosa;"
+encodeEntity "\10970" = Just "&topfork;"
+encodeEntity "\10993" = Just "&topcir;"
+encodeEntity "\9014" = Just "&topbot;"
+encodeEntity "\8868" = Just "&top;"
+encodeEntity "\10536" = Just "&toea;"
+encodeEntity "\8749" = Just "&tint;"
+encodeEntity "\10800" = Just "&timesd;"
+encodeEntity "\10801" = Just "&timesbar;"
+encodeEntity "\8864" = Just "&timesb;"
+encodeEntity "\215" = Just "&times;"
+encodeEntity "\732" = Just "&tilde;"
+encodeEntity "\254" = Just "&thorn;"
+encodeEntity "\8764" = Just "&thksim;"
+encodeEntity "\8776" = Just "&thkap;"
+encodeEntity "\8201" = Just "&thinsp;"
+encodeEntity "\952" = Just "&theta;"
+encodeEntity "\8756" = Just "&therefore;"
+encodeEntity "\8981" = Just "&telrec;"
+encodeEntity "\8411" = Just "&tdot;"
+encodeEntity "\1090" = Just "&tcy;"
+encodeEntity "\355" = Just "&tcedil;"
+encodeEntity "\357" = Just "&tcaron;"
+encodeEntity "\9140" = Just "&tbrk;"
+encodeEntity "\964" = Just "&tau;"
+encodeEntity "\8982" = Just "&target;"
+encodeEntity "\223" = Just "&szlig;"
+encodeEntity "\10538" = Just "&swnwar;"
+encodeEntity "\8601" = Just "&swarrow;"
+encodeEntity "\10534" = Just "&swarhk;"
+encodeEntity "\8665" = Just "&swArr;"
+encodeEntity "\10966" = Just "&supsup;"
+encodeEntity "\10964" = Just "&supsub;"
+encodeEntity "\10952" = Just "&supsim;"
+encodeEntity "\10956" = Just "&supsetneqq;"
+encodeEntity "\8843" = Just "&supsetneq;"
+encodeEntity "\10950" = Just "&supseteqq;"
+encodeEntity "\8839" = Just "&supseteq;"
+encodeEntity "\8835" = Just "&supset;"
+encodeEntity "\10944" = Just "&supplus;"
+encodeEntity "\10946" = Just "&supmult;"
+encodeEntity "\10619" = Just "&suplarr;"
+encodeEntity "\10967" = Just "&suphsub;"
+encodeEntity "\10185" = Just "&suphsol;"
+encodeEntity "\10948" = Just "&supedot;"
+encodeEntity "\10968" = Just "&supdsub;"
+encodeEntity "\10942" = Just "&supdot;"
+encodeEntity "\179" = Just "&sup3;"
+encodeEntity "\178" = Just "&sup2;"
+encodeEntity "\185" = Just "&sup1;"
+encodeEntity "\9834" = Just "&sung;"
+encodeEntity "\8721" = Just "&sum;"
+encodeEntity "\8831" = Just "&succsim;"
+encodeEntity "\8937" = Just "&succnsim;"
+encodeEntity "\10934" = Just "&succneqq;"
+encodeEntity "\10938" = Just "&succnapprox;"
+encodeEntity "\10928" = Just "&succeq;"
+encodeEntity "\8829" = Just "&succcurlyeq;"
+encodeEntity "\10936" = Just "&succapprox;"
+encodeEntity "\8827" = Just "&succ;"
+encodeEntity "\10963" = Just "&subsup;"
+encodeEntity "\10965" = Just "&subsub;"
+encodeEntity "\10951" = Just "&subsim;"
+encodeEntity "\10955" = Just "&subsetneqq;"
+encodeEntity "\8842" = Just "&subsetneq;"
+encodeEntity "\10949" = Just "&subseteqq;"
+encodeEntity "\8838" = Just "&subseteq;"
+encodeEntity "\8834" = Just "&subset;"
+encodeEntity "\10617" = Just "&subrarr;"
+encodeEntity "\10943" = Just "&subplus;"
+encodeEntity "\10945" = Just "&submult;"
+encodeEntity "\10947" = Just "&subedot;"
+encodeEntity "\10941" = Just "&subdot;"
+encodeEntity "\175" = Just "&strns;"
+encodeEntity "\9733" = Just "&starf;"
+encodeEntity "\9734" = Just "&star;"
+encodeEntity "\8902" = Just "&sstarf;"
+encodeEntity "\8995" = Just "&ssmile;"
+encodeEntity "\8726" = Just "&ssetmn;"
+encodeEntity "\8594" = Just "&srarr;"
+encodeEntity "\9642" = Just "&squf;"
+encodeEntity "\9633" = Just "&square;"
+encodeEntity "\8850" = Just "&sqsupseteq;"
+encodeEntity "\8848" = Just "&sqsupset;"
+encodeEntity "\8849" = Just "&sqsubseteq;"
+encodeEntity "\8847" = Just "&sqsubset;"
+encodeEntity "\8852\65024" = Just "&sqcups;"
+encodeEntity "\8852" = Just "&sqcup;"
+encodeEntity "\8851\65024" = Just "&sqcaps;"
+encodeEntity "\8851" = Just "&sqcap;"
+encodeEntity "\8741" = Just "&spar;"
+encodeEntity "\9824" = Just "&spadesuit;"
+encodeEntity "\9023" = Just "&solbar;"
+encodeEntity "\10692" = Just "&solb;"
+encodeEntity "/" = Just "&sol;"
+encodeEntity "\1100" = Just "&softcy;"
+encodeEntity "\10924\65024" = Just "&smtes;"
+encodeEntity "\10924" = Just "&smte;"
+encodeEntity "\10922" = Just "&smt;"
+encodeEntity "\8739" = Just "&smid;"
+encodeEntity "\10724" = Just "&smeparsl;"
+encodeEntity "\10803" = Just "&smashp;"
+encodeEntity "\8592" = Just "&slarr;"
+encodeEntity "\10610" = Just "&simrarr;"
+encodeEntity "\10788" = Just "&simplus;"
+encodeEntity "\8774" = Just "&simne;"
+encodeEntity "\10911" = Just "&simlE;"
+encodeEntity "\10909" = Just "&siml;"
+encodeEntity "\10912" = Just "&simgE;"
+encodeEntity "\10910" = Just "&simg;"
+encodeEntity "\8771" = Just "&simeq;"
+encodeEntity "\10858" = Just "&simdot;"
+encodeEntity "\963" = Just "&sigma;"
+encodeEntity "\173" = Just "&shy;"
+encodeEntity "\1096" = Just "&shcy;"
+encodeEntity "\1097" = Just "&shchcy;"
+encodeEntity "\9839" = Just "&sharp;"
+encodeEntity "\8994" = Just "&sfrown;"
+encodeEntity "\10038" = Just "&sext;"
+encodeEntity ";" = Just "&semi;"
+encodeEntity "\167" = Just "&sect;"
+encodeEntity "\8600" = Just "&searrow;"
+encodeEntity "\10533" = Just "&searhk;"
+encodeEntity "\8664" = Just "&seArr;"
+encodeEntity "\10854" = Just "&sdote;"
+encodeEntity "\8865" = Just "&sdotb;"
+encodeEntity "\8901" = Just "&sdot;"
+encodeEntity "\1089" = Just "&scy;"
+encodeEntity "\10771" = Just "&scpolint;"
+encodeEntity "\349" = Just "&scirc;"
+encodeEntity "\351" = Just "&scedil;"
+encodeEntity "\353" = Just "&scaron;"
+encodeEntity "\10932" = Just "&scE;"
+encodeEntity "\8218" = Just "&sbquo;"
+encodeEntity "\347" = Just "&sacute;"
+encodeEntity "\8478" = Just "&rx;"
+encodeEntity "\10600" = Just "&ruluhar;"
+encodeEntity "\10702" = Just "&rtriltri;"
+encodeEntity "\9656" = Just "&rtrif;"
+encodeEntity "\8906" = Just "&rtimes;"
+encodeEntity "\8908" = Just "&rthree;"
+encodeEntity "\8217" = Just "&rsquor;"
+encodeEntity "]" = Just "&rsqb;"
+encodeEntity "\8625" = Just "&rsh;"
+encodeEntity "\8250" = Just "&rsaquo;"
+encodeEntity "\8649" = Just "&rrarr;"
+encodeEntity "\10770" = Just "&rppolint;"
+encodeEntity "\10644" = Just "&rpargt;"
+encodeEntity ")" = Just "&rpar;"
+encodeEntity "\10805" = Just "&rotimes;"
+encodeEntity "\10798" = Just "&roplus;"
+encodeEntity "\10630" = Just "&ropar;"
+encodeEntity "\10215" = Just "&robrk;"
+encodeEntity "\8702" = Just "&roarr;"
+encodeEntity "\10221" = Just "&roang;"
+encodeEntity "\10990" = Just "&rnmid;"
+encodeEntity "\9137" = Just "&rmoustache;"
+encodeEntity "\8207" = Just "&rlm;"
+encodeEntity "\8652" = Just "&rlhar;"
+encodeEntity "\8644" = Just "&rlarr;"
+encodeEntity "\8787" = Just "&risingdotseq;"
+encodeEntity "\730" = Just "&ring;"
+encodeEntity "\8605" = Just "&rightsquigarrow;"
+encodeEntity "\8640" = Just "&rightharpoonup;"
+encodeEntity "\8641" = Just "&rightharpoondown;"
+encodeEntity "\8611" = Just "&rightarrowtail;"
+encodeEntity "\961" = Just "&rho;"
+encodeEntity "\10604" = Just "&rharul;"
+encodeEntity "\8971" = Just "&rfloor;"
+encodeEntity "\10621" = Just "&rfisht;"
+encodeEntity "\174" = Just "&reg;"
+encodeEntity "\9645" = Just "&rect;"
+encodeEntity "\8477" = Just "&reals;"
+encodeEntity "\8476" = Just "&realpart;"
+encodeEntity "\8475" = Just "&realine;"
+encodeEntity "\8627" = Just "&rdsh;"
+encodeEntity "\8221" = Just "&rdquor;"
+encodeEntity "\10601" = Just "&rdldhar;"
+encodeEntity "\10551" = Just "&rdca;"
+encodeEntity "\1088" = Just "&rcy;"
+encodeEntity "}" = Just "&rcub;"
+encodeEntity "\8969" = Just "&rceil;"
+encodeEntity "\343" = Just "&rcedil;"
+encodeEntity "\345" = Just "&rcaron;"
+encodeEntity "\10640" = Just "&rbrkslu;"
+encodeEntity "\10638" = Just "&rbrksld;"
+encodeEntity "\10636" = Just "&rbrke;"
+encodeEntity "\10099" = Just "&rbbrk;"
+encodeEntity "\10509" = Just "&rbarr;"
+encodeEntity "\8474" = Just "&rationals;"
+encodeEntity "\8758" = Just "&ratio;"
+encodeEntity "\10522" = Just "&ratail;"
+encodeEntity "\10612" = Just "&rarrsim;"
+encodeEntity "\10565" = Just "&rarrpl;"
+encodeEntity "\8620" = Just "&rarrlp;"
+encodeEntity "\8618" = Just "&rarrhk;"
+encodeEntity "\10526" = Just "&rarrfs;"
+encodeEntity "\10547" = Just "&rarrc;"
+encodeEntity "\10528" = Just "&rarrbfs;"
+encodeEntity "\8677" = Just "&rarrb;"
+encodeEntity "\10613" = Just "&rarrap;"
+encodeEntity "\187" = Just "&raquo;"
+encodeEntity "\10217" = Just "&rangle;"
+encodeEntity "\10661" = Just "&range;"
+encodeEntity "\10642" = Just "&rangd;"
+encodeEntity "\10675" = Just "&raemptyv;"
+encodeEntity "\8730" = Just "&radic;"
+encodeEntity "\341" = Just "&racute;"
+encodeEntity "\8765\817" = Just "&race;"
+encodeEntity "\10596" = Just "&rHar;"
+encodeEntity "\10511" = Just "&rBarr;"
+encodeEntity "\10524" = Just "&rAtail;"
+encodeEntity "\8658" = Just "&rArr;"
+encodeEntity "\8667" = Just "&rAarr;"
+encodeEntity "\"" = Just "&quot;"
+encodeEntity "\8799" = Just "&questeq;"
+encodeEntity "?" = Just "&quest;"
+encodeEntity "\10774" = Just "&quatint;"
+encodeEntity "\8461" = Just "&quaternions;"
+encodeEntity "\8279" = Just "&qprime;"
+encodeEntity "\10764" = Just "&qint;"
+encodeEntity "\8200" = Just "&puncsp;"
+encodeEntity "\968" = Just "&psi;"
+encodeEntity "\8880" = Just "&prurel;"
+encodeEntity "\8830" = Just "&prsim;"
+encodeEntity "\8979" = Just "&profsurf;"
+encodeEntity "\8978" = Just "&profline;"
+encodeEntity "\9006" = Just "&profalar;"
+encodeEntity "\8719" = Just "&prod;"
+encodeEntity "\8936" = Just "&prnsim;"
+encodeEntity "\10937" = Just "&prnap;"
+encodeEntity "\10933" = Just "&prnE;"
+encodeEntity "\8473" = Just "&primes;"
+encodeEntity "\8242" = Just "&prime;"
+encodeEntity "\10927" = Just "&preceq;"
+encodeEntity "\8828" = Just "&preccurlyeq;"
+encodeEntity "\10935" = Just "&precapprox;"
+encodeEntity "\8826" = Just "&prec;"
+encodeEntity "\10931" = Just "&prE;"
+encodeEntity "\163" = Just "&pound;"
+encodeEntity "\10773" = Just "&pointint;"
+encodeEntity "\177" = Just "&pm;"
+encodeEntity "\10791" = Just "&plustwo;"
+encodeEntity "\10790" = Just "&plussim;"
+encodeEntity "\10866" = Just "&pluse;"
+encodeEntity "\10789" = Just "&plusdu;"
+encodeEntity "\8724" = Just "&plusdo;"
+encodeEntity "\10786" = Just "&pluscir;"
+encodeEntity "\8862" = Just "&plusb;"
+encodeEntity "\10787" = Just "&plusacir;"
+encodeEntity "+" = Just "&plus;"
+encodeEntity "\8463" = Just "&plankv;"
+encodeEntity "\8462" = Just "&planckh;"
+encodeEntity "\8916" = Just "&pitchfork;"
+encodeEntity "\960" = Just "&pi;"
+encodeEntity "\9742" = Just "&phone;"
+encodeEntity "\8499" = Just "&phmmat;"
+encodeEntity "\966" = Just "&phi;"
+encodeEntity "\8241" = Just "&pertenk;"
+encodeEntity "\8869" = Just "&perp;"
+encodeEntity "\8240" = Just "&permil;"
+encodeEntity "." = Just "&period;"
+encodeEntity "%" = Just "&percnt;"
+encodeEntity "\1087" = Just "&pcy;"
+encodeEntity "\8706" = Just "&part;"
+encodeEntity "\11005" = Just "&parsl;"
+encodeEntity "\10995" = Just "&parsim;"
+encodeEntity "\182" = Just "&para;"
+encodeEntity "\9021" = Just "&ovbar;"
+encodeEntity "\246" = Just "&ouml;"
+encodeEntity "\10806" = Just "&otimesas;"
+encodeEntity "\8855" = Just "&otimes;"
+encodeEntity "\245" = Just "&otilde;"
+encodeEntity "\8856" = Just "&osol;"
+encodeEntity "\248" = Just "&oslash;"
+encodeEntity "\8500" = Just "&oscr;"
+encodeEntity "\10843" = Just "&orv;"
+encodeEntity "\10839" = Just "&orslope;"
+encodeEntity "\10838" = Just "&oror;"
+encodeEntity "\8886" = Just "&origof;"
+encodeEntity "\186" = Just "&ordm;"
+encodeEntity "\170" = Just "&ordf;"
+encodeEntity "\10845" = Just "&ord;"
+encodeEntity "\8635" = Just "&orarr;"
+encodeEntity "\8853" = Just "&oplus;"
+encodeEntity "\10681" = Just "&operp;"
+encodeEntity "\10679" = Just "&opar;"
+encodeEntity "\8854" = Just "&ominus;"
+encodeEntity "\10678" = Just "&omid;"
+encodeEntity "\959" = Just "&omicron;"
+encodeEntity "\969" = Just "&omega;"
+encodeEntity "\333" = Just "&omacr;"
+encodeEntity "\10688" = Just "&olt;"
+encodeEntity "\8254" = Just "&oline;"
+encodeEntity "\10683" = Just "&olcross;"
+encodeEntity "\10686" = Just "&olcir;"
+encodeEntity "\8634" = Just "&olarr;"
+encodeEntity "\8750" = Just "&oint;"
+encodeEntity "\937" = Just "&ohm;"
+encodeEntity "\10677" = Just "&ohbar;"
+encodeEntity "\10689" = Just "&ogt;"
+encodeEntity "\242" = Just "&ograve;"
+encodeEntity "\731" = Just "&ogon;"
+encodeEntity "\10687" = Just "&ofcir;"
+encodeEntity "\339" = Just "&oelig;"
+encodeEntity "\10684" = Just "&odsold;"
+encodeEntity "\8857" = Just "&odot;"
+encodeEntity "\10808" = Just "&odiv;"
+encodeEntity "\337" = Just "&odblac;"
+encodeEntity "\8861" = Just "&odash;"
+encodeEntity "\1086" = Just "&ocy;"
+encodeEntity "\244" = Just "&ocirc;"
+encodeEntity "\8858" = Just "&ocir;"
+encodeEntity "\8859" = Just "&oast;"
+encodeEntity "\243" = Just "&oacute;"
+encodeEntity "\9416" = Just "&oS;"
+encodeEntity "\10535" = Just "&nwnear;"
+encodeEntity "\8598" = Just "&nwarrow;"
+encodeEntity "\10531" = Just "&nwarhk;"
+encodeEntity "\8662" = Just "&nwArr;"
+encodeEntity "\8764\8402" = Just "&nvsim;"
+encodeEntity "\8885\8402" = Just "&nvrtrie;"
+encodeEntity "\10499" = Just "&nvrArr;"
+encodeEntity "\8884\8402" = Just "&nvltrie;"
+encodeEntity "<\8402" = Just "&nvlt;"
+encodeEntity "\8804\8402" = Just "&nvle;"
+encodeEntity "\10498" = Just "&nvlArr;"
+encodeEntity "\10718" = Just "&nvinfin;"
+encodeEntity ">\8402" = Just "&nvgt;"
+encodeEntity "\8805\8402" = Just "&nvge;"
+encodeEntity "\8876" = Just "&nvdash;"
+encodeEntity "\8781\8402" = Just "&nvap;"
+encodeEntity "\10500" = Just "&nvHarr;"
+encodeEntity "\8877" = Just "&nvDash;"
+encodeEntity "\8199" = Just "&numsp;"
+encodeEntity "\8470" = Just "&numero;"
+encodeEntity "#" = Just "&num;"
+encodeEntity "\957" = Just "&nu;"
+encodeEntity "\8941" = Just "&ntrianglerighteq;"
+encodeEntity "\8939" = Just "&ntriangleright;"
+encodeEntity "\8940" = Just "&ntrianglelefteq;"
+encodeEntity "\8938" = Just "&ntriangleleft;"
+encodeEntity "\8824" = Just "&ntlg;"
+encodeEntity "\241" = Just "&ntilde;"
+encodeEntity "\8825" = Just "&ntgl;"
+encodeEntity "\10950\824" = Just "&nsupseteqq;"
+encodeEntity "\8841" = Just "&nsupseteq;"
+encodeEntity "\8837" = Just "&nsup;"
+encodeEntity "\10928\824" = Just "&nsucceq;"
+encodeEntity "\8833" = Just "&nsucc;"
+encodeEntity "\10949\824" = Just "&nsubseteqq;"
+encodeEntity "\8840" = Just "&nsubseteq;"
+encodeEntity "\8836" = Just "&nsub;"
+encodeEntity "\8931" = Just "&nsqsupe;"
+encodeEntity "\8930" = Just "&nsqsube;"
+encodeEntity "\8742" = Just "&nspar;"
+encodeEntity "\8740" = Just "&nsmid;"
+encodeEntity "\8772" = Just "&nsimeq;"
+encodeEntity "\8769" = Just "&nsim;"
+encodeEntity "\8929" = Just "&nsccue;"
+encodeEntity "\8603" = Just "&nrightarrow;"
+encodeEntity "\8605\824" = Just "&nrarrw;"
+encodeEntity "\10547\824" = Just "&nrarrc;"
+encodeEntity "\8655" = Just "&nrArr;"
+encodeEntity "\10927\824" = Just "&npreceq;"
+encodeEntity "\8832" = Just "&nprec;"
+encodeEntity "\8928" = Just "&nprcue;"
+encodeEntity "\10772" = Just "&npolint;"
+encodeEntity "\8706\824" = Just "&npart;"
+encodeEntity "\11005\8421" = Just "&nparsl;"
+encodeEntity "\8957" = Just "&notnivc;"
+encodeEntity "\8958" = Just "&notnivb;"
+encodeEntity "\8716" = Just "&notniva;"
+encodeEntity "\8950" = Just "&notinvc;"
+encodeEntity "\8951" = Just "&notinvb;"
+encodeEntity "\8713" = Just "&notinva;"
+encodeEntity "\8949\824" = Just "&notindot;"
+encodeEntity "\8953\824" = Just "&notinE;"
+encodeEntity "\172" = Just "&not;"
+encodeEntity "\8814" = Just "&nlt;"
+encodeEntity "\8820" = Just "&nlsim;"
+encodeEntity "\10877\824" = Just "&nles;"
+encodeEntity "\8806\824" = Just "&nleqq;"
+encodeEntity "\8816" = Just "&nleq;"
+encodeEntity "\8622" = Just "&nleftrightarrow;"
+encodeEntity "\8602" = Just "&nleftarrow;"
+encodeEntity "\8229" = Just "&nldr;"
+encodeEntity "\8653" = Just "&nlArr;"
+encodeEntity "\1114" = Just "&njcy;"
+encodeEntity "\8715" = Just "&niv;"
+encodeEntity "\8954" = Just "&nisd;"
+encodeEntity "\8956" = Just "&nis;"
+encodeEntity "\10994" = Just "&nhpar;"
+encodeEntity "\8654" = Just "&nhArr;"
+encodeEntity "\8815" = Just "&ngtr;"
+encodeEntity "\8821" = Just "&ngsim;"
+encodeEntity "\10878\824" = Just "&nges;"
+encodeEntity "\8807\824" = Just "&ngeqq;"
+encodeEntity "\8817" = Just "&ngeq;"
+encodeEntity "\8708" = Just "&nexists;"
+encodeEntity "\8770\824" = Just "&nesim;"
+encodeEntity "\8802" = Just "&nequiv;"
+encodeEntity "\8784\824" = Just "&nedot;"
+encodeEntity "\8599" = Just "&nearrow;"
+encodeEntity "\10532" = Just "&nearhk;"
+encodeEntity "\8663" = Just "&neArr;"
+encodeEntity "\8800" = Just "&ne;"
+encodeEntity "\8211" = Just "&ndash;"
+encodeEntity "\1085" = Just "&ncy;"
+encodeEntity "\10818" = Just "&ncup;"
+encodeEntity "\10861\824" = Just "&ncongdot;"
+encodeEntity "\8775" = Just "&ncong;"
+encodeEntity "\326" = Just "&ncedil;"
+encodeEntity "\328" = Just "&ncaron;"
+encodeEntity "\10819" = Just "&ncap;"
+encodeEntity "\8783\824" = Just "&nbumpe;"
+encodeEntity "\8782\824" = Just "&nbump;"
+encodeEntity "\160" = Just "&nbsp;"
+encodeEntity "\8469" = Just "&naturals;"
+encodeEntity "\9838" = Just "&natural;"
+encodeEntity "\8777" = Just "&napprox;"
+encodeEntity "\329" = Just "&napos;"
+encodeEntity "\8779\824" = Just "&napid;"
+encodeEntity "\10864\824" = Just "&napE;"
+encodeEntity "\8736\8402" = Just "&nang;"
+encodeEntity "\324" = Just "&nacute;"
+encodeEntity "\8711" = Just "&nabla;"
+encodeEntity "\8878" = Just "&nVdash;"
+encodeEntity "\8879" = Just "&nVDash;"
+encodeEntity "\8810\824" = Just "&nLtv;"
+encodeEntity "\8810\8402" = Just "&nLt;"
+encodeEntity "\8920\824" = Just "&nLl;"
+encodeEntity "\8811\824" = Just "&nGtv;"
+encodeEntity "\8811\8402" = Just "&nGt;"
+encodeEntity "\8921\824" = Just "&nGg;"
+encodeEntity "\8888" = Just "&mumap;"
+encodeEntity "\956" = Just "&mu;"
+encodeEntity "\8766" = Just "&mstpos;"
+encodeEntity "\8723" = Just "&mp;"
+encodeEntity "\8871" = Just "&models;"
+encodeEntity "\8230" = Just "&mldr;"
+encodeEntity "\10971" = Just "&mlcp;"
+encodeEntity "\10794" = Just "&minusdu;"
+encodeEntity "\8760" = Just "&minusd;"
+encodeEntity "\8863" = Just "&minusb;"
+encodeEntity "\8722" = Just "&minus;"
+encodeEntity "\183" = Just "&middot;"
+encodeEntity "\10992" = Just "&midcir;"
+encodeEntity "*" = Just "&midast;"
+encodeEntity "\181" = Just "&micro;"
+encodeEntity "\8487" = Just "&mho;"
+encodeEntity "\8737" = Just "&measuredangle;"
+encodeEntity "\8212" = Just "&mdash;"
+encodeEntity "\1084" = Just "&mcy;"
+encodeEntity "\10793" = Just "&mcomma;"
+encodeEntity "\9646" = Just "&marker;"
+encodeEntity "\8613" = Just "&mapstoup;"
+encodeEntity "\8612" = Just "&mapstoleft;"
+encodeEntity "\8615" = Just "&mapstodown;"
+encodeEntity "\8614" = Just "&mapsto;"
+encodeEntity "\10016" = Just "&maltese;"
+encodeEntity "\9794" = Just "&male;"
+encodeEntity "\8762" = Just "&mDDot;"
+encodeEntity "\8808\65024" = Just "&lvnE;"
+encodeEntity "\10598" = Just "&luruhar;"
+encodeEntity "\10570" = Just "&lurdshar;"
+encodeEntity "\9666" = Just "&ltrif;"
+encodeEntity "\10646" = Just "&ltrPar;"
+encodeEntity "\10875" = Just "&ltquest;"
+encodeEntity "\10614" = Just "&ltlarr;"
+encodeEntity "\8905" = Just "&ltimes;"
+encodeEntity "\8907" = Just "&lthree;"
+encodeEntity "\8918" = Just "&ltdot;"
+encodeEntity "\10873" = Just "&ltcir;"
+encodeEntity "\10918" = Just "&ltcc;"
+encodeEntity "<" = Just "&lt;"
+encodeEntity "\322" = Just "&lstrok;"
+encodeEntity "\8216" = Just "&lsquo;"
+encodeEntity "[" = Just "&lsqb;"
+encodeEntity "\10895" = Just "&lsimg;"
+encodeEntity "\10893" = Just "&lsime;"
+encodeEntity "\8818" = Just "&lsim;"
+encodeEntity "\8624" = Just "&lsh;"
+encodeEntity "\8249" = Just "&lsaquo;"
+encodeEntity "\8895" = Just "&lrtri;"
+encodeEntity "\8206" = Just "&lrm;"
+encodeEntity "\10605" = Just "&lrhard;"
+encodeEntity "\8651" = Just "&lrhar;"
+encodeEntity "\8991" = Just "&lrcorner;"
+encodeEntity "\8646" = Just "&lrarr;"
+encodeEntity "\10643" = Just "&lparlt;"
+encodeEntity "(" = Just "&lpar;"
+encodeEntity "\10731" = Just "&lozf;"
+encodeEntity "\9674" = Just "&lozenge;"
+encodeEntity "_" = Just "&lowbar;"
+encodeEntity "\8727" = Just "&lowast;"
+encodeEntity "\10804" = Just "&lotimes;"
+encodeEntity "\10797" = Just "&loplus;"
+encodeEntity "\10629" = Just "&lopar;"
+encodeEntity "\8619" = Just "&looparrowleft;"
+encodeEntity "\10214" = Just "&lobrk;"
+encodeEntity "\8701" = Just "&loarr;"
+encodeEntity "\10220" = Just "&loang;"
+encodeEntity "\8934" = Just "&lnsim;"
+encodeEntity "\8808" = Just "&lneqq;"
+encodeEntity "\10887" = Just "&lneq;"
+encodeEntity "\10889" = Just "&lnapprox;"
+encodeEntity "\9136" = Just "&lmoustache;"
+encodeEntity "\320" = Just "&lmidot;"
+encodeEntity "\9722" = Just "&lltri;"
+encodeEntity "\10603" = Just "&llhard;"
+encodeEntity "\8990" = Just "&llcorner;"
+encodeEntity "\8647" = Just "&llarr;"
+encodeEntity "\8810" = Just "&ll;"
+encodeEntity "\1113" = Just "&ljcy;"
+encodeEntity "\9604" = Just "&lhblk;"
+encodeEntity "\10602" = Just "&lharul;"
+encodeEntity "\8636" = Just "&lharu;"
+encodeEntity "\8637" = Just "&lhard;"
+encodeEntity "\10897" = Just "&lgE;"
+encodeEntity "\8822" = Just "&lg;"
+encodeEntity "\8970" = Just "&lfloor;"
+encodeEntity "\10620" = Just "&lfisht;"
+encodeEntity "\10891" = Just "&lesseqqgtr;"
+encodeEntity "\8922" = Just "&lesseqgtr;"
+encodeEntity "\10885" = Just "&lessapprox;"
+encodeEntity "\10899" = Just "&lesges;"
+encodeEntity "\8922\65024" = Just "&lesg;"
+encodeEntity "\10883" = Just "&lesdotor;"
+encodeEntity "\10881" = Just "&lesdoto;"
+encodeEntity "\10879" = Just "&lesdot;"
+encodeEntity "\10920" = Just "&lescc;"
+encodeEntity "\10877" = Just "&les;"
+encodeEntity "\8806" = Just "&leqq;"
+encodeEntity "\8804" = Just "&leq;"
+encodeEntity "\8621" = Just "&leftrightsquigarrow;"
+encodeEntity "\8596" = Just "&leftrightarrow;"
+encodeEntity "\8610" = Just "&leftarrowtail;"
+encodeEntity "\8626" = Just "&ldsh;"
+encodeEntity "\10571" = Just "&ldrushar;"
+encodeEntity "\10599" = Just "&ldrdhar;"
+encodeEntity "\8222" = Just "&ldquor;"
+encodeEntity "\8220" = Just "&ldquo;"
+encodeEntity "\10550" = Just "&ldca;"
+encodeEntity "\1083" = Just "&lcy;"
+encodeEntity "{" = Just "&lcub;"
+encodeEntity "\8968" = Just "&lceil;"
+encodeEntity "\316" = Just "&lcedil;"
+encodeEntity "\318" = Just "&lcaron;"
+encodeEntity "\10637" = Just "&lbrkslu;"
+encodeEntity "\10639" = Just "&lbrksld;"
+encodeEntity "\10635" = Just "&lbrke;"
+encodeEntity "\10098" = Just "&lbbrk;"
+encodeEntity "\10508" = Just "&lbarr;"
+encodeEntity "\10925\65024" = Just "&lates;"
+encodeEntity "\10925" = Just "&late;"
+encodeEntity "\10521" = Just "&latail;"
+encodeEntity "\10923" = Just "&lat;"
+encodeEntity "\10611" = Just "&larrsim;"
+encodeEntity "\10553" = Just "&larrpl;"
+encodeEntity "\8617" = Just "&larrhk;"
+encodeEntity "\10525" = Just "&larrfs;"
+encodeEntity "\10527" = Just "&larrbfs;"
+encodeEntity "\8676" = Just "&larrb;"
+encodeEntity "\171" = Just "&laquo;"
+encodeEntity "\10216" = Just "&langle;"
+encodeEntity "\10641" = Just "&langd;"
+encodeEntity "\955" = Just "&lambda;"
+encodeEntity "\8466" = Just "&lagran;"
+encodeEntity "\10676" = Just "&laemptyv;"
+encodeEntity "\314" = Just "&lacute;"
+encodeEntity "\10594" = Just "&lHar;"
+encodeEntity "\10510" = Just "&lBarr;"
+encodeEntity "\10523" = Just "&lAtail;"
+encodeEntity "\8656" = Just "&lArr;"
+encodeEntity "\8666" = Just "&lAarr;"
+encodeEntity "\1116" = Just "&kjcy;"
+encodeEntity "\1093" = Just "&khcy;"
+encodeEntity "\312" = Just "&kgreen;"
+encodeEntity "\1082" = Just "&kcy;"
+encodeEntity "\311" = Just "&kcedil;"
+encodeEntity "\954" = Just "&kappa;"
+encodeEntity "\1108" = Just "&jukcy;"
+encodeEntity "\1112" = Just "&jsercy;"
+encodeEntity "\567" = Just "&jmath;"
+encodeEntity "\1081" = Just "&jcy;"
+encodeEntity "\309" = Just "&jcirc;"
+encodeEntity "\239" = Just "&iuml;"
+encodeEntity "\1110" = Just "&iukcy;"
+encodeEntity "\297" = Just "&itilde;"
+encodeEntity "\8290" = Just "&it;"
+encodeEntity "\8712" = Just "&isinv;"
+encodeEntity "\8947" = Just "&isinsv;"
+encodeEntity "\8948" = Just "&isins;"
+encodeEntity "\8949" = Just "&isindot;"
+encodeEntity "\8953" = Just "&isinE;"
+encodeEntity "\191" = Just "&iquest;"
+encodeEntity "\10812" = Just "&iprod;"
+encodeEntity "\953" = Just "&iota;"
+encodeEntity "\303" = Just "&iogon;"
+encodeEntity "\1105" = Just "&iocy;"
+encodeEntity "\10775" = Just "&intlarhk;"
+encodeEntity "\8890" = Just "&intercal;"
+encodeEntity "\8484" = Just "&integers;"
+encodeEntity "\8747" = Just "&int;"
+encodeEntity "\305" = Just "&inodot;"
+encodeEntity "\10717" = Just "&infintie;"
+encodeEntity "\8734" = Just "&infin;"
+encodeEntity "\8453" = Just "&incare;"
+encodeEntity "\437" = Just "&imped;"
+encodeEntity "\8887" = Just "&imof;"
+encodeEntity "\8465" = Just "&imagpart;"
+encodeEntity "\8464" = Just "&imagline;"
+encodeEntity "\299" = Just "&imacr;"
+encodeEntity "\307" = Just "&ijlig;"
+encodeEntity "\8489" = Just "&iiota;"
+encodeEntity "\10716" = Just "&iinfin;"
+encodeEntity "\8520" = Just "&ii;"
+encodeEntity "\236" = Just "&igrave;"
+encodeEntity "\8660" = Just "&iff;"
+encodeEntity "\161" = Just "&iexcl;"
+encodeEntity "\1077" = Just "&iecy;"
+encodeEntity "\1080" = Just "&icy;"
+encodeEntity "\238" = Just "&icirc;"
+encodeEntity "\8291" = Just "&ic;"
+encodeEntity "\237" = Just "&iacute;"
+encodeEntity "\8208" = Just "&hyphen;"
+encodeEntity "\8259" = Just "&hybull;"
+encodeEntity "\295" = Just "&hstrok;"
+encodeEntity "\8213" = Just "&horbar;"
+encodeEntity "\8763" = Just "&homtht;"
+encodeEntity "\8703" = Just "&hoarr;"
+encodeEntity "\8889" = Just "&hercon;"
+encodeEntity "\9829" = Just "&heartsuit;"
+encodeEntity "\293" = Just "&hcirc;"
+encodeEntity "\10568" = Just "&harrcir;"
+encodeEntity "\1098" = Just "&hardcy;"
+encodeEntity "\8459" = Just "&hamilt;"
+encodeEntity "\189" = Just "&half;"
+encodeEntity "\8202" = Just "&hairsp;"
+encodeEntity "\8809\65024" = Just "&gvnE;"
+encodeEntity "\8819" = Just "&gtrsim;"
+encodeEntity "\8823" = Just "&gtrless;"
+encodeEntity "\10892" = Just "&gtreqqless;"
+encodeEntity "\8923" = Just "&gtreqless;"
+encodeEntity "\8919" = Just "&gtrdot;"
+encodeEntity "\10616" = Just "&gtrarr;"
+encodeEntity "\10886" = Just "&gtrapprox;"
+encodeEntity "\10876" = Just "&gtquest;"
+encodeEntity "\10645" = Just "&gtlPar;"
+encodeEntity "\10874" = Just "&gtcir;"
+encodeEntity "\10919" = Just "&gtcc;"
+encodeEntity ">" = Just "&gt;"
+encodeEntity "\10896" = Just "&gsiml;"
+encodeEntity "\10894" = Just "&gsime;"
+encodeEntity "\8458" = Just "&gscr;"
+encodeEntity "`" = Just "&grave;"
+encodeEntity "\8935" = Just "&gnsim;"
+encodeEntity "\8809" = Just "&gneqq;"
+encodeEntity "\10888" = Just "&gneq;"
+encodeEntity "\10890" = Just "&gnapprox;"
+encodeEntity "\10916" = Just "&glj;"
+encodeEntity "\10917" = Just "&gla;"
+encodeEntity "\10898" = Just "&glE;"
+encodeEntity "\1107" = Just "&gjcy;"
+encodeEntity "\8503" = Just "&gimel;"
+encodeEntity "\8921" = Just "&ggg;"
+encodeEntity "\8811" = Just "&gg;"
+encodeEntity "\10900" = Just "&gesles;"
+encodeEntity "\8923\65024" = Just "&gesl;"
+encodeEntity "\10884" = Just "&gesdotol;"
+encodeEntity "\10882" = Just "&gesdoto;"
+encodeEntity "\10880" = Just "&gesdot;"
+encodeEntity "\10921" = Just "&gescc;"
+encodeEntity "\10878" = Just "&ges;"
+encodeEntity "\8807" = Just "&geqq;"
+encodeEntity "\8805" = Just "&geq;"
+encodeEntity "\289" = Just "&gdot;"
+encodeEntity "\1075" = Just "&gcy;"
+encodeEntity "\285" = Just "&gcirc;"
+encodeEntity "\287" = Just "&gbreve;"
+encodeEntity "\989" = Just "&gammad;"
+encodeEntity "\947" = Just "&gamma;"
+encodeEntity "\501" = Just "&gacute;"
+encodeEntity "\8260" = Just "&frasl;"
+encodeEntity "\8542" = Just "&frac78;"
+encodeEntity "\8541" = Just "&frac58;"
+encodeEntity "\8538" = Just "&frac56;"
+encodeEntity "\8536" = Just "&frac45;"
+encodeEntity "\8540" = Just "&frac38;"
+encodeEntity "\8535" = Just "&frac35;"
+encodeEntity "\190" = Just "&frac34;"
+encodeEntity "\8534" = Just "&frac25;"
+encodeEntity "\8532" = Just "&frac23;"
+encodeEntity "\8539" = Just "&frac18;"
+encodeEntity "\8537" = Just "&frac16;"
+encodeEntity "\8533" = Just "&frac15;"
+encodeEntity "\188" = Just "&frac14;"
+encodeEntity "\8531" = Just "&frac13;"
+encodeEntity "\10765" = Just "&fpartint;"
+encodeEntity "\10969" = Just "&forkv;"
+encodeEntity "\8704" = Just "&forall;"
+encodeEntity "\402" = Just "&fnof;"
+encodeEntity "\9649" = Just "&fltns;"
+encodeEntity "\64258" = Just "&fllig;"
+encodeEntity "\9837" = Just "&flat;"
+encodeEntity "fj" = Just "&fjlig;"
+encodeEntity "\64257" = Just "&filig;"
+encodeEntity "\64260" = Just "&ffllig;"
+encodeEntity "\64256" = Just "&fflig;"
+encodeEntity "\64259" = Just "&ffilig;"
+encodeEntity "\9792" = Just "&female;"
+encodeEntity "\1092" = Just "&fcy;"
+encodeEntity "\8786" = Just "&fallingdotseq;"
+encodeEntity "\8519" = Just "&exponentiale;"
+encodeEntity "\8496" = Just "&expectation;"
+encodeEntity "\8707" = Just "&exist;"
+encodeEntity "!" = Just "&excl;"
+encodeEntity "\8364" = Just "&euro;"
+encodeEntity "\235" = Just "&euml;"
+encodeEntity "\240" = Just "&eth;"
+encodeEntity "\951" = Just "&eta;"
+encodeEntity "\8770" = Just "&esim;"
+encodeEntity "\8784" = Just "&esdot;"
+encodeEntity "\8495" = Just "&escr;"
+encodeEntity "\10609" = Just "&erarr;"
+encodeEntity "\10725" = Just "&eqvparsl;"
+encodeEntity "\10872" = Just "&equivDD;"
+encodeEntity "\8801" = Just "&equiv;"
+encodeEntity "=" = Just "&equals;"
+encodeEntity "\10901" = Just "&eqslantless;"
+encodeEntity "\10902" = Just "&eqslantgtr;"
+encodeEntity "\8789" = Just "&eqcolon;"
+encodeEntity "\8790" = Just "&eqcirc;"
+encodeEntity "\949" = Just "&epsilon;"
+encodeEntity "\10865" = Just "&eplus;"
+encodeEntity "\10723" = Just "&eparsl;"
+encodeEntity "\8917" = Just "&epar;"
+encodeEntity "\281" = Just "&eogon;"
+encodeEntity "\8194" = Just "&ensp;"
+encodeEntity "\331" = Just "&eng;"
+encodeEntity "\8195" = Just "&emsp;"
+encodeEntity "\8197" = Just "&emsp14;"
+encodeEntity "\8196" = Just "&emsp13;"
+encodeEntity "\275" = Just "&emacr;"
+encodeEntity "\10903" = Just "&elsdot;"
+encodeEntity "\8467" = Just "&ell;"
+encodeEntity "\9191" = Just "&elinters;"
+encodeEntity "\10905" = Just "&el;"
+encodeEntity "\10904" = Just "&egsdot;"
+encodeEntity "\232" = Just "&egrave;"
+encodeEntity "\10906" = Just "&eg;"
+encodeEntity "\279" = Just "&edot;"
+encodeEntity "\1101" = Just "&ecy;"
+encodeEntity "\234" = Just "&ecirc;"
+encodeEntity "\283" = Just "&ecaron;"
+encodeEntity "\10862" = Just "&easter;"
+encodeEntity "\233" = Just "&eacute;"
+encodeEntity "\8785" = Just "&eDot;"
+encodeEntity "\10871" = Just "&eDDot;"
+encodeEntity "\10239" = Just "&dzigrarr;"
+encodeEntity "\1119" = Just "&dzcy;"
+encodeEntity "\10662" = Just "&dwangle;"
+encodeEntity "\10607" = Just "&duhar;"
+encodeEntity "\8693" = Just "&duarr;"
+encodeEntity "\9662" = Just "&dtrif;"
+encodeEntity "\8945" = Just "&dtdot;"
+encodeEntity "\273" = Just "&dstrok;"
+encodeEntity "\10742" = Just "&dsol;"
+encodeEntity "\1109" = Just "&dscy;"
+encodeEntity "\8972" = Just "&drcrop;"
+encodeEntity "\10512" = Just "&drbkarow;"
+encodeEntity "\8642" = Just "&downharpoonright;"
+encodeEntity "\8643" = Just "&downharpoonleft;"
+encodeEntity "\8650" = Just "&downdownarrows;"
+encodeEntity "\8595" = Just "&downarrow;"
+encodeEntity "\8966" = Just "&doublebarwedge;"
+encodeEntity "\729" = Just "&dot;"
+encodeEntity "$" = Just "&dollar;"
+encodeEntity "\8973" = Just "&dlcrop;"
+encodeEntity "\1106" = Just "&djcy;"
+encodeEntity "\8903" = Just "&divonx;"
+encodeEntity "\247" = Just "&divide;"
+encodeEntity "\8946" = Just "&disin;"
+encodeEntity "\9830" = Just "&diams;"
+encodeEntity "\8900" = Just "&diamond;"
+encodeEntity "\10623" = Just "&dfisht;"
+encodeEntity "\10673" = Just "&demptyv;"
+encodeEntity "\948" = Just "&delta;"
+encodeEntity "\176" = Just "&deg;"
+encodeEntity "\8225" = Just "&ddagger;"
+encodeEntity "\8518" = Just "&dd;"
+encodeEntity "\1076" = Just "&dcy;"
+encodeEntity "\271" = Just "&dcaron;"
+encodeEntity "\733" = Just "&dblac;"
+encodeEntity "\8867" = Just "&dashv;"
+encodeEntity "\8504" = Just "&daleth;"
+encodeEntity "\8224" = Just "&dagger;"
+encodeEntity "\10597" = Just "&dHar;"
+encodeEntity "\8659" = Just "&dArr;"
+encodeEntity "\9005" = Just "&cylcty;"
+encodeEntity "\8753" = Just "&cwint;"
+encodeEntity "\8754" = Just "&cwconint;"
+encodeEntity "\8911" = Just "&cuwed;"
+encodeEntity "\8910" = Just "&cuvee;"
+encodeEntity "\8631" = Just "&curvearrowright;"
+encodeEntity "\8630" = Just "&curvearrowleft;"
+encodeEntity "\164" = Just "&curren;"
+encodeEntity "\8927" = Just "&curlyeqsucc;"
+encodeEntity "\8926" = Just "&curlyeqprec;"
+encodeEntity "\10556" = Just "&curarrm;"
+encodeEntity "\8746\65024" = Just "&cups;"
+encodeEntity "\10821" = Just "&cupor;"
+encodeEntity "\8845" = Just "&cupdot;"
+encodeEntity "\10826" = Just "&cupcup;"
+encodeEntity "\10822" = Just "&cupcap;"
+encodeEntity "\10824" = Just "&cupbrcap;"
+encodeEntity "\8746" = Just "&cup;"
+encodeEntity "\10557" = Just "&cularrp;"
+encodeEntity "\10549" = Just "&cudarrr;"
+encodeEntity "\10552" = Just "&cudarrl;"
+encodeEntity "\8943" = Just "&ctdot;"
+encodeEntity "\10962" = Just "&csupe;"
+encodeEntity "\10960" = Just "&csup;"
+encodeEntity "\10961" = Just "&csube;"
+encodeEntity "\10959" = Just "&csub;"
+encodeEntity "\10007" = Just "&cross;"
+encodeEntity "\8629" = Just "&crarr;"
+encodeEntity "\8471" = Just "&copysr;"
+encodeEntity "\169" = Just "&copy;"
+encodeEntity "\8720" = Just "&coprod;"
+encodeEntity "\10861" = Just "&congdot;"
+encodeEntity "\8773" = Just "&cong;"
+encodeEntity "\8450" = Just "&complexes;"
+encodeEntity "\8705" = Just "&complement;"
+encodeEntity "\8728" = Just "&compfn;"
+encodeEntity "@" = Just "&commat;"
+encodeEntity "," = Just "&comma;"
+encodeEntity "\8788" = Just "&coloneq;"
+encodeEntity ":" = Just "&colon;"
+encodeEntity "\9827" = Just "&clubsuit;"
+encodeEntity "\10690" = Just "&cirscir;"
+encodeEntity "\10991" = Just "&cirmid;"
+encodeEntity "\10768" = Just "&cirfnint;"
+encodeEntity "\8791" = Just "&cire;"
+encodeEntity "\710" = Just "&circ;"
+encodeEntity "\10691" = Just "&cirE;"
+encodeEntity "\9675" = Just "&cir;"
+encodeEntity "\967" = Just "&chi;"
+encodeEntity "\10003" = Just "&checkmark;"
+encodeEntity "\1095" = Just "&chcy;"
+encodeEntity "\162" = Just "&cent;"
+encodeEntity "\10674" = Just "&cemptyv;"
+encodeEntity "\184" = Just "&cedil;"
+encodeEntity "\267" = Just "&cdot;"
+encodeEntity "\10832" = Just "&ccupssm;"
+encodeEntity "\10828" = Just "&ccups;"
+encodeEntity "\265" = Just "&ccirc;"
+encodeEntity "\231" = Just "&ccedil;"
+encodeEntity "\269" = Just "&ccaron;"
+encodeEntity "\10829" = Just "&ccaps;"
+encodeEntity "\711" = Just "&caron;"
+encodeEntity "\8257" = Just "&caret;"
+encodeEntity "\8745\65024" = Just "&caps;"
+encodeEntity "\10816" = Just "&capdot;"
+encodeEntity "\10823" = Just "&capcup;"
+encodeEntity "\10827" = Just "&capcap;"
+encodeEntity "\10825" = Just "&capbrcup;"
+encodeEntity "\10820" = Just "&capand;"
+encodeEntity "\8745" = Just "&cap;"
+encodeEntity "\263" = Just "&cacute;"
+encodeEntity "\8783" = Just "&bumpeq;"
+encodeEntity "\10926" = Just "&bumpE;"
+encodeEntity "\8782" = Just "&bump;"
+encodeEntity "\8226" = Just "&bullet;"
+encodeEntity "\10184" = Just "&bsolhsub;"
+encodeEntity "\10693" = Just "&bsolb;"
+encodeEntity "\\" = Just "&bsol;"
+encodeEntity "\8909" = Just "&bsime;"
+encodeEntity "\8765" = Just "&bsim;"
+encodeEntity "\8271" = Just "&bsemi;"
+encodeEntity "\166" = Just "&brvbar;"
+encodeEntity "\728" = Just "&breve;"
+encodeEntity "\8245" = Just "&bprime;"
+encodeEntity "\9500" = Just "&boxvr;"
+encodeEntity "\9508" = Just "&boxvl;"
+encodeEntity "\9532" = Just "&boxvh;"
+encodeEntity "\9566" = Just "&boxvR;"
+encodeEntity "\9569" = Just "&boxvL;"
+encodeEntity "\9578" = Just "&boxvH;"
+encodeEntity "\9474" = Just "&boxv;"
+encodeEntity "\9492" = Just "&boxur;"
+encodeEntity "\9496" = Just "&boxul;"
+encodeEntity "\9560" = Just "&boxuR;"
+encodeEntity "\9563" = Just "&boxuL;"
+encodeEntity "\9524" = Just "&boxhu;"
+encodeEntity "\9516" = Just "&boxhd;"
+encodeEntity "\9576" = Just "&boxhU;"
+encodeEntity "\9573" = Just "&boxhD;"
+encodeEntity "\9472" = Just "&boxh;"
+encodeEntity "\9484" = Just "&boxdr;"
+encodeEntity "\9488" = Just "&boxdl;"
+encodeEntity "\9554" = Just "&boxdR;"
+encodeEntity "\9557" = Just "&boxdL;"
+encodeEntity "\10697" = Just "&boxbox;"
+encodeEntity "\9567" = Just "&boxVr;"
+encodeEntity "\9570" = Just "&boxVl;"
+encodeEntity "\9579" = Just "&boxVh;"
+encodeEntity "\9568" = Just "&boxVR;"
+encodeEntity "\9571" = Just "&boxVL;"
+encodeEntity "\9580" = Just "&boxVH;"
+encodeEntity "\9553" = Just "&boxV;"
+encodeEntity "\9561" = Just "&boxUr;"
+encodeEntity "\9564" = Just "&boxUl;"
+encodeEntity "\9562" = Just "&boxUR;"
+encodeEntity "\9565" = Just "&boxUL;"
+encodeEntity "\9575" = Just "&boxHu;"
+encodeEntity "\9572" = Just "&boxHd;"
+encodeEntity "\9577" = Just "&boxHU;"
+encodeEntity "\9574" = Just "&boxHD;"
+encodeEntity "\9552" = Just "&boxH;"
+encodeEntity "\9555" = Just "&boxDr;"
+encodeEntity "\9558" = Just "&boxDl;"
+encodeEntity "\9556" = Just "&boxDR;"
+encodeEntity "\9559" = Just "&boxDL;"
+encodeEntity "\8904" = Just "&bowtie;"
+encodeEntity "\8976" = Just "&bnot;"
+encodeEntity "\8801\8421" = Just "&bnequiv;"
+encodeEntity "=\8421" = Just "&bne;"
+encodeEntity "\9608" = Just "&block;"
+encodeEntity "\9619" = Just "&blk34;"
+encodeEntity "\9617" = Just "&blk14;"
+encodeEntity "\9618" = Just "&blk12;"
+encodeEntity "\9251" = Just "&blank;"
+encodeEntity "\8502" = Just "&beth;"
+encodeEntity "\946" = Just "&beta;"
+encodeEntity "\8492" = Just "&bernou;"
+encodeEntity "\1014" = Just "&bepsi;"
+encodeEntity "\10672" = Just "&bemptyv;"
+encodeEntity "\8757" = Just "&because;"
+encodeEntity "\1073" = Just "&bcy;"
+encodeEntity "\8780" = Just "&bcong;"
+encodeEntity "\9142" = Just "&bbrktbrk;"
+encodeEntity "\9141" = Just "&bbrk;"
+encodeEntity "\8965" = Just "&barwedge;"
+encodeEntity "\8893" = Just "&barvee;"
+encodeEntity "\10989" = Just "&bNot;"
+encodeEntity "\10769" = Just "&awint;"
+encodeEntity "\8755" = Just "&awconint;"
+encodeEntity "\228" = Just "&auml;"
+encodeEntity "\227" = Just "&atilde;"
+encodeEntity "\8781" = Just "&asympeq;"
+encodeEntity "\229" = Just "&aring;"
+encodeEntity "\8778" = Just "&approxeq;"
+encodeEntity "'" = Just "&apos;"
+encodeEntity "\8779" = Just "&apid;"
+encodeEntity "\10863" = Just "&apacir;"
+encodeEntity "\10864" = Just "&apE;"
+encodeEntity "\261" = Just "&aogon;"
+encodeEntity "\9084" = Just "&angzarr;"
+encodeEntity "\197" = Just "&angst;"
+encodeEntity "\8738" = Just "&angsph;"
+encodeEntity "\10653" = Just "&angrtvbd;"
+encodeEntity "\8894" = Just "&angrtvb;"
+encodeEntity "\8735" = Just "&angrt;"
+encodeEntity "\10671" = Just "&angmsdah;"
+encodeEntity "\10670" = Just "&angmsdag;"
+encodeEntity "\10669" = Just "&angmsdaf;"
+encodeEntity "\10668" = Just "&angmsdae;"
+encodeEntity "\10667" = Just "&angmsdad;"
+encodeEntity "\10666" = Just "&angmsdac;"
+encodeEntity "\10665" = Just "&angmsdab;"
+encodeEntity "\10664" = Just "&angmsdaa;"
+encodeEntity "\8736" = Just "&angle;"
+encodeEntity "\10660" = Just "&ange;"
+encodeEntity "\10842" = Just "&andv;"
+encodeEntity "\10840" = Just "&andslope;"
+encodeEntity "\10844" = Just "&andd;"
+encodeEntity "\10837" = Just "&andand;"
+encodeEntity "&" = Just "&amp;"
+encodeEntity "\10815" = Just "&amalg;"
+encodeEntity "\257" = Just "&amacr;"
+encodeEntity "\945" = Just "&alpha;"
+encodeEntity "\8501" = Just "&aleph;"
+encodeEntity "\224" = Just "&agrave;"
+encodeEntity "\8289" = Just "&af;"
+encodeEntity "\230" = Just "&aelig;"
+encodeEntity "\1072" = Just "&acy;"
+encodeEntity "\180" = Just "&acute;"
+encodeEntity "\226" = Just "&acirc;"
+encodeEntity "\8767" = Just "&acd;"
+encodeEntity "\8766\819" = Just "&acE;"
+encodeEntity "\259" = Just "&abreve;"
+encodeEntity "\225" = Just "&aacute;"
+encodeEntity "\918" = Just "&Zeta;"
+encodeEntity "\8203" = Just "&ZeroWidthSpace;"
+encodeEntity "\379" = Just "&Zdot;"
+encodeEntity "\1047" = Just "&Zcy;"
+encodeEntity "\381" = Just "&Zcaron;"
+encodeEntity "\377" = Just "&Zacute;"
+encodeEntity "\1046" = Just "&ZHcy;"
+encodeEntity "\376" = Just "&Yuml;"
+encodeEntity "\1067" = Just "&Ycy;"
+encodeEntity "\374" = Just "&Ycirc;"
+encodeEntity "\221" = Just "&Yacute;"
+encodeEntity "\1070" = Just "&YUcy;"
+encodeEntity "\1031" = Just "&YIcy;"
+encodeEntity "\1071" = Just "&YAcy;"
+encodeEntity "\926" = Just "&Xi;"
+encodeEntity "\372" = Just "&Wcirc;"
+encodeEntity "\8874" = Just "&Vvdash;"
+encodeEntity "\10072" = Just "&VerticalSeparator;"
+encodeEntity "\8214" = Just "&Vert;"
+encodeEntity "\10982" = Just "&Vdashl;"
+encodeEntity "\8873" = Just "&Vdash;"
+encodeEntity "\1042" = Just "&Vcy;"
+encodeEntity "\10987" = Just "&Vbar;"
+encodeEntity "\8875" = Just "&VDash;"
+encodeEntity "\220" = Just "&Uuml;"
+encodeEntity "\360" = Just "&Utilde;"
+encodeEntity "\366" = Just "&Uring;"
+encodeEntity "\933" = Just "&Upsilon;"
+encodeEntity "\10514" = Just "&UpArrowBar;"
+encodeEntity "\370" = Just "&Uogon;"
+encodeEntity "\9181" = Just "&UnderParenthesis;"
+encodeEntity "\9183" = Just "&UnderBrace;"
+encodeEntity "\362" = Just "&Umacr;"
+encodeEntity "\217" = Just "&Ugrave;"
+encodeEntity "\368" = Just "&Udblac;"
+encodeEntity "\1059" = Just "&Ucy;"
+encodeEntity "\219" = Just "&Ucirc;"
+encodeEntity "\364" = Just "&Ubreve;"
+encodeEntity "\1038" = Just "&Ubrcy;"
+encodeEntity "\10569" = Just "&Uarrocir;"
+encodeEntity "\8607" = Just "&Uarr;"
+encodeEntity "\218" = Just "&Uacute;"
+encodeEntity "\358" = Just "&Tstrok;"
+encodeEntity "\8287\8202" = Just "&ThickSpace;"
+encodeEntity "\920" = Just "&Theta;"
+encodeEntity "\1058" = Just "&Tcy;"
+encodeEntity "\354" = Just "&Tcedil;"
+encodeEntity "\356" = Just "&Tcaron;"
+encodeEntity "\932" = Just "&Tau;"
+encodeEntity "\t" = Just "&Tab;"
+encodeEntity "\1062" = Just "&TScy;"
+encodeEntity "\1035" = Just "&TSHcy;"
+encodeEntity "\222" = Just "&THORN;"
+encodeEntity "\8913" = Just "&Supset;"
+encodeEntity "\8912" = Just "&Subset;"
+encodeEntity "\931" = Just "&Sigma;"
+encodeEntity "\1057" = Just "&Scy;"
+encodeEntity "\348" = Just "&Scirc;"
+encodeEntity "\350" = Just "&Scedil;"
+encodeEntity "\352" = Just "&Scaron;"
+encodeEntity "\10940" = Just "&Sc;"
+encodeEntity "\346" = Just "&Sacute;"
+encodeEntity "\1068" = Just "&SOFTcy;"
+encodeEntity "\1064" = Just "&SHcy;"
+encodeEntity "\1065" = Just "&SHCHcy;"
+encodeEntity "\10740" = Just "&RuleDelayed;"
+encodeEntity "\10608" = Just "&RoundImplies;"
+encodeEntity "\10579" = Just "&RightVectorBar;"
+encodeEntity "\10580" = Just "&RightUpVectorBar;"
+encodeEntity "\10588" = Just "&RightUpTeeVector;"
+encodeEntity "\10575" = Just "&RightUpDownVector;"
+encodeEntity "\10704" = Just "&RightTriangleBar;"
+encodeEntity "\10587" = Just "&RightTeeVector;"
+encodeEntity "\10581" = Just "&RightDownVectorBar;"
+encodeEntity "\10589" = Just "&RightDownTeeVector;"
+encodeEntity "\929" = Just "&Rho;"
+encodeEntity "\1056" = Just "&Rcy;"
+encodeEntity "\342" = Just "&Rcedil;"
+encodeEntity "\344" = Just "&Rcaron;"
+encodeEntity "\10518" = Just "&Rarrtl;"
+encodeEntity "\10219" = Just "&Rang;"
+encodeEntity "\340" = Just "&Racute;"
+encodeEntity "\936" = Just "&Psi;"
+encodeEntity "\8759" = Just "&Proportion;"
+encodeEntity "\8243" = Just "&Prime;"
+encodeEntity "\10939" = Just "&Pr;"
+encodeEntity "\8460" = Just "&Poincareplane;"
+encodeEntity "\928" = Just "&Pi;"
+encodeEntity "\934" = Just "&Phi;"
+encodeEntity "\1055" = Just "&Pcy;"
+encodeEntity "\9180" = Just "&OverParenthesis;"
+encodeEntity "\9182" = Just "&OverBrace;"
+encodeEntity "\214" = Just "&Ouml;"
+encodeEntity "\10807" = Just "&Otimes;"
+encodeEntity "\213" = Just "&Otilde;"
+encodeEntity "\216" = Just "&Oslash;"
+encodeEntity "\10836" = Just "&Or;"
+encodeEntity "\927" = Just "&Omicron;"
+encodeEntity "\332" = Just "&Omacr;"
+encodeEntity "\210" = Just "&Ograve;"
+encodeEntity "\336" = Just "&Odblac;"
+encodeEntity "\1054" = Just "&Ocy;"
+encodeEntity "\212" = Just "&Ocirc;"
+encodeEntity "\211" = Just "&Oacute;"
+encodeEntity "\338" = Just "&OElig;"
+encodeEntity "\925" = Just "&Nu;"
+encodeEntity "\209" = Just "&Ntilde;"
+encodeEntity "\8831\824" = Just "&NotSucceedsTilde;"
+encodeEntity "\8848\824" = Just "&NotSquareSuperset;"
+encodeEntity "\8847\824" = Just "&NotSquareSubset;"
+encodeEntity "\10704\824" = Just "&NotRightTriangleBar;"
+encodeEntity "\10913\824" = Just "&NotNestedLessLess;"
+encodeEntity "\10914\824" = Just "&NotNestedGreaterGreater;"
+encodeEntity "\10703\824" = Just "&NotLeftTriangleBar;"
+encodeEntity "\8813" = Just "&NotCupCap;"
+encodeEntity "\10988" = Just "&Not;"
+encodeEntity "\8288" = Just "&NoBreak;"
+encodeEntity "\n" = Just "&NewLine;"
+encodeEntity "\1053" = Just "&Ncy;"
+encodeEntity "\325" = Just "&Ncedil;"
+encodeEntity "\327" = Just "&Ncaron;"
+encodeEntity "\323" = Just "&Nacute;"
+encodeEntity "\1034" = Just "&NJcy;"
+encodeEntity "\924" = Just "&Mu;"
+encodeEntity "\8287" = Just "&MediumSpace;"
+encodeEntity "\1052" = Just "&Mcy;"
+encodeEntity "\10501" = Just "&Map;"
+encodeEntity "\321" = Just "&Lstrok;"
+encodeEntity "\319" = Just "&Lmidot;"
+encodeEntity "\8920" = Just "&Ll;"
+encodeEntity "\10913" = Just "&LessLess;"
+encodeEntity "\10578" = Just "&LeftVectorBar;"
+encodeEntity "\10584" = Just "&LeftUpVectorBar;"
+encodeEntity "\10592" = Just "&LeftUpTeeVector;"
+encodeEntity "\10577" = Just "&LeftUpDownVector;"
+encodeEntity "\10703" = Just "&LeftTriangleBar;"
+encodeEntity "\10586" = Just "&LeftTeeVector;"
+encodeEntity "\10574" = Just "&LeftRightVector;"
+encodeEntity "\10585" = Just "&LeftDownVectorBar;"
+encodeEntity "\10593" = Just "&LeftDownTeeVector;"
+encodeEntity "\1051" = Just "&Lcy;"
+encodeEntity "\315" = Just "&Lcedil;"
+encodeEntity "\317" = Just "&Lcaron;"
+encodeEntity "\10218" = Just "&Lang;"
+encodeEntity "\923" = Just "&Lambda;"
+encodeEntity "\313" = Just "&Lacute;"
+encodeEntity "\1033" = Just "&LJcy;"
+encodeEntity "\1050" = Just "&Kcy;"
+encodeEntity "\310" = Just "&Kcedil;"
+encodeEntity "\922" = Just "&Kappa;"
+encodeEntity "\1036" = Just "&KJcy;"
+encodeEntity "\1061" = Just "&KHcy;"
+encodeEntity "\1028" = Just "&Jukcy;"
+encodeEntity "\1032" = Just "&Jsercy;"
+encodeEntity "\1049" = Just "&Jcy;"
+encodeEntity "\308" = Just "&Jcirc;"
+encodeEntity "\207" = Just "&Iuml;"
+encodeEntity "\1030" = Just "&Iukcy;"
+encodeEntity "\296" = Just "&Itilde;"
+encodeEntity "\921" = Just "&Iota;"
+encodeEntity "\302" = Just "&Iogon;"
+encodeEntity "\8748" = Just "&Int;"
+encodeEntity "\298" = Just "&Imacr;"
+encodeEntity "\204" = Just "&Igrave;"
+encodeEntity "\304" = Just "&Idot;"
+encodeEntity "\1048" = Just "&Icy;"
+encodeEntity "\206" = Just "&Icirc;"
+encodeEntity "\205" = Just "&Iacute;"
+encodeEntity "\1025" = Just "&IOcy;"
+encodeEntity "\306" = Just "&IJlig;"
+encodeEntity "\1045" = Just "&IEcy;"
+encodeEntity "\294" = Just "&Hstrok;"
+encodeEntity "\292" = Just "&Hcirc;"
+encodeEntity "^" = Just "&Hat;"
+encodeEntity "\1066" = Just "&HARDcy;"
+encodeEntity "\10914" = Just "&GreaterGreater;"
+encodeEntity "\288" = Just "&Gdot;"
+encodeEntity "\1043" = Just "&Gcy;"
+encodeEntity "\284" = Just "&Gcirc;"
+encodeEntity "\290" = Just "&Gcedil;"
+encodeEntity "\286" = Just "&Gbreve;"
+encodeEntity "\988" = Just "&Gammad;"
+encodeEntity "\915" = Just "&Gamma;"
+encodeEntity "\1027" = Just "&GJcy;"
+encodeEntity "\8497" = Just "&Fscr;"
+encodeEntity "\9724" = Just "&FilledSmallSquare;"
+encodeEntity "\1060" = Just "&Fcy;"
+encodeEntity "\203" = Just "&Euml;"
+encodeEntity "\919" = Just "&Eta;"
+encodeEntity "\10867" = Just "&Esim;"
+encodeEntity "\10869" = Just "&Equal;"
+encodeEntity "\917" = Just "&Epsilon;"
+encodeEntity "\280" = Just "&Eogon;"
+encodeEntity "\9643" = Just "&EmptyVerySmallSquare;"
+encodeEntity "\9723" = Just "&EmptySmallSquare;"
+encodeEntity "\274" = Just "&Emacr;"
+encodeEntity "\200" = Just "&Egrave;"
+encodeEntity "\278" = Just "&Edot;"
+encodeEntity "\1069" = Just "&Ecy;"
+encodeEntity "\202" = Just "&Ecirc;"
+encodeEntity "\282" = Just "&Ecaron;"
+encodeEntity "\201" = Just "&Eacute;"
+encodeEntity "\208" = Just "&ETH;"
+encodeEntity "\330" = Just "&ENG;"
+encodeEntity "\272" = Just "&Dstrok;"
+encodeEntity "\10583" = Just "&DownRightVectorBar;"
+encodeEntity "\10591" = Just "&DownRightTeeVector;"
+encodeEntity "\10582" = Just "&DownLeftVectorBar;"
+encodeEntity "\10590" = Just "&DownLeftTeeVector;"
+encodeEntity "\10576" = Just "&DownLeftRightVector;"
+encodeEntity "\785" = Just "&DownBreve;"
+encodeEntity "\10515" = Just "&DownArrowBar;"
+encodeEntity "\10980" = Just "&DoubleLeftTee;"
+encodeEntity "\8751" = Just "&DoubleContourIntegral;"
+encodeEntity "\8412" = Just "&DotDot;"
+encodeEntity "\916" = Just "&Delta;"
+encodeEntity "\1044" = Just "&Dcy;"
+encodeEntity "\270" = Just "&Dcaron;"
+encodeEntity "\8609" = Just "&Darr;"
+encodeEntity "\1039" = Just "&DZcy;"
+encodeEntity "\1029" = Just "&DScy;"
+encodeEntity "\1026" = Just "&DJcy;"
+encodeEntity "\10513" = Just "&DDotrahd;"
+encodeEntity "\8517" = Just "&DD;"
+encodeEntity "\8915" = Just "&Cup;"
+encodeEntity "\10799" = Just "&Cross;"
+encodeEntity "\10868" = Just "&Colone;"
+encodeEntity "\935" = Just "&Chi;"
+encodeEntity "\8493" = Just "&Cfr;"
+encodeEntity "\266" = Just "&Cdot;"
+encodeEntity "\8752" = Just "&Cconint;"
+encodeEntity "\264" = Just "&Ccirc;"
+encodeEntity "\199" = Just "&Ccedil;"
+encodeEntity "\268" = Just "&Ccaron;"
+encodeEntity "\8914" = Just "&Cap;"
+encodeEntity "\262" = Just "&Cacute;"
+encodeEntity "\1063" = Just "&CHcy;"
+encodeEntity "\914" = Just "&Beta;"
+encodeEntity "\1041" = Just "&Bcy;"
+encodeEntity "\10983" = Just "&Barv;"
+encodeEntity "\196" = Just "&Auml;"
+encodeEntity "\195" = Just "&Atilde;"
+encodeEntity "\260" = Just "&Aogon;"
+encodeEntity "\10835" = Just "&And;"
+encodeEntity "\256" = Just "&Amacr;"
+encodeEntity "\913" = Just "&Alpha;"
+encodeEntity "\192" = Just "&Agrave;"
+encodeEntity "\1040" = Just "&Acy;"
+encodeEntity "\194" = Just "&Acirc;"
+encodeEntity "\258" = Just "&Abreve;"
+encodeEntity "\193" = Just "&Aacute;"
+encodeEntity "\198" = Just "&AElig;"
+
+encodeEntity _ = Nothing

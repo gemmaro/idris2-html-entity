@@ -17,3 +17,7 @@ c:
 i:
 	idris2 --install html-entity.ipkg
 .PHONY: i
+
+p:
+	pijul push ${REPOS_URI}:/repos/idris2-html-entity.pijul
+.PHONY: p

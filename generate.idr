@@ -17,12 +17,13 @@ url = "https://html.spec.whatwg.org/entities.json"
 
 data Flow = Continue | Exit
 
-data Level = Err | Info
+data Level = Err | Warn | Info
 
 %name Level level
 
 implementation Show Level where
   show Err  = "err"
+  show Warn = "warn"
   show Info = "info"
 
 log : Level -> (message : String) -> IO ()
@@ -56,7 +57,12 @@ path = "src/Language/HTML/Entity/Data.idr"
 write : String -> IO ()
 write = ignore . appendFile path . (+> '\n')
 
-showEntity : (String, JSON) -> IO (Flow, Maybe String)
+record Entry where
+  constructor MkEntry
+  idrisName, html, characters : String
+  codepoints : List Nat
+
+showEntity : (String, JSON) -> IO (Flow, Maybe Entry)
 showEntity (key, JObject value) = do
   let Just entity := Entity.parse key
     | Nothing => do log Err "Failed to parse entity at \{key}"
@@ -66,6 +72,9 @@ showEntity (key, JObject value) = do
                     pure (Exit, Nothing)
     | Just _ => do log Err "Characters must be string at \{key}"
                    pure (Exit, Nothing)
+  let False := '\NUL' `elem` (unpack characters)
+    | True => do log Warn "Characters contains null at \{key}"
+                 pure (Continue, Nothing)
   let Just codepoints := lookup "codepoints" value
     | Nothing => do log Err "Failed to look up codepoints at \{key}"
                     pure (Exit, Nothing)
@@ -79,16 +88,22 @@ showEntity (key, JObject value) = do
     \{idrisName} = MkEntry \{show key} \{show characters} \{show codepoints} \{show entity.name}
 
     """
-  pure (Continue, Just idrisName)
+  pure (Continue, Just (MkEntry idrisName key characters codepoints))
 showEntity (key, value) = do
   log Err "Entity value (at key \{key}) must be object: \{show value}"
   pure (Exit, Nothing)
 
-forWithFlow : Monad f => List String -> List a -> (a -> f (Flow, Maybe String)) -> f (List String)
-forWithFlow names [] _ = pure names
-forWithFlow names (x :: xs) g = do
-  (Continue, Just name) <- g x | _ => pure names
-  forWithFlow (name :: names) xs g
+forWithFlow : Monad f
+            => List Entry
+            -> List a
+            -> (a -> f (Flow, Maybe Entry))
+            -> f (List Entry)
+forWithFlow entries [] _ = pure entries
+forWithFlow entries (x :: xs) g = do
+  (Continue, Just entry) <- g x
+    | (Continue, Nothing) => forWithFlow entries xs g
+    | (Exit, _) => pure entries
+  forWithFlow (entry :: entries) xs g
 
 main : IO ()
 main = do
@@ -117,11 +132,26 @@ main = do
     | Just _ => log Err "Top level type must be object, mustn't be?"
     | Nothing => log Err "Failed to parse JSON file"
   entries <- forWithFlow [] entities showEntity
-  let entries := joinBy "\n  , " $ reverse entries
+  let idrisNames := joinBy "\n  , " $ reverse $ map idrisName entries
   write """
     export
     entries : List Entry
     entries =
-      [ \{entries}
+      [ \{idrisNames}
       ]
+    
+    export
+    decodeEntity : String -> Maybe String
+    """
+  let entries := nubBy (\left, right => left.characters == right.characters) $ filter (\entry => ";" `isSuffixOf` entry.html) entries
+  write $ unlines $ map (\entry => "decodeEntity \{show entry.html} = Just \{show entry.characters}") entries
+  write """
+    decodeEntity _ = Nothing
+
+    export    
+    encodeEntity : String -> Maybe String
+    """
+  write $ unlines $ map (\entry => "encodeEntity \{show entry.characters} = Just \{show entry.html}") entries
+  write """
+    encodeEntity _ = Nothing
     """

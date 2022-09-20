@@ -1,5 +1,5 @@
 package html-entity
-version = 0.1.1
+version = 0.2.0
 authors = "gemmaro"
 maintainers = "gemmaro"
 license = "MIT"
